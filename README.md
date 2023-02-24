@@ -1,8 +1,8 @@
 # Wilayah Administrasi Indonesia
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/vermaysha/laravel-wilayah-indonesia.svg?style=flat-square)](https://packagist.org/packages/vermaysha/laravel-wilayah-indonesia)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/vermaysha/laravel-wilayah-indonesia/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/vermaysha/laravel-wilayah-indonesia/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/vermaysha/laravel-wilayah-indonesia/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/vermaysha/laravel-wilayah-indonesia/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/vermaysha/laravel-wilayah-indonesia/run-tests.yml?branch=master&label=tests&style=flat-square)](https://github.com/vermaysha/laravel-wilayah-indonesia/actions?query=workflow%3Arun-tests+branch%3Amaster)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/vermaysha/laravel-wilayah-indonesia/fix-php-code-style-issues.yml?branch=master&label=code%20style&style=flat-square)](https://github.com/vermaysha/laravel-wilayah-indonesia/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/vermaysha/laravel-wilayah-indonesia.svg?style=flat-square)](https://packagist.org/packages/vermaysha/laravel-wilayah-indonesia)
 
 Data Wilayah Administrasi Indonesia yang disusun ulang berdasarkan Provinsi, Kabupaten, Kecamatan dan Desa
