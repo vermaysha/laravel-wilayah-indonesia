@@ -1,0 +1,7266 @@
+01,01,Bakongan
+02,01,"Kluet Utara"
+03,01,"Kluet Selatan"
+04,01,"Labuhan Haji"
+05,01,Meukek
+06,01,Samadua
+07,01,Sawang
+08,01,Tapaktuan
+09,01,Trumon
+10,01,"Pasi Raja"
+11,01,"Labuhan Haji Timur"
+12,01,"Labuhan Haji Barat"
+13,01,"Kluet Tengah"
+14,01,"Kluet Timur"
+15,01,"Bakongan Timur"
+16,01,"Trumon Timur"
+17,01,"Kota Bahagia"
+18,01,"Trumon Tengah"
+01,02,"Lawe Alas"
+02,02,"Lawe Sigala-Gala"
+03,02,Bambel
+04,02,Babussalam
+05,02,Badar
+06,02,"Babul Makmur"
+07,02,"Darul Hasanah"
+08,02,"Lawe Bulan"
+09,02,"Bukit Tusam"
+10,02,Semadam
+11,02,"Babul Rahmah"
+12,02,Ketambe
+13,02,"Deleng Pokhkisen"
+14,02,"Lawe Sumur"
+15,02,"Tanoh Alas"
+16,02,Leuser
+01,03,"Darul Aman"
+02,03,Julok
+03,03,"Idi Rayeuk"
+04,03,"Birem Bayeun"
+05,03,Serbajadi
+06,03,Nurussalam
+07,03,Peureulak
+08,03,"Rantau Selamat"
+09,03,"Simpang Ulim"
+10,03,"Rantau Peureulak"
+11,03,"Pante Bidari"
+12,03,Madat
+13,03,"Indra Makmu"
+14,03,"Idi Tunong"
+15,03,"Banda Alam"
+16,03,Peudawa
+17,03,"Peureulak Timur"
+18,03,"Peureulak Barat"
+19,03,"Sungai Raya"
+20,03,"Simpang Jernih"
+21,03,"Darul Ihsan"
+22,03,"Darul Falah"
+23,03,"Idi Timur"
+24,03,Peunaron
+01,04,Linge
+02,04,"Silih Nara"
+03,04,Bebesen
+07,04,Pegasing
+08,04,Bintang
+10,04,Ketol
+11,04,Kebayakan
+12,04,"Kute Panang"
+13,04,Celala
+17,04,"Laut Tawar"
+18,04,"Atu Lintang"
+19,04,"Jagong Jeget"
+20,04,Bies
+21,04,"Rusip Antara"
+01,05,"Johan Pahwalan"
+02,05,"Kaway XVI"
+03,05,"Sungai Mas"
+04,05,Woyla
+05,05,Samatiga
+06,05,Bubon
+07,05,"Arongan Lambalek"
+08,05,"Pante Ceureumen"
+09,05,Meureubo
+10,05,"Woyla Barat"
+11,05,"Woyla Timur"
+12,05,"Panton Reu"
+01,06,Lhoong
+02,06,Lhoknga
+03,06,Indrapuri
+04,06,Seulimeum
+05,06,Montasik
+06,06,Sukamakmur
+07,06,"Darul Imarah"
+08,06,"Peukan Bada"
+09,06,"Mesjid Raya"
+10,06,"Ingin Jaya"
+11,06,"Kuta Baro"
+12,06,Darussalam
+13,06,"Pulo Aceh"
+14,06,"Lembah Seulawah"
+15,06,"Kota Jantho"
+16,06,"Kota Cot Glie"
+17,06,"Kuta Malaka"
+18,06,"Simpang Tiga"
+19,06,"Darul Kamal"
+20,06,Baitussalam
+21,06,"Krueng Barona Jaya"
+22,06,Leupung
+23,06,"Blang Bintang"
+03,07,Batee
+04,07,Delima
+05,07,Geumpang
+06,07,"Geulumpang Tiga"
+07,07,"Indra Jaya"
+08,07,"Kembang Tanjong"
+09,07,"Kota Sigli"
+11,07,Mila
+12,07,"Muara Tiga"
+13,07,Mutiara
+14,07,"Padang Tiji"
+15,07,"Peukan Baro"
+16,07,Pidie
+17,07,Sakti
+18,07,"Simpang Tiga"
+19,07,Tangse
+21,07,Tiro/Truseb
+22,07,Keumala
+24,07,"Mutiara Timur"
+25,07,Grong-grong
+27,07,Mane
+29,07,"Glumpang Baro"
+31,07,Titeue
+01,08,Baktiya
+02,08,Dewantara
+03,08,"Kuta Makmur"
+04,08,Lhoksukon
+05,08,Matangkuli
+06,08,"Muara Batu"
+07,08,"Meurah Mulia"
+08,08,Samudera
+09,08,Seunuddon
+10,08,"Syamtalira Aron"
+11,08,"Syamtalira Bayu"
+12,08,"Tanah Luas"
+13,08,"Tanah Pasir"
+14,08,"T. Jambo Aye"
+15,08,Sawang
+16,08,Nisam
+17,08,"Cot Girek"
+18,08,Langkahan
+19,08,"Baktiya Barat"
+20,08,"Paya Bakong"
+21,08,Nibong
+22,08,"Simpang Kramat"
+23,08,Lapang
+24,08,"Pirak Timur"
+25,08,"Geuredong Pase"
+26,08,"Banda Baro"
+27,08,"Nisam Antara"
+01,09,"Simeulue Tengah"
+02,09,Salang
+03,09,"Teupah Barat"
+04,09,"Simeulue Timur"
+05,09,"Teluk Dalam"
+06,09,"Simeulue Barat"
+07,09,"Teupah Selatan"
+08,09,Alapan
+09,09,"Teupah Tengah"
+10,09,"Simeulue Cut"
+01,10,"Pulau Banyak"
+02,10,"Simpang Kanan"
+04,10,Singkil
+06,10,"Gunung Meriah"
+09,10,"Kota Baharu"
+10,10,"Singkil Utara"
+11,10,"Danau Paris"
+12,10,"Suro Makmur"
+13,10,Singkohor
+14,10,"Kuala Baru"
+16,10,"Pulau Banyak Barat"
+01,11,Samalanga
+02,11,Jeunieb
+03,11,Peudada
+04,11,Jeumpa
+05,11,Peusangan
+06,11,Makmur
+07,11,Gandapura
+08,11,Pandrah
+09,11,Juli
+10,11,Jangka
+11,11,"Simpang Mamplam"
+12,11,Peulimbang
+13,11,"Kota Juang"
+14,11,Kuala
+15,11,"Peusangan Siblah Krueng"
+16,11,"Peusangan Selatan"
+17,11,"Kuta Blang"
+01,12,"Blang Pidie"
+02,12,Tangan-Tangan
+03,12,Manggeng
+04,12,Susoh
+05,12,"Kuala Batee"
+06,12,"Babah Rot"
+07,12,Setia
+08,12,Jeumpa
+09,12,"Lembah Sabil"
+01,13,Blangkejeren
+02,13,Kutapanjang
+03,13,"Rikit Gaib"
+04,13,Terangun
+05,13,Pining
+06,13,Blangpegayon
+07,13,"Puteri Betung"
+08,13,"Dabun Gelang"
+09,13,Blangjerango
+10,13,"Teripe Jaya"
+11,13,"Pantan Cuaca"
+01,14,Teunom
+02,14,"Krueng Sabee"
+03,14,"Setia Bhakti"
+04,14,Sampoiniet
+05,14,Jaya
+06,14,Panga
+07,14,"Indra Jaya"
+08,14,"Darul Hikmah"
+09,14,"Pasie Raya"
+01,15,Kuala
+02,15,Seunagan
+03,15,"Seunagan Timur"
+04,15,Beutong
+05,15,"Darul Makmur"
+06,15,"Suka Makmue"
+07,15,"Kuala Pesisir"
+08,15,"Tadu Raya"
+09,15,"Tripa Makmur"
+10,15,"Beutong Ateuh Banggalang"
+01,16,"Manyak Payed"
+02,16,Bendahara
+03,16,"Karang Baru"
+04,16,Seruway
+05,16,"Kota Kualasinpang"
+06,16,"Kejuruan Muda"
+07,16,"Tamiang Hulu"
+08,16,Rantau
+09,16,"Banda Mulia"
+10,16,"Bandar Pusaka"
+11,16,Tenggulun
+12,16,Sekerak
+01,17,"Pintu Rime Gayo"
+02,17,Permata
+03,17,"Syiah Utama"
+04,17,Bandar
+05,17,Bukit
+06,17,"Wih Pesam"
+07,17,"Timang gajah"
+08,17,"Bener Kelipah"
+09,17,Mesidah
+10,17,"Gajah Putih"
+01,18,Meureudu
+02,18,Ulim
+03,18,"Jangka Buaya"
+04,18,"Bandar Dua"
+05,18,"Meurah Dua"
+06,18,"Bandar Baru"
+07,18,Panteraja
+08,18,Trienggadeng
+01,71,Baiturrahman
+02,71,"Kuta Alam"
+03,71,Meuraxa
+04,71,"Syiah Kuala"
+05,71,"Lueng Bata"
+06,71,"Kuta Raja"
+07,71,"Banda Raya"
+08,71,"Jaya Baru"
+09,71,"Ulee Kareng"
+01,72,Sukakarya
+02,72,Sukajaya
+03,72,Sukamakmue
+01,73,"Muara Dua"
+02,73,"Banda Sakti"
+03,73,"Blang Mangat"
+04,73,"Muara Satu"
+01,74,"Langsa Timur"
+02,74,"Langsa Barat"
+03,74,"Langsa Kota"
+04,74,"Langsa Lama"
+05,74,"Langsa Baro"
+01,75,"Simpang Kiri"
+02,75,Penanggalan
+03,75,Rundeng
+04,75,"Sultan Daulat"
+05,75,Longkib
+01,01,Barus
+02,01,Sorkam
+03,01,Pandan
+04,01,Pinangsori
+05,01,Manduamas
+06,01,Kolang
+07,01,"Tapian Nauli"
+08,01,Sibabangun
+09,01,Sosorgadong
+10,01,"Sorkam Barat"
+11,01,Sirandorung
+12,01,"Andam Dewi"
+13,01,Sitahuis
+14,01,Tukka
+15,01,Badiri
+16,01,"Pasaribu Tobing"
+17,01,"Barus Utara"
+18,01,"Suka Bangun"
+19,01,Lumut
+20,01,Sarudik
+01,02,Tarutung
+02,02,"Siatas Barita"
+03,02,"Adian Koting"
+04,02,Sipoholon
+05,02,"Pahae Julu"
+06,02,"Pahae Jae"
+07,02,Simangumban
+08,02,"Purba Tua"
+09,02,Siborong-Borong
+10,02,Pagaran
+11,02,Parmonangan
+12,02,Sipahutar
+13,02,Pangaribuan
+14,02,Garoga
+15,02,Muara
+01,03,"Angkola Barat"
+02,03,"Batang Toru"
+03,03,"Angkola Timur"
+04,03,Sipirok
+05,03,"Saipar Dolok Hole"
+06,03,"Angkola Selatan"
+07,03,"Batang Angkola"
+14,03,Arse
+20,03,Marancar
+21,03,"Sayur Matinggi"
+22,03,"Aek Bilah"
+29,03,"Muara Batang Toru"
+30,03,"Tano Tombangan Angkola"
+31,03,"Angkola Sangkunur"
+32,03,"Angkola Muara Tais"
+05,04,Hiliduho
+06,04,Gido
+10,04,Idanogawo
+11,04,Bawolato
+20,04,Hiliserangkai
+21,04,Botomuzoi
+27,04,Ulugawo
+28,04,Ma'u
+29,04,Somolo-molo
+35,04,Sogae'adu
+01,05,Bahorok
+02,05,Salapian
+03,05,Kuala
+04,05,"Sei Bingei"
+05,05,Binjai
+06,05,Selesai
+07,05,Stabat
+08,05,Wampu
+09,05,Secanggang
+10,05,Hinai
+11,05,"Tanjung Pura"
+12,05,"Padang Tualang"
+13,05,Gebang
+14,05,Babalan
+15,05,"Pangkalan Susu"
+16,05,Besitang
+17,05,"Sei Lepan"
+18,05,"Berandan Barat"
+19,05,"Batang Serangan"
+20,05,"Sawit Seberang"
+21,05,Sirapit
+22,05,Kutambaru
+23,05,"Pematang Jaya"
+01,06,Kabanjahe
+02,06,Berastagi
+03,06,Barusjahe
+04,06,Tigapanah
+05,06,Merek
+06,06,Munte
+07,06,Juhar
+08,06,Tigabinanga
+09,06,Laubaleng
+10,06,Mardingding
+11,06,Payung
+12,06,"Simpang Empat"
+13,06,Kutabuluh
+14,06,"Dolat Rayat"
+15,06,Merdeka
+16,06,"Naman Teran"
+17,06,Tiganderket
+01,07,"Gunung Meriah"
+02,07,"Tanjung Morawa"
+03,07,Sibolangit
+04,07,Kutalimbaru
+05,07,"Pancur Batu"
+06,07,Namorambe
+07,07,Sibiru-biru
+08,07,"STM Hilir"
+09,07,"Bangun Purba"
+19,07,Galang
+20,07,"STM Hulu"
+21,07,Patumbak
+22,07,"Deli Tua"
+23,07,Sunggal
+24,07,"Hamparan Perak"
+25,07,"Labuhan Deli"
+26,07,"Percut Sei Tuan"
+27,07,"Batang Kuis"
+28,07,"Lubuk Pakam"
+31,07,"Pagar Merbau"
+32,07,"Pantai Labu"
+33,07,Beringin
+01,08,Siantar
+02,08,"Gunung Malela"
+03,08,"Gunung Maligas"
+04,08,Panei
+05,08,"Panombeian Pane"
+06,08,"Jorlang Hataran"
+07,08,"Raya Kahean"
+08,08,"Bosar Maligas"
+09,08,Sidamanik
+10,08,"Pematang Sidamanik"
+11,08,"Tanah Jawa"
+12,08,Hatonduhan
+13,08,"Dolok Panribuan"
+14,08,Purba
+15,08,"Haranggaol Horison"
+16,08,"Girsang Sipangan Bolon"
+17,08,"Dolok Batu Nanggar"
+18,08,"Huta Bayu Raja"
+19,08,"Jawa Maraja Bah Jambi"
+20,08,"Dolok Pardamean"
+21,08,"Pematang Bandar"
+22,08,"Bandar Huluan"
+23,08,Bandar
+24,08,"Bandar Masilam"
+25,08,Silimakuta
+26,08,"Dolok Silau"
+27,08,"Silou Kahean"
+28,08,"Tapian Dolok"
+29,08,Raya
+30,08,"Ujung Padang"
+31,08,"Pamatang Silima Huta"
+32,08,"Dolog Masagal"
+08,09,Meranti
+09,09,"Air Joman"
+10,09,"Tanjung Balai"
+11,09,"Sei Kepayang"
+12,09,"Simpang Empat"
+13,09,"Air Batu"
+14,09,"Pulau Rakyat"
+15,09,"Bandar Pulau"
+16,09,"Buntu Pane"
+17,09,"Bandar Pasir Mandoge"
+18,09,"Aek Kuasan"
+19,09,"Kota Kisaran Barat"
+20,09,"Kota Kisaran Timur"
+21,09,"Aek Songsongan"
+22,09,Rahunig
+23,09,"Sei Dadap"
+24,09,"Sei Kepayang Barat"
+25,09,"Sei Kepayang Timur"
+26,09,"Tinggi Raja"
+27,09,"Setia Janji"
+28,09,"Silau Laut"
+29,09,"Rawang Panca Arga"
+30,09,"Pulo Bandring"
+31,09,"Teluk Dalam"
+32,09,"Aek Ledong"
+01,10,"Rantau Utara"
+02,10,"Rantau Selatan"
+07,10,"Bilah Barat"
+08,10,"Bilah Hilir"
+09,10,"Bilah Hulu"
+14,10,Pangkatan
+18,10,"Panai Tengah"
+19,10,"Panai Hilir"
+20,10,"Panai Hulu"
+01,11,Sidikalang
+02,11,Sumbul
+03,11,Tigalingga
+04,11,"Siempat Nempu"
+05,11,"Silima Pungga Pungga"
+06,11,"Tanah Pinem"
+07,11,"Siempat Nempu Hulu"
+08,11,"Siempat Nempu Hilir"
+09,11,"Pegagan Hilir"
+10,11,Parbuluan
+11,11,"Lae Parira"
+12,11,"Gunung Sitember"
+13,11,Berampu
+14,11,Silahisabungan
+15,11,Sitinjo
+01,12,Balige
+02,12,Laguboti
+03,12,Silaen
+04,12,Habinsaran
+05,12,"Pintu Pohan Meranti"
+06,12,Borbor
+07,12,Porsea
+08,12,Ajibata
+09,12,"Lumban Julu"
+10,12,Uluan
+19,12,Sigumpar
+20,12,"Siantar Narumonda"
+21,12,Nassau
+22,12,Tampahan
+23,12,"Bonatua Lunasi"
+24,12,Parmaksian
+01,13,Panyabungan
+02,13,"Panyabungan Utara"
+03,13,"Panyabungan Timur"
+04,13,"Panyabungan Selatan"
+05,13,"Panyabungan Barat"
+06,13,Siabu
+07,13,"Bukit Malintang"
+08,13,Kotanopan
+09,13,"Lembah Sorik Marapi"
+10,13,Tambangan
+11,13,"Ulu Pungkut"
+12,13,"Muara Sipongi"
+13,13,"Batang Natal"
+14,13,"Lingga Bayu"
+15,13,Batahan
+16,13,Natal
+17,13,"Muara Batang Gadis"
+18,13,"Ranto Baek"
+19,13,"Huta Bargot"
+20,13,"Puncak Sorik Marapi"
+21,13,Pakantan
+22,13,Sinunukan
+23,13,"Naga Juang"
+01,14,Lolomatua
+02,14,Gomo
+03,14,Lahusa
+04,14,Hibala
+05,14,"Pulau-Pulau Batu"
+06,14,"Teluk Dalam"
+07,14,Amandraya
+08,14,Lolowau
+09,14,Susua
+10,14,Maniamolo
+11,14,Hilimegai
+12,14,Toma
+13,14,Mazino
+14,14,Umbunasi
+15,14,Aramo
+16,14,"Pulau-Pulau Batu Timur"
+17,14,Mazo
+18,14,Fanayama
+19,14,Ulunoyo
+20,14,Huruna
+21,14,O'o'u
+22,14,Onohazumba
+23,14,Hilisalawa'ahe
+24,14,Ulususua
+25,14,Sidua'ori
+26,14,Somambawa
+27,14,Boronadu
+28,14,Simuk
+29,14,"Pulau-Pulau Batu Barat"
+30,14,"Pulau-Pulau Batu Utara"
+31,14,"Tanah Masa"
+32,14,"Luahagundre Maniamolo"
+33,14,Onolalu
+34,14,"Ulu Idanotae"
+35,14,Idanotae
+01,15,"Sitelu Tali Urang Jehe"
+02,15,Kerajaan
+03,15,Salak
+04,15,"Sitelu Tali Urang Julu"
+05,15,"Pergetteng Getteng Sengkut"
+06,15,Pagindar
+07,15,Tinada
+08,15,"Siempat Rube"
+01,16,Parlilitan
+02,16,Pollung
+03,16,Baktiraja
+04,16,Paranginan
+05,16,"Lintong Nihuta"
+06,16,"Dolok Sanggul"
+07,16,Sijamapolang
+08,16,"Onan Ganjang"
+09,16,Pakkat
+10,16,Tarabintang
+01,17,Simanindo
+02,17,"Onan Runggu"
+03,17,Nainggolan
+04,17,Palipi
+05,17,Harian
+06,17,"Sianjar Mula Mula"
+07,17,"Ronggur Nihuta"
+08,17,Pangururan
+09,17,Sitio-tio
+01,18,"Pantai Cermin"
+02,18,Perbaungan
+03,18,"Teluk Mengkudu"
+04,18,"Sei Rampah"
+05,18,"Tanjung Beringin"
+06,18,"Bandar Khalipah"
+07,18,"Dolok Merawan"
+08,18,Sipispis
+09,18,"Dolok Masihul"
+10,18,Kotarih
+11,18,Silinda
+12,18,"Serba Jadi"
+13,18,"Tebing Tinggi"
+14,18,Pegajahan
+15,18,"Sei Bamban"
+16,18,"Tebing Syahbandar"
+17,18,"Bintang Bayu"
+01,19,"Medang Deras"
+02,19,"Sei Suka"
+03,19,"Air Putih"
+04,19,"Lima Puluh"
+05,19,Talawi
+06,19,"Tanjung Tiram"
+07,19,"Sei Balai"
+08,19,"Laut Tador"
+09,19,"Lima Puluh Pesisir"
+10,19,"Datuk Lima Puluh"
+11,19,"Datuk Tanah Datar"
+12,19,"Nibung Hangus"
+01,20,"Dolok Sigompulon"
+02,20,Dolok
+03,20,Halongonan
+04,20,"Padang Bolak"
+05,20,"Padang Bolak Julu"
+06,20,Portibi
+07,20,"Batang Onang"
+08,20,Simangambat
+09,20,"Hulu Sihapas"
+10,20,"Padang Bolak Tenggara"
+11,20,"Halongonan Timur"
+12,20,"Ujung Batu"
+01,21,Sosopan
+02,21,"Barumun Tengah"
+03,21,Huristak
+04,21,"Lubuk Barumun"
+05,21,"Huta Raja Tinggi"
+06,21,"Ulu Barumun"
+07,21,Barumun
+08,21,Sosa
+09,21,"Batang Lubu Sutam"
+10,21,"Barumun Selatan"
+11,21,"Aek Nabara Barumun"
+12,21,"Sihapas Barumun"
+13,21,"Barumun Baru"
+14,21,"Ulu Sosa"
+15,21,"Sosa Julu"
+16,21,"Barumun Barat"
+17,21,"Sosa Timur"
+01,22,Kotapinang
+02,22,"Kampung Rakyat"
+03,22,Torgamba
+04,22,"Sungai Kanan"
+05,22,Silangkitang
+01,23,"Kualuh Hulu"
+02,23,"Kualuh Leidong"
+03,23,"Kualuh Hilir"
+04,23,"Aek Kuo"
+05,23,Marbau
+06,23,"Na IX - X"
+07,23,"Aek Natas"
+08,23,"Kualuh Selatan"
+01,24,Lotu
+02,24,Sawo
+03,24,Tuhemberua
+04,24,"Sitolu Ori"
+05,24,"Namohalu Esiwa"
+06,24,"Alasa Talumuzoi"
+07,24,Alasa
+08,24,"Tugala Oyo"
+09,24,Afulu
+10,24,Lahewa
+11,24,"Lahewa Timur"
+01,25,Lahomi
+02,25,Sirombu
+03,25,"Mandrehe Barat"
+04,25,Moro'o
+05,25,Mandrehe
+06,25,"Mandrehe Utara"
+07,25,"Lolofitu Moi"
+08,25,"Ulu Moro'o"
+01,71,"Medan Kota"
+02,71,"Medan Sunggal"
+03,71,"Medan Helvetia"
+04,71,"Medan Denai"
+05,71,"Medan Barat"
+06,71,"Medan Deli"
+07,71,"Medan Tuntungan"
+08,71,"Medan Belawan"
+09,71,"Medan Amplas"
+10,71,"Medan Area"
+11,71,"Medan Johor"
+12,71,"Medan Marelan"
+13,71,"Medan Labuhan"
+14,71,"Medan Tembung"
+15,71,"Medan Maimun"
+16,71,"Medan Polonia"
+17,71,"Medan Baru"
+18,71,"Medan Perjuangan"
+19,71,"Medan Petisah"
+20,71,"Medan Timur"
+21,71,"Medan Selayang"
+01,72,"Siantar Timur"
+02,72,"Siantar Barat"
+03,72,"Siantar Utara"
+04,72,"Siantar Selatan"
+05,72,"Siantar Marihat"
+06,72,"Siantar Martoba"
+07,72,"Siantar Sitalasari"
+08,72,"Siantar Marimbun"
+01,73,"Sibolga Utara"
+02,73,"Sibolga Kota"
+03,73,"Sibolga Selatan"
+04,73,"Sibolga Sambas"
+01,74,"Tanjung Balai Selatan"
+02,74,"Tanjung Balai Utara"
+03,74,"Sei Tualang Raso"
+04,74,"Teluk Nibung"
+05,74,"Datuk Bandar"
+06,74,"Datuk Bandar Timur"
+01,75,"Binjai Utara"
+02,75,"Binjai Kota"
+03,75,"Binjai Barat"
+04,75,"Binjai Timur"
+05,75,"Binjai Selatan"
+01,76,"Padang Hulu"
+02,76,Rambutan
+03,76,"Padang Hilir"
+04,76,Bajenis
+05,76,"Tebing Tinggi Kota"
+01,77,"Padangsidimpuan Utara"
+02,77,"Padangsidimpuan Selatan"
+03,77,"Padangsidimpuan Batunadua"
+04,77,"Padangsidimpuan Hutaimbaru"
+05,77,"Padangsidimpuan Tenggara"
+06,77,"Padangsidimpuan Angkola Julu"
+01,78,Gunungsitoli
+02,78,"Gunungsitoli Selatan"
+03,78,"Gunungsitoli Utara"
+04,78,"Gunungsitoli Idanoi"
+05,78,"Gunungsitoli Alo'oa"
+06,78,"Gunungsitoli Barat"
+01,01,"Pancung Soal"
+02,01,"Ranah Pesisir"
+03,01,Lengayang
+04,01,"Batang Kapas"
+05,01,"IV Jurai"
+06,01,Bayang
+07,01,"Koto XI Tarusan"
+08,01,Sutera
+09,01,"Linggo Sari Baganti"
+10,01,Lunang
+11,01,"Basa Ampek Balai Tapan"
+12,01,"IV Nagari Bayang Utara"
+13,01,Airpura
+14,01,"Ranah Ampek Hulu Tapan"
+15,01,Silaut
+03,02,"Pantai Cermin"
+04,02,"Lembah Gumanti"
+05,02,"Payung Sekaki"
+06,02,"Lembang Jaya"
+07,02,"Gunung Talang"
+08,02,"Bukit Sundi"
+09,02,"IX Koto Sungai Lasi"
+10,02,Kubung
+11,02,"X Koto Singkarak"
+12,02,"X Koto Diatas"
+13,02,"Junjung Sirih"
+17,02,"Hiliran Gumanti"
+18,02,"Tigo Lurah"
+19,02,"Danau Kembar"
+03,03,"Tanjung Gadang"
+04,03,Sijunjung
+05,03,"IV Nagari"
+06,03,"Kamang Baru"
+07,03,"Lubuak Tarok"
+08,03,"Koto VII"
+09,03,"Sumpur Kudus"
+10,03,Kupitan
+01,04,"X Koto"
+02,04,Batipuh
+03,04,Rambatan
+04,04,"Lima Kaum"
+05,04,"Tanjung Emas"
+06,04,"Lintau Buo"
+07,04,Sungayang
+08,04,"Sungai Tarab"
+09,04,Pariangan
+10,04,Salimpaung
+11,04,"Padang Ganting"
+12,04,"Tanjuang Baru"
+13,04,"Lintau Buo Utara"
+14,04,"Batipuah Selatan"
+01,05,"Lubuk Alung"
+02,05,"Batang Anai"
+03,05,"Nan Sabaris"
+04,05,"2 x 11 Enam Lingkuang"
+05,05,"VII Koto Sungai Sarik"
+06,05,"V Koto Kampung Dalam"
+07,05,"Sungai Garingging"
+08,05,"Sungai Limau"
+09,05,"IV Koto Aur Malintang"
+10,05,"Ulakan Tapakih"
+11,05,"Sintuak Toboh Gadang"
+12,05,"Padang Sago"
+13,05,"Batang Gasan"
+14,05,"V Koto Timur"
+15,05,"2 x 11 Kayu Tanam"
+16,05,Patamuan
+17,05,"Enam Lingkung"
+01,06,"Tanjung Mutiara"
+02,06,"Lubuk Basung"
+03,06,"Tanjung Raya"
+04,06,Matur
+05,06,"IV Koto"
+06,06,Banuhampu
+07,06,"Ampek Angkek"
+08,06,Baso
+09,06,"Tilatang Kamang"
+10,06,Palupuh
+11,06,Pelembayan
+12,06,"Sungai Pua"
+13,06,"Ampek Nagari"
+14,06,Candung
+15,06,"Kamang Magek"
+16,06,Malalak
+01,07,Suliki
+02,07,Guguak
+03,07,Payakumbuh
+04,07,Luak
+05,07,Harau
+06,07,"Pangkalan Koto Baru"
+07,07,"Kapur IX"
+08,07,"Gunuang Omeh"
+09,07,"Lareh Sago Halaban"
+10,07,"Situjuah Limo Nagari"
+11,07,Mungka
+12,07,"Bukik Barisan"
+13,07,Akabiluru
+04,08,Bonjol
+05,08,"Lubuk Sikaping"
+07,08,Panti
+08,08,"Mapat Tunggul"
+12,08,"Duo Koto"
+13,08,"Tigo Nagari"
+14,08,Rao
+15,08,"Mapat Tunggul Selatan"
+16,08,"Simpang Alahan Mati"
+17,08,"Padang Gelugur"
+18,08,"Rao Utara"
+19,08,"Rao Selatan"
+01,09,"Pagai Utara"
+02,09,"Sipora Selatan"
+03,09,"Siberut Selatan"
+04,09,"Siberut Utara"
+05,09,"Siberut Barat"
+06,09,"Siberut Barat Daya"
+07,09,"Siberut Tengah"
+08,09,"Sipora Utara"
+09,09,Sikakap
+10,09,"Pagai Selatan"
+01,10,"Koto Baru"
+02,10,"Pulau Punjung"
+03,10,"Sungai Rumbai"
+04,10,Sitiung
+05,10,"Sembilan Koto"
+06,10,Timpeh
+07,10,"Koto Salak"
+08,10,Tiumang
+09,10,"Padang Laweh"
+10,10,"Asam Jujuhan"
+11,10,"Koto Besar"
+01,11,Sangir
+02,11,"Sungai Pagu"
+03,11,"Koto Parik Gadang Diateh"
+04,11,"Sangir Jujuan"
+05,11,"Sangir Batang Hari"
+06,11,"Pauh Duo"
+07,11,"Sangir Balai Janggo"
+01,12,Sungaiberemas
+02,12,"Lembah Melintang"
+03,12,Pasaman
+04,12,Talamau
+05,12,Kinali
+06,12,Gunungtuleh
+07,12,"Ranah Batahan"
+08,12,"Koto Balingka"
+09,12,Sungaiaur
+10,12,"Luhak Nan Duo"
+11,12,"Sasak Ranah Pesisir"
+01,71,"Padang Selatan"
+02,71,"Padang Timur"
+03,71,"Padang Barat"
+04,71,"Padang Utara"
+05,71,"Bungus Teluk Kabung"
+06,71,"Lubuk Begalung"
+07,71,"Lubuk Kilangan"
+08,71,Pauh
+09,71,Kuranji
+10,71,Nanggalo
+11,71,"Koto Tangah"
+01,72,"Lubuk Sikarah"
+02,72,"Tanjung Harapan"
+01,73,"Lembah Segar"
+02,73,Barangin
+03,73,Silungkang
+04,73,Talawi
+01,74,"Padang Panjang Timur"
+02,74,"Padang Panjang Barat"
+01,75,"Guguak Panjang"
+02,75,"Mandiangin K. Selayan"
+03,75,"Aur Birugo Tigo Baleh"
+01,76,"Payakumbuh Barat"
+02,76,"Payakumbuh Utara"
+03,76,"Payakumbuh Timur"
+04,76,"Lamposi Tigo Nagori"
+05,76,"Payakumbuh Selatan"
+01,77,"Pariaman Tengah"
+02,77,"Pariaman Utara"
+03,77,"Pariaman Selatan"
+04,77,"Pariaman Timur"
+01,01,"Bangkinang Kota"
+02,01,Kampar
+03,01,Tambang
+04,01,"XIII Koto Kampar"
+05,01,Kuok
+06,01,"Siak Hulu"
+07,01,"Kampar Kiri"
+08,01,"Kampar Kiri Hilir"
+09,01,"Kampar Kiri Hulu"
+10,01,Tapung
+11,01,"Tapung Hilir"
+12,01,"Tapung Hulu"
+13,01,Salo
+14,01,"Rumbio Jaya"
+15,01,Bangkinang
+16,01,"Perhentian Raja"
+17,01,Kampa
+18,01,"Kampar Utara"
+19,01,"Kampar Kiri Tengah"
+20,01,"Gunung Sahilan"
+21,01,"Koto Kampar Hulu"
+01,02,Rengat
+02,02,"Rengat Barat"
+03,02,Kelayang
+04,02,"Pasir Penyu"
+05,02,Peranap
+06,02,Siberida
+07,02,"Batang Cenaku"
+08,02,"Batang Gangsal"
+09,02,Lirik
+10,02,"Kuala Cenaku"
+11,02,"Sungai Lala"
+12,02,"Lubuk Batu Jaya"
+13,02,"Rakit Kulim"
+14,02,"Batang Peranap"
+01,03,Bengkalis
+02,03,Bantan
+03,03,"Bukit Batu"
+09,03,Mandau
+10,03,Rupat
+11,03,"Rupat Utara"
+12,03,"Siak Kecil"
+13,03,Pinggir
+14,03,"Bandar Laksamana"
+15,03,"Talang Muandau"
+16,03,"Bathin Solapan"
+01,04,Reteh
+02,04,Enok
+03,04,"Kuala Indragiri"
+04,04,Tembilahan
+05,04,Tempuling
+06,04,"Gaung Anak Serka"
+07,04,Mandah
+08,04,Kateman
+09,04,Keritang
+10,04,"Tanah Merah"
+11,04,"Batang Tuaka"
+12,04,Gaung
+13,04,"Tembilahan Hulu"
+14,04,Kemuning
+15,04,Pelangiran
+16,04,"Teluk Belengkong"
+17,04,"Pulau Burung"
+18,04,Concong
+19,04,Kempas
+20,04,"Sungai Batang"
+01,05,Ukui
+02,05,"Pangkalan Kerinci"
+03,05,"Pangkalan Kuras"
+04,05,"Pangkalan Lesung"
+05,05,Langgam
+06,05,Pelalawan
+07,05,Kerumutan
+08,05,Bunut
+09,05,"Teluk Meranti"
+10,05,"Kuala Kampar"
+11,05,"Bandar Sei Kijang"
+12,05,"Bandar Petalangan"
+01,06,"Ujung Batu"
+02,06,"Rokan IV Koto"
+03,06,Rambah
+04,06,Tambusai
+05,06,Kepenuhan
+06,06,"Kunto Darussalam"
+07,06,"Rambah Samo"
+08,06,"Rambah Hilir"
+09,06,"Tambusai Utara"
+10,06,"Bangun Purba"
+11,06,Tandun
+12,06,Kabun
+13,06,"Bonai Darussalam"
+14,06,"Pagaran Tapah Darussalam"
+15,06,"Kepenuhan Hulu"
+16,06,"Pendalian IV Koto"
+01,07,Kubu
+02,07,Bangko
+03,07,"Tanah Putih"
+04,07,"Rimba Melintang"
+05,07,"Bagan Sinembah"
+06,07,"Pasir Limau Kapas"
+07,07,Sinaboi
+08,07,Pujud
+09,07,"Tanah Putih Tanjung Melawan"
+10,07,"Bangko Pusako"
+11,07,"Simpang Kanan"
+12,07,"Batu Hampar"
+13,07,"Rantau Kopar"
+14,07,Pekaitan
+15,07,"Kubu Babussalam"
+16,07,"Tanjung Medan"
+17,07,"Bagan Sinembah Raya"
+18,07,"Balai Jaya"
+01,08,Siak
+02,08,"Sungai Apit"
+03,08,Minas
+04,08,Tualang
+05,08,"Sungai Mandau"
+06,08,Dayun
+07,08,"Kerinci Kanan"
+08,08,"Bunga Raya"
+09,08,"Koto Gasib"
+10,08,Kandis
+11,08,"Lubuk Dalam"
+12,08,"Sabak Auh"
+13,08,Mempura
+14,08,Pusako
+01,09,"Kuantan Mudik"
+02,09,"Kuantan Tengah"
+03,09,Singingi
+04,09,"Kuantan Hilir"
+05,09,Cerenti
+06,09,Benai
+07,09,Gunungtoar
+08,09,"Singingi Hilir"
+09,09,Pangean
+10,09,"Logas Tanah Darat"
+11,09,Inuman
+12,09,"Hulu Kuantan"
+13,09,"Kuantan Hilir Seberang"
+14,09,"Sentajo Raya"
+15,09,"Pucuk Rantau"
+01,10,"Tebing Tinggi"
+02,10,"Rangsang Barat"
+03,10,Rangsang
+04,10,"Tebing Tinggi Barat"
+05,10,Merbau
+06,10,Pulaumerbau
+07,10,"Tebing Tinggi Timur"
+08,10,"Tasik Putri Puyu"
+09,10,"Rangsang Pesisir"
+01,71,Sukajadi
+02,71,"Pekanbaru Kota"
+03,71,Sail
+04,71,"Lima Puluh"
+05,71,Senapelan
+06,71,"Rumbai Barat"
+07,71,"Bukit Raya"
+08,71,Binawidya
+09,71,"Marpoyan Damai"
+10,71,"Tenayan Raya"
+11,71,"Payung Sekaki"
+12,71,Rumbai
+13,71,Tuahmadani
+14,71,Kulim
+15,71,"Rumbai Timur"
+01,72,"Dumai Barat"
+02,72,"Dumai Timur"
+03,72,"Bukit Kapur"
+04,72,"Sungai Sembilan"
+05,72,"Medang Kampai"
+06,72,"Dumai Kota"
+07,72,"Dumai Selatan"
+01,01,"Gunung Raya"
+02,01,"Danau Kerinci"
+04,01,"Sitinjau Laut"
+05,01,"Air Hangat"
+06,01,"Gunung Kerinci"
+07,01,"Batang Merangin"
+08,01,"Keliling Danau"
+09,01,"Kayu Aro"
+11,01,"Air Hangat Timur"
+15,01,"Gunung Tujuh"
+16,01,Siulak
+17,01,"Depati Tujuh"
+18,01,"Siulak Mukai"
+19,01,"Kayu Aro Barat"
+20,01,Bukitkerman
+21,01,"Air Hangat Barat"
+22,01,"Tanah Cogok"
+23,01,"Danau Kerinci Barat"
+01,02,Jangkat
+02,02,Bangko
+03,02,"Muara Siau"
+04,02,"Sungai Manau"
+05,02,Tabir
+06,02,Pamenang
+07,02,"Tabir Ulu"
+08,02,"Tabir Selatan"
+09,02,"Lembah Masurai"
+10,02,"Bangko Barat"
+11,02,"Nalo Tatan"
+12,02,"Batang Masumai"
+13,02,"Pamenang Barat"
+14,02,"Tabir Ilir"
+15,02,"Tabir Timur"
+16,02,"Renah Pembarap"
+17,02,"Pangkalan Jambu"
+18,02,"Jangkat Timur"
+19,02,"Renah Pamenang"
+20,02,"Pamenang Selatan"
+21,02,"Margo Tabir"
+22,02,"Tabir Lintas"
+23,02,"Tabir Barat"
+24,02,"Tiang Pumpung"
+01,03,"Batang Asai"
+02,03,Limun
+03,03,Sarolangun
+04,03,Pauh
+05,03,Pelawan
+06,03,Mandiangin
+07,03,"Air Hitam"
+08,03,"Bathin VIII"
+09,03,Singkut
+10,03,"Cermin Nan Gedang"
+11,03,"Mandiangin Timur"
+01,04,Mersam
+02,04,"Muara Tembesi"
+03,04,"Muara Bulian"
+04,04,"Batin XXIV"
+05,04,Pemayung
+06,04,"Maro Sebo Ulu"
+07,04,Bajubang
+08,04,"Maro Sebo Ilir"
+01,05,"Jambi Luar Kota"
+02,05,Sekernan
+03,05,Kumpeh
+04,05,"Maro Sebo"
+05,05,Mestong
+06,05,"Kumpeh Ulu"
+07,05,"Sungai Bahar"
+08,05,"Sungai Gelam"
+09,05,"Bahar Utara"
+10,05,"Bahar Selatan"
+11,05,"Taman Rajo"
+01,06,"Tungkal Ulu"
+02,06,"Tungkal Ilir"
+03,06,Pengabuan
+04,06,Betara
+05,06,Merlung
+06,06,"Tebing Tinggi"
+07,06,"Batang Asam"
+08,06,"Renah Mendaluh"
+09,06,"Muara Papalik"
+10,06,"Seberang Kota"
+11,06,"Bram Itam"
+12,06,"Kuala Betara"
+13,06,Senyerang
+01,07,"Muara Sabak Timur"
+02,07,"Nipah Panjang"
+03,07,Mendahara
+04,07,"Rantau Rasau"
+05,07,"S a d u"
+06,07,Dendang
+07,07,"Muara Sabak Barat"
+08,07,"Kuala Jambi"
+09,07,"Mendahara Ulu"
+10,07,Geragai
+11,07,Berbak
+01,08,"Tanah Tumbuh"
+02,08,"Rantau Pandan"
+03,08,"Pasar Muaro Bungo"
+04,08,Jujuhan
+05,08,"Tanah Sepenggal"
+06,08,Pelepat
+07,08,"Limbur Lubuk Mengkuang"
+08,08,"Muko-muko Bathin VII"
+09,08,"Pelepat Ilir"
+10,08,"Batin II Babeko"
+11,08,"Bathin III"
+12,08,"Bungo Dani"
+13,08,"Rimbo Tengah"
+14,08,"Bathin III Ulu"
+15,08,"Bathin II Pelayang"
+16,08,"Jujuhan Ilir"
+17,08,"Tanah Sepenggal Lintas"
+01,09,"Tebo Tengah"
+02,09,"Tebo Ilir"
+03,09,"Tebo Ulu"
+04,09,"Rimbo Bujang"
+05,09,Sumay
+06,09,"VII Koto"
+07,09,"Rimbo Ulu"
+08,09,"Rimbo Ilir"
+09,09,"Tengah Ilir"
+10,09,"Serai Serumpun"
+11,09,"VII Koto Ilir"
+12,09,"Muara Tabir"
+01,71,Telanaipura
+02,71,"Jambi Selatan"
+03,71,"Jambi Timur"
+04,71,"Pasar Jambi"
+05,71,Pelayangan
+06,71,"Danau Teluk"
+07,71,"Kota Baru"
+08,71,Jelutung
+09,71,"Alam Barajo"
+10,71,"Danau Sipin"
+11,71,"Paal Merah"
+01,72,"Sungai Penuh"
+02,72,"Pesisir Bukit"
+03,72,"Hamparan Rawang"
+04,72,"Tanah Kampung"
+05,72,"Kumun Debai"
+06,72,"Pondok Tinggi"
+07,72,"Koto Baru"
+08,72,"Sungai Bungkal"
+07,01,"Sosoh Buay Rayap"
+08,01,Pengandonan
+09,01,Peninjauan
+13,01,"Baturaja Barat"
+14,01,"Baturaja Timur"
+20,01,"Ulu Ogan"
+21,01,"Semidang Aji"
+22,01,"Lubuk Batang"
+28,01,Lengkiti
+29,01,"Sinar Peninjauan"
+30,01,"Lubuk Raja"
+31,01,"Muara Jaya"
+32,01,"Kedaton Peninjauan Raya"
+02,02,"Tanjung Lubuk"
+03,02,Pedamaran
+04,02,Mesuji
+05,02,"Kayu Agung"
+08,02,"Sirah Pulau Padang"
+11,02,"Tulung Selapan"
+12,02,Pampangan
+13,02,Lempuing
+14,02,"Air Sugihan"
+15,02,"Sungai Menang"
+17,02,Jejawi
+18,02,Cengal
+19,02,"Pangkalan Lampam"
+20,02,"Mesuji Makmur"
+21,02,"Mesuji Raya"
+22,02,"Lempuing Jaya"
+23,02,"Teluk Gelam"
+24,02,"Pedamaran Timur"
+01,03,"Tanjung Agung"
+02,03,"Muara Enim"
+03,03,"Rambang Niru"
+04,03,"Gunung Megang"
+06,03,Gelumbang
+07,03,"Lawang Kidul"
+08,03,"Semende Darat Laut"
+09,03,"Semende Darat Tengah"
+10,03,"Semende Darat Ulu"
+11,03,"Ujan Mas"
+14,03,Lubai
+15,03,Rambang
+16,03,"Sungai Rotan"
+17,03,Lembak
+19,03,Benakat
+21,03,Kelekar
+22,03,"Muara Belida"
+23,03,Belimbing
+24,03,"Belida Darat"
+25,03,"Lubai Ulu"
+26,03,"Empat Petulai Dangku"
+27,03,"Panang Enim"
+01,04,"Tanjungsakti Pumu"
+06,04,Jarai
+07,04,"Kota Agung"
+08,04,Pulaupinang
+09,04,"Merapi Barat"
+10,04,Lahat
+12,04,"Pajar Bulan"
+15,04,"Mulak Ulu"
+16,04,"Kikim Selatan"
+17,04,"Kikim Timur"
+18,04,"Kikim Tengah"
+19,04,"Kikim Barat"
+20,04,Pseksu
+21,04,"Gumay Talang"
+22,04,"Pagar Gunung"
+23,04,"Merapi Timur"
+24,04,"Tanjung Sakti Pumi"
+25,04,"Gumay Ulu"
+26,04,"Merapi Selatan"
+27,04,Tanjungtebat
+28,04,Muarapayang
+29,04,Sukamerindu
+30,04,"Mulak Sebingkai"
+31,04,"Lahat Selatan"
+01,05,Tugumulyo
+02,05,"Muara Lakitan"
+03,05,"Muara Kelingi"
+08,05,Jayaloka
+09,05,"Muara Beliti"
+10,05,"STL Ulu Terawas"
+11,05,Selangit
+12,05,"Megang Sakti"
+13,05,Purwodadi
+14,05,"BTS. Ulu"
+18,05,"Tiang Pumpung Kepungut"
+19,05,"Sumber Harta"
+20,05,"Tuah Negeri"
+21,05,"Suka Karya"
+01,06,Sekayu
+02,06,Lais
+03,06,"Sungai Keruh"
+04,06,"Batang Hari Leko"
+05,06,"Sanga Desa"
+06,06,"Babat Toman"
+07,06,"Sungai Lilin"
+08,06,Keluang
+09,06,"Bayung Lencir"
+10,06,"Plakat Tinggi"
+11,06,Lalan
+12,06,"Tungkal Jaya"
+13,06,"Lawang Wetan"
+14,06,"Babat Supat"
+15,06,"Jirak Jaya"
+01,07,"Banyuasin I"
+02,07,"Banyuasin II"
+03,07,"Banyuasin III"
+04,07,"Pulau Rimau"
+05,07,Betung
+06,07,Rambutan
+07,07,"Muara Padang"
+08,07,"Muara Telang"
+09,07,"Makarti Jaya"
+10,07,"Talang Kelapa"
+11,07,"Rantau Bayur"
+12,07,"Tanjung Lago"
+13,07,"Muara Sugihan"
+14,07,"Air Salek"
+15,07,"Tungkal Ilir"
+16,07,"Suak Tapeh"
+17,07,Sembawa
+18,07,"Sumber Marga Telang"
+19,07,"Air Kumbang"
+20,07,"Karangagung Ilir"
+21,07,"Selat Panuguan"
+01,08,Martapura
+02,08,"Buay Madang"
+03,08,Belitang
+04,08,Cempaka
+05,08,"Buay Pemuka Peliung"
+06,08,"Madang Suku II"
+07,08,"Madang Suku I"
+08,08,"Semendawai Suku III"
+09,08,"Belitang II"
+10,08,"Belitang III"
+11,08,"Bunga Mayang"
+12,08,"Buay Madang Timur"
+13,08,"Madang Suku III"
+14,08,"Semendawai Barat"
+15,08,"Semendawai Timur"
+16,08,Jayapura
+17,08,"Belitang Jaya"
+18,08,"Belitang Madang Raya"
+19,08,"Belitang Mulya"
+20,08,"Buay Pemuka Bangsa Raja"
+01,09,"Muara Dua"
+02,09,"Pulau Beringin"
+03,09,"Banding Agung"
+04,09,"Muara Dua Kisam"
+05,09,Simpang
+06,09,"Buay Sandang Aji"
+07,09,"Buay Runjung"
+08,09,"Mekakau Ilir"
+09,09,"Buay Pemaca"
+10,09,"Kisam Tinggi"
+11,09,"Kisam Ilir"
+12,09,"Buay Pematang Ribu Ranau Tengah"
+13,09,"Warkuk Ranau Selatan"
+14,09,"Runjung Agung"
+15,09,"Sungai Are"
+16,09,"Sindang Danau"
+17,09,"Buana Pemaca"
+18,09,"Tiga Dihaji"
+19,09,"Buay Rawan"
+01,10,"Muara Kuang"
+02,10,"Tanjung Batu"
+03,10,"Tanjung Raja"
+04,10,Indralaya
+05,10,Pemulutan
+06,10,"Rantau Alai"
+07,10,"Indralaya Utara"
+08,10,"Indralaya Selatan"
+09,10,"Pemulutan Selatan"
+10,10,"Pemulutan Barat"
+11,10,"Rantau Panjang"
+12,10,"Sungai Pinang"
+13,10,Kandis
+14,10,"Rambang Kuang"
+15,10,"Lubuk Keliat"
+16,10,Payaraman
+01,11,"Muara Pinang"
+02,11,Pendopo
+03,11,"Ulu Musi"
+04,11,"Tebing Tinggi"
+05,11,"Lintang Kanan"
+06,11,"Talang Padang"
+07,11,"Pasemah Air Keruh"
+08,11,"Sikap Dalam"
+09,11,Saling
+10,11,"Pendopo Barat"
+01,12,"Talang Ubi"
+02,12,"Penukal Utara"
+03,12,Penukal
+04,12,Abab
+05,12,"Tanah Abang"
+01,13,Rupit
+02,13,"Rawas Ulu"
+03,13,Nibung
+04,13,"Rawas Ilir"
+05,13,"Karang Dapo"
+06,13,"Karang Jaya"
+07,13,"Ulu Rawas"
+01,71,"Ilir Barat II"
+02,71,"Seberang Ulu I"
+03,71,"Seberang Ulu II"
+04,71,"Ilir Barat I"
+05,71,"Ilir Timur I"
+06,71,"Ilir Timur II"
+07,71,Sukarami
+08,71,Sako
+09,71,Kemuning
+10,71,Kalidoni
+11,71,"Bukit Kecil"
+12,71,Gandus
+13,71,Kertapati
+14,71,Plaju
+15,71,"Alang-alang Lebar"
+16,71,"Sematang Borang"
+17,71,Jakabaring
+18,71,"Ilir Timur Tiga"
+01,72,"Pagar Alam Utara"
+02,72,"Pagar Alam Selatan"
+03,72,"Dempo Utara"
+04,72,"Dempo Selatan"
+05,72,"Dempo Tengah"
+01,73,"Lubuk Linggau Timur I"
+02,73,"Lubuk Linggau Barat I"
+03,73,"Lubuk Linggau Selatan I"
+04,73,"Lubuk Linggau Utara I"
+05,73,"Lubuk Linggau Timur II"
+06,73,"Lubuk Linggau Barat II"
+07,73,"Lubuk Linggau Selatan II"
+08,73,"Lubuk Linggau Utara II"
+01,74,"Prabumulih Barat"
+02,74,"Prabumulih Timur"
+03,74,Cambai
+04,74,"Rambang Kpk Tengah"
+05,74,"Prabumulih Utara"
+06,74,"Prabumulih Selatan"
+01,01,Kedurang
+02,01,Seginim
+03,01,Pino
+04,01,Manna
+05,01,"Kota Manna"
+06,01,"Pino Raya"
+07,01,"Kedurang Ilir"
+08,01,"Air Nipis"
+09,01,"Ulu Manna"
+10,01,"Bunga Mas"
+11,01,"Pasar Manna"
+06,02,"Kota Padang"
+07,02,"Padang Ulak Tanding"
+08,02,"Sindang Kelingi"
+09,02,Curup
+10,02,"Bermani Ulu"
+11,02,"Selupu Rejang"
+16,02,"Curup Utara"
+17,02,"Curup Timur"
+18,02,"Curup Selatan"
+19,02,"Curup Tengah"
+20,02,Binduriang
+21,02,"Sindang Beliti Ulu"
+22,02,"Sindang Dataran"
+23,02,"Sindang Beliti Ilir"
+24,02,"Bermani Ulu Raya"
+01,03,Enggano
+06,03,Kerkap
+07,03,"Kota Arga Makmur"
+08,03,"Giri Mulya"
+09,03,"Padang Jaya"
+10,03,Lais
+11,03,"Batik Nau"
+12,03,Ketahun
+13,03,"Napal Putih"
+14,03,"Putri Hijau"
+15,03,"Air Besi"
+16,03,"Air Napal"
+19,03,"Hulu Palik"
+20,03,"Air Padang"
+21,03,"Arma Jaya"
+22,03,"Tanjung Agung Palik"
+23,03,"Ulok Kupai"
+24,03,"Pinang Raya"
+25,03,"Marga Sakti Sebelat"
+01,04,Kinal
+02,04,"Tanjung Kemuning"
+03,04,"Kaur Utara"
+04,04,"Kaur Tengah"
+05,04,"Kaur Selatan"
+06,04,Maje
+07,04,Nasal
+08,04,"Semidang Gumay"
+09,04,"Kelam Tengah"
+10,04,Luas
+11,04,"Muara Sahung"
+12,04,Tetap
+13,04,"Lungkang Kule"
+14,04,"Padang Guci Hilir"
+15,04,"Padang Guci Hulu"
+01,05,Sukaraja
+02,05,Seluma
+03,05,Talo
+04,05,"Semidang Alas"
+05,05,"Semidang Alas Maras"
+06,05,"Air Periukan"
+07,05,"Lubuk Sandi"
+08,05,"Seluma Barat"
+09,05,"Seluma Timur"
+10,05,"Seluma Utara"
+11,05,"Seluma Selatan"
+12,05,"Talo Kecil"
+13,05,"Ulu Talo"
+14,05,"Ilir Talo"
+01,06,"Lubuk Pinang"
+02,06,"Kota Mukomuko"
+03,06,"Teras Terunjam"
+04,06,"Pondok Suguh"
+05,06,Ipuh
+06,06,"Malin Deman"
+07,06,"Air Rami"
+08,06,"Teramang Jaya"
+09,06,"Selagan Raya"
+10,06,Penarik
+11,06,"XIV Koto"
+12,06,"V Koto"
+13,06,"Air Majunto"
+14,06,"Air Dikit"
+15,06,"Sungai Rumbai"
+01,07,"Lebong Utara"
+02,07,"Lebong Atas"
+03,07,"Lebong Tengah"
+04,07,"Lebong Selatan"
+05,07,"Rimbo Pengadang"
+06,07,Topos
+07,07,"Bingin Kuning"
+08,07,"Lebong Sakti"
+09,07,Pelabai
+10,07,Amen
+11,07,"Uram Jaya"
+12,07,"Pinang Belapis"
+01,08,"Bermani Ilir"
+02,08,"Ujan Mas"
+03,08,"Tebat Karai"
+04,08,Kepahiang
+05,08,Merigi
+06,08,Kebawetan
+07,08,"Seberang Musi"
+08,08,"Muara Kemumu"
+01,09,"Karang Tinggi"
+02,09,"Talang Empat"
+03,09,"Pondok Kelapa"
+04,09,"Pematang Tiga"
+05,09,"Pagar Jati"
+06,09,"Taba Penanjung"
+07,09,"Merigi Kelindang"
+08,09,"Merigi Sakti"
+09,09,"Pondok Kubang"
+10,09,"Bang Haji"
+11,09,"Semidang Lagan"
+01,71,Selebar
+02,71,"Gading Cempaka"
+03,71,"Teluk Segara"
+04,71,"Muara Bangka Hulu"
+05,71,"Kampung Melayu"
+06,71,"Ratu Agung"
+07,71,"Ratu Samban"
+08,71,"Sungai Serut"
+09,71,"Singaran Pati"
+04,01,Natar
+05,01,"Tanjung Bintang"
+06,01,Kalianda
+07,01,Sidomulyo
+08,01,Katibung
+09,01,Penengahan
+10,01,Palas
+13,01,"Jati Agung"
+14,01,Ketapang
+15,01,Sragi
+16,01,"Raja Basa"
+17,01,Candipuro
+18,01,"Merbau Mataram"
+21,01,Bakauheni
+22,01,"Tanjung Sari"
+23,01,"Way Sulan"
+24,01,"Way Panji"
+01,02,Kalirejo
+02,02,"Bangun Rejo"
+03,02,"Padang Ratu"
+04,02,"Gunung Sugih"
+05,02,Trimurjo
+06,02,Punggur
+07,02,"Terbanggi Besar"
+08,02,"Seputih Raman"
+09,02,Rumbia
+10,02,"Seputih Banyak"
+11,02,"Seputih Mataram"
+12,02,"Seputih Surabaya"
+13,02,"Terusan Nunyai"
+14,02,"Bumi Ratu Nuban"
+15,02,Bekri
+16,02,"Seputih Agung"
+17,02,"Way Pangubuan"
+18,02,"Bandar Mataram"
+19,02,Pubian
+20,02,"Selagai Lingga"
+21,02,"Anak Tuha"
+22,02,"Sendang Agung"
+23,02,"Kota Gajah"
+24,02,"Bumi Nabung"
+25,02,"Way Seputih"
+26,02,"Bandar Surabaya"
+27,02,"Anak Ratu Aji"
+28,02,"Putra Rumbia"
+01,03,"Bukit Kemuning"
+02,03,Kotabumi
+03,03,"Sungkai Selatan"
+04,03,"Tanjung Raja"
+05,03,"Abung Timur"
+06,03,"Abung Barat"
+07,03,"Abung Selatan"
+08,03,"Sungkai Utara"
+09,03,"Kotabumi Utara"
+10,03,"Kotabumi Selatan"
+11,03,"Abung Tengah"
+12,03,"Abung Tinggi"
+13,03,"Abung Semuli"
+14,03,"Abung Surakarta"
+15,03,"Muara Sungkai"
+16,03,"Bunga Mayang"
+17,03,"Hulu Sungkai"
+18,03,"Sungkai Tengah"
+19,03,"Abung Pekurun"
+20,03,"Sungkai Jaya"
+21,03,"Sungkai Barat"
+22,03,"Abung Kunang"
+23,03,"Blambangan Pagar"
+04,04,"Balik Bukit"
+05,04,"Sumber Jaya"
+06,04,Belalau
+07,04,"Way Tenong"
+08,04,Sekincau
+09,04,Suoh
+10,04,"Batu Brak"
+11,04,Sukau
+15,04,"Gedung Surian"
+18,04,"Kebun Tebu"
+19,04,"Air Hitam"
+20,04,"Pagar Dewa"
+21,04,"Batu Ketulis"
+22,04,"Lumbok Seminung"
+23,04,"Bandar Negeri Suoh"
+02,05,Menggala
+06,05,"Gedung Aji"
+08,05,"Banjar Agung"
+11,05,"Gedung Meneng"
+12,05,"Rawa Jitu Selatan"
+13,05,"Penawar Tama"
+18,05,"Rawa Jitu Timur"
+20,05,"Banjar Margo"
+22,05,"Rawa Pitu"
+23,05,"Penawar Aji"
+25,05,"Dente Teladas"
+26,05,"Meraksa Aji"
+27,05,"Gedung Aji Baru"
+29,05,"Banjar Baru"
+30,05,"Menggala Timur"
+01,06,"Kota Agung"
+02,06,"Talang Padang"
+03,06,Wonosobo
+04,06,"Pulau Panggung"
+09,06,"Cukuh Balak"
+11,06,Pugung
+12,06,Semaka
+13,06,"Sumber Rejo"
+15,06,"Ulu Belu"
+16,06,"Pematang Sawa"
+17,06,Klumbayan
+18,06,"Kota Agung Barat"
+19,06,"Kota Agung Timur"
+20,06,Gisting
+21,06,"Gunung Alip"
+24,06,Limau
+25,06,"Bandar Negeri Semuong"
+26,06,"Air Naningan"
+27,06,Bulok
+28,06,"Klumbayan Barat"
+01,07,Sukadana
+02,07,"Labuhan Maringgai"
+03,07,Jabung
+04,07,Pekalongan
+05,07,Sekampung
+06,07,Batanghari
+07,07,"Way Jepara"
+08,07,Purbolinggo
+09,07,"Raman Utara"
+10,07,"Metro Kibang"
+11,07,"Marga Tiga"
+12,07,"Sekampung Udik"
+13,07,"Batanghari Nuban"
+14,07,"Bumi Agung"
+15,07,"Bandar Sribhawono"
+16,07,"Mataram Baru"
+17,07,Melinting
+18,07,"Gunung Pelindung"
+19,07,"Pasir Sakti"
+20,07,"Waway Karya"
+21,07,"Labuhan Ratu"
+22,07,"Braja Selebah"
+23,07,"Way Bungur"
+24,07,"Marga Sekampung"
+01,08,"Blambangan Umpu"
+02,08,Kasui
+03,08,Banjit
+04,08,Baradatu
+05,08,Bahuga
+06,08,"Pakuan Ratu"
+07,08,"Negeri Agung"
+08,08,"Way Tuba"
+09,08,"Rebang Tangkas"
+10,08,"Gunung Labuhan"
+11,08,"Negara Batin"
+12,08,"Negeri Besar"
+13,08,"Buay Bahuga"
+14,08,"Bumi Agung"
+15,08,"Umpu Semenguk"
+01,09,"Gedong Tataan"
+02,09,"Negeri Katon"
+03,09,Tegineneng
+04,09,"Way Lima"
+05,09,"Padang Cermin"
+06,09,"Punduh Pidada"
+07,09,Kedondong
+08,09,"Marga Punduh"
+09,09,"Way Khilau"
+10,09,"Teluk Pandan"
+11,09,"Way Ratai"
+01,10,Pringsewu
+02,10,"Gading Rejo"
+03,10,Ambarawa
+04,10,Pardasuka
+05,10,Pagelaran
+06,10,Banyumas
+07,10,Adiluwih
+08,10,Sukoharjo
+09,10,"Pagelaran Utara"
+01,11,Mesuji
+02,11,"Mesuji Timur"
+03,11,"Rawa Jitu Utara"
+04,11,"Way Serdang"
+05,11,"Simpang Pematang"
+06,11,"Panca Jaya"
+07,11,"Tanjung Raya"
+01,12,"Tulang Bawang Tengah"
+02,12,Tumijajar
+03,12,"Tulang Bawang Udik"
+04,12,"Gunung Terang"
+05,12,"Gunung Agung"
+06,12,"Way Kenanga"
+07,12,"Lambu Kibang"
+08,12,"Pagar Dewa"
+09,12,"Batu Putih"
+01,13,"Pesisir Tengah"
+02,13,"Pesisir Selatan"
+03,13,Lemong
+04,13,"Pesisir Utara"
+05,13,"Karya Penggawa"
+06,13,Pulaupisang
+07,13,"Way Krui"
+08,13,"Krui Selatan"
+09,13,Ngambur
+10,13,Ngaras
+11,13,Bangkunat
+01,71,Kedaton
+02,71,Sukarame
+03,71,"Tanjungkarang Barat"
+04,71,Panjang
+05,71,"Tanjungkarang Timur"
+06,71,"Tanjungkarang Pusat"
+07,71,"Telukbetung Selatan"
+08,71,"Telukbetung Barat"
+09,71,"Telukbetung Utara"
+10,71,Rajabasa
+11,71,"Tanjung Senang"
+12,71,Sukabumi
+13,71,Kemiling
+14,71,"Labuhan Ratu"
+15,71,"Way Halim"
+16,71,Langkapura
+17,71,Enggal
+18,71,Kedamaian
+19,71,"Telukbetung Timur"
+20,71,"Bumi Waras"
+01,72,"Metro Pusat"
+02,72,"Metro Utara"
+03,72,"Metro Barat"
+04,72,"Metro Timur"
+05,72,"Metro Selatan"
+01,01,Sungailiat
+02,01,Belinyu
+03,01,Merawang
+04,01,"Mendo Barat"
+05,01,Pemali
+06,01,Bakam
+07,01,"Riau Silip"
+08,01,"Puding Besar"
+01,02,"Tanjung Pandan"
+02,02,Membalong
+03,02,"Selat Nasik"
+04,02,Sijuk
+05,02,Badau
+01,03,Toboali
+02,03,"Lepar Pongok"
+03,03,"Air Gegas"
+04,03,"Simpang Rimba"
+05,03,Payung
+06,03,"Tukak Sadai"
+07,03,Pulaubesar
+08,03,"Kepulauan Pongok"
+01,04,Koba
+02,04,"Pangkalan Baru"
+03,04,"Sungai Selan"
+04,04,"Simpang Katis"
+05,04,Namang
+06,04,"Lubuk Besar"
+01,05,Mentok
+02,05,"Simpang Teritip"
+03,05,Jebus
+04,05,Kelapa
+05,05,Tempilang
+06,05,Parittiga
+01,06,Manggar
+02,06,Gantung
+03,06,Dendang
+04,06,"Kelapa Kampit"
+05,06,Damar
+06,06,"Simpang Renggiang"
+07,06,"Simpang Pesak"
+01,71,Bukitintan
+02,71,"Taman Sari"
+03,71,"Pangkal Balam"
+04,71,Rangkui
+05,71,Gerunggang
+06,71,Gabek
+07,71,Girimaya
+04,01,"Gunung Kijang"
+06,01,"Bintan Timur"
+07,01,"Bintan Utara"
+08,01,"Teluk Bintan"
+09,01,Tambelan
+10,01,"Telok Sebong"
+12,01,Toapaya
+13,01,Mantang
+14,01,"Bintan Pesisir"
+15,01,"Seri Kuala Lobam"
+01,02,Moro
+02,02,Kundur
+03,02,Karimun
+04,02,Meral
+05,02,Tebing
+06,02,Buru
+07,02,"Kundur Utara"
+08,02,"Kundur Barat"
+09,02,Durai
+10,02,"Meral Barat"
+11,02,Ungar
+12,02,Belat
+04,03,Midai
+05,03,"Bunguran Barat"
+06,03,Serasan
+07,03,"Bunguran Timur"
+08,03,"Bunguran Utara"
+09,03,Subi
+10,03,"Pulau Laut"
+11,03,"Pulau Tiga"
+15,03,"Bunguran Timur Laut"
+16,03,"Bunguran Tengah"
+18,03,"Bunguran Selatan"
+19,03,"Serasan Timur"
+20,03,"Bunguran Batubi"
+21,03,"Pulau Tiga Barat"
+22,03,"Suak Midai"
+01,04,Singkep
+02,04,Lingga
+03,04,Senayang
+04,04,"Singkep Barat"
+05,04,"Lingga Utara"
+06,04,"Singkep Pesisir"
+07,04,"Lingga Timur"
+08,04,Selayar
+09,04,"Singkep Selatan"
+10,04,"Kepulauan Posek"
+11,04,"Katang Bidare"
+12,04,"Temiang Pesisir"
+13,04,"Bakung Serumpun"
+01,05,Siantan
+02,05,Palmatak
+03,05,"Siantan Timur"
+04,05,"Siantan Selatan"
+05,05,"Jemaja Timur"
+06,05,Jemaja
+07,05,"Siantan Tengah"
+08,05,"Siantan Utara"
+09,05,"Jemaja Barat"
+10,05,"Kute Siantan"
+01,71,"Belakang Padang"
+02,71,"Batu Ampar"
+03,71,Sekupang
+04,71,Nongsa
+05,71,Bulang
+06,71,"Lubuk Baja"
+07,71,"Sei Beduk"
+08,71,Galang
+09,71,Bengkong
+10,71,"Batam Kota"
+11,71,Sagulung
+12,71,"Batu Aji"
+01,72,"Tanjung Pinang Barat"
+02,72,"Tanjung Pinang Timur"
+03,72,"Tanjung Pinang Kota"
+04,72,"Bukit Bestari"
+01,01,"Kepulauan Seribu Utara"
+02,01,"Kepulauan Seribu Selatan."
+01,71,Gambir
+02,71,"Sawah Besar"
+03,71,Kemayoran
+04,71,Senen
+05,71,"Cempaka Putih"
+06,71,Menteng
+07,71,"Tanah Abang"
+08,71,"Johar Baru"
+01,72,Penjaringan
+02,72,"Tanjung Priok"
+03,72,Koja
+04,72,Cilincing
+05,72,Pademangan
+06,72,"Kelapa Gading"
+01,73,Cengkareng
+02,73,"Grogol Petamburan"
+03,73,"Taman Sari"
+04,73,Tambora
+05,73,"Kebon Jeruk"
+06,73,Kalideres
+07,73,"Pal Merah"
+08,73,Kembangan
+01,74,Tebet
+02,74,Setiabudi
+03,74,"Mampang Prapatan"
+04,74,"Pasar Minggu"
+05,74,"Kebayoran Lama"
+06,74,Cilandak
+07,74,"Kebayoran Baru"
+08,74,Pancoran
+09,74,Jagakarsa
+10,74,Pesanggrahan
+01,75,Matraman
+02,75,Pulogadung
+03,75,Jatinegara
+04,75,Kramatjati
+05,75,"Pasar Rebo"
+06,75,Cakung
+07,75,"Duren Sawit"
+08,75,Makasar
+09,75,Ciracas
+10,75,Cipayung
+01,01,Cibinong
+02,01,"Gunung Putri"
+03,01,Citeureup
+04,01,Sukaraja
+05,01,"Babakan Madang"
+06,01,Jonggol
+07,01,Cileungsi
+08,01,Cariu
+09,01,Sukamakmur
+10,01,Parung
+11,01,"Gunung Sindur"
+12,01,Kemang
+13,01,"Bojong Gede"
+14,01,Leuwiliang
+15,01,Ciampea
+16,01,Cibungbulang
+17,01,Pamijahan
+18,01,Rumpin
+19,01,Jasinga
+20,01,"Parung Panjang"
+21,01,Nanggung
+22,01,Cigudeg
+23,01,Tenjo
+24,01,Ciawi
+25,01,Cisarua
+26,01,Megamendung
+27,01,Caringin
+28,01,Cijeruk
+29,01,Ciomas
+30,01,Dramaga
+31,01,Tamansari
+32,01,Klapanunggal
+33,01,Ciseeng
+34,01,"Ranca Bungur"
+35,01,Sukajaya
+36,01,Tanjungsari
+37,01,Tajurhalang
+38,01,Cigombong
+39,01,Leuwisadeng
+40,01,Tenjolaya
+01,02,Palabuhanratu
+02,02,Simpenan
+03,02,Cikakak
+04,02,Bantargadung
+05,02,Cisolok
+06,02,Cikidang
+07,02,Lengkong
+08,02,Jampangtengah
+09,02,Warungkiara
+10,02,Cikembar
+11,02,Cibadak
+12,02,Nagrak
+13,02,Parungkuda
+14,02,Bojonggenteng
+15,02,Parakansalak
+16,02,Cicurug
+17,02,Cidahu
+18,02,Kalapanunggal
+19,02,Kabandungan
+20,02,Waluran
+21,02,Jampangkulon
+22,02,Ciemas
+23,02,Kalibunder
+24,02,Surade
+25,02,Cibitung
+26,02,Ciracap
+27,02,Gunungguruh
+28,02,Cicantayan
+29,02,Cisaat
+30,02,Kadudampit
+31,02,Caringin
+32,02,Sukabumi
+33,02,Sukaraja
+34,02,Kebonpedes
+35,02,Cireunghas
+36,02,Sukalarang
+37,02,Pabuaran
+38,02,Purabaya
+39,02,Nyalindung
+40,02,Gegerbitung
+41,02,Sagaranten
+42,02,Curugkembar
+43,02,Cidolog
+44,02,Cidadap
+45,02,Tegalbuleud
+46,02,Cimanggu
+47,02,Ciambar
+01,03,Cianjur
+02,03,Warungkondang
+03,03,Cibeber
+04,03,Cilaku
+05,03,Ciranjang
+06,03,Bojongpicung
+07,03,Karangtengah
+08,03,Mande
+09,03,Sukaluyu
+10,03,Pacet
+11,03,Cugenang
+12,03,Cikalongkulon
+13,03,Sukaresmi
+14,03,Sukanagara
+15,03,Campaka
+16,03,Takokak
+17,03,Kadupandak
+18,03,Pagelaran
+19,03,Tanggeung
+20,03,Cibinong
+21,03,Sindangbarang
+22,03,Agrabinta
+23,03,Cidaun
+24,03,Naringgul
+25,03,Campakamulya
+26,03,Cikadu
+27,03,Gekbrong
+28,03,Cipanas
+29,03,Cijati
+30,03,Leles
+31,03,Haurwangi
+32,03,Pasirkuda
+05,04,Cileunyi
+06,04,Cimenyan
+07,04,Cilengkrang
+08,04,Bojongsoang
+09,04,Margahayu
+10,04,Margaasih
+11,04,Katapang
+12,04,Dayeuhkolot
+13,04,Banjaran
+14,04,Pameungpeuk
+15,04,Pangalengan
+16,04,Arjasari
+17,04,Cimaung
+25,04,Cicalengka
+26,04,Nagreg
+27,04,Cikancung
+28,04,Rancaekek
+29,04,Ciparay
+30,04,Pacet
+31,04,Kertasari
+32,04,Baleendah
+33,04,Majalaya
+34,04,Solokanjeruk
+35,04,Paseh
+36,04,Ibun
+37,04,Soreang
+38,04,Pasirjambu
+39,04,Ciwidey
+40,04,Rancabali
+44,04,Cangkuang
+46,04,Kutawaringin
+01,05,"Garut Kota"
+02,05,Karangpawitan
+03,05,Wanaraja
+04,05,"Tarogong Kaler"
+05,05,"Tarogong Kidul"
+06,05,Banyuresmi
+07,05,Samarang
+08,05,Pasirwangi
+09,05,Leles
+10,05,Kadungora
+11,05,Leuwigoong
+12,05,Cibatu
+13,05,Kersamanah
+14,05,Malangbong
+15,05,Sukawening
+16,05,Karangtengah
+17,05,Bayongbong
+18,05,Cigedug
+19,05,Cilawu
+20,05,Cisurupan
+21,05,Sukaresmi
+22,05,Cikajang
+23,05,Banjarwangi
+24,05,Singajaya
+25,05,Cihurip
+26,05,Peundeuy
+27,05,Pameungpeuk
+28,05,Cisompet
+29,05,Cibalong
+30,05,Cikelet
+31,05,Bungbulang
+32,05,Mekarmukti
+33,05,Pakenjeng
+34,05,Pamulihan
+35,05,Cisewu
+36,05,Caringin
+37,05,Talegong
+38,05,Limbangan
+39,05,Selaawi
+40,05,Cibiuk
+41,05,Pangatikan
+42,05,Sucinaraja
+01,06,Cipatujah
+02,06,Karangnunggal
+03,06,Cikalong
+04,06,Pancatengah
+05,06,Cikatomas
+06,06,Cibalong
+07,06,Parungponteng
+08,06,Bantarkalong
+09,06,Bojongasih
+10,06,Culamega
+11,06,Bojonggambir
+12,06,Sodonghilir
+13,06,Taraju
+14,06,Salawu
+15,06,Puspahiang
+16,06,Tanjungjaya
+17,06,Sukaraja
+18,06,Salopa
+19,06,Jatiwaras
+20,06,Cineam
+21,06,"Karang Jaya"
+22,06,Manonjaya
+23,06,"Gunung Tanjung"
+24,06,Singaparna
+25,06,Mangunreja
+26,06,Sukarame
+27,06,Cigalontang
+28,06,Leuwisari
+29,06,Padakembang
+30,06,Sariwangi
+31,06,Sukaratu
+32,06,Cisayong
+33,06,Sukahening
+34,06,Rajapolah
+35,06,Jamanis
+36,06,Ciawi
+37,06,Kadipaten
+38,06,Pagerageung
+39,06,Sukaresik
+01,07,Ciamis
+02,07,Cikoneng
+03,07,Cijeungjing
+04,07,Sadananya
+05,07,Cidolog
+06,07,Cihaurbeuti
+07,07,Panumbangan
+08,07,Panjalu
+09,07,Kawali
+10,07,Panawangan
+11,07,Cipaku
+12,07,Jatinagara
+13,07,Rajadesa
+14,07,Sukadana
+15,07,Rancah
+16,07,Tambaksari
+17,07,Lakbok
+18,07,Banjarsari
+19,07,Pamarican
+29,07,Cimaragas
+30,07,Cisaga
+31,07,Sindangkasih
+32,07,Baregbeg
+33,07,Sukamantri
+34,07,Lumbung
+35,07,Purwadadi
+37,07,Banjaranyar
+01,08,Kadugede
+02,08,Ciniru
+03,08,Subang
+04,08,Ciwaru
+05,08,Cibingbin
+06,08,Luragung
+07,08,Lebakwangi
+08,08,Garawangi
+09,08,Kuningan
+10,08,Ciawigebang
+11,08,Cidahu
+12,08,Jalaksana
+13,08,Cilimus
+14,08,Mandirancan
+15,08,Selajambe
+16,08,Kramatmulya
+17,08,Darma
+18,08,Cigugur
+19,08,Pasawahan
+20,08,Nusaherang
+21,08,Cipicung
+22,08,Pancalang
+23,08,Japara
+24,08,Cimahi
+25,08,Cilebak
+26,08,Hantara
+27,08,Kalimanggis
+28,08,Cibeureum
+29,08,"Karang Kancana"
+30,08,Maleber
+31,08,"Sindang Agung"
+32,08,Cigandamekar
+01,09,Waled
+02,09,Ciledug
+03,09,Losari
+04,09,Pabedilan
+05,09,Babakan
+06,09,Karangsembung
+07,09,Lemahabang
+08,09,"Susukan Lebak"
+09,09,Sedong
+10,09,Astanajapura
+11,09,Pangenan
+12,09,Mundu
+13,09,Beber
+14,09,Talun
+15,09,Sumber
+16,09,Dukupuntang
+17,09,Palimanan
+18,09,Plumbon
+19,09,Weru
+20,09,Kedawung
+21,09,"Gunung Jati"
+22,09,Kapetakan
+23,09,Klangenan
+24,09,Arjawinangun
+25,09,Panguragan
+26,09,Ciwaringin
+27,09,Susukan
+28,09,Gegesik
+29,09,Kaliwedi
+30,09,Gebang
+31,09,Depok
+32,09,Pasaleman
+33,09,Pabuaran
+34,09,Karangwareng
+35,09,"Tengah Tani"
+36,09,Plered
+37,09,Gempol
+38,09,Greged
+39,09,Suranenggala
+40,09,Jamblang
+01,10,Lemahsugih
+02,10,Bantarujeg
+03,10,Cikijing
+04,10,Talaga
+05,10,Argapura
+06,10,Maja
+07,10,Majalengka
+08,10,Sukahaji
+09,10,Rajagaluh
+10,10,Leuwimunding
+11,10,Jatiwangi
+12,10,Dawuan
+13,10,Kadipaten
+14,10,Kertajati
+15,10,Jatitujuh
+16,10,Ligung
+17,10,Sumberjaya
+18,10,Panyingkiran
+19,10,Palasah
+20,10,Cigasong
+21,10,Sindangwangi
+22,10,Banjaran
+23,10,Cingambul
+24,10,Kasokandel
+25,10,Sindang
+26,10,Malausma
+01,11,Wado
+02,11,Jatinunggal
+03,11,Darmaraja
+04,11,Cibugel
+05,11,Cisitu
+06,11,Situraja
+07,11,Conggeang
+08,11,Paseh
+09,11,Surian
+10,11,Buahdua
+11,11,Tanjungsari
+12,11,Sukasari
+13,11,Pamulihan
+14,11,Cimanggung
+15,11,Jatinangor
+16,11,Rancakalong
+17,11,"Sumedang Selatan"
+18,11,"Sumedang Utara"
+19,11,Ganeas
+20,11,Tanjungkerta
+21,11,Tanjungmedar
+22,11,Cimalaka
+23,11,Cisarua
+24,11,Tomo
+25,11,Ujungjaya
+26,11,Jatigede
+01,12,Haurgeulis
+02,12,Kroya
+03,12,Gabuswetan
+04,12,Cikedung
+05,12,Lelea
+06,12,Bangodua
+07,12,Widasari
+08,12,Kertasemaya
+09,12,Krangkeng
+10,12,Karangampel
+11,12,Juntinyuat
+12,12,Sliyeg
+13,12,Jatibarang
+14,12,Balongan
+15,12,Indramayu
+16,12,Sindang
+17,12,Cantigi
+18,12,Lohbener
+19,12,Arahan
+20,12,Losarang
+21,12,Kandanghaur
+22,12,Bongas
+23,12,Anjatan
+24,12,Sukra
+25,12,Gantar
+26,12,Trisi
+27,12,Sukagumiwang
+28,12,"Kedokan Bunder"
+29,12,Pasekan
+30,12,Tukdana
+31,12,Patrol
+01,13,Sagalaherang
+02,13,Cisalak
+03,13,Subang
+04,13,Kalijati
+05,13,Pabuaran
+06,13,Purwadadi
+07,13,Pagaden
+08,13,Binong
+09,13,Ciasem
+10,13,Pusakanagara
+11,13,Pamanukan
+12,13,Jalancagak
+13,13,Blanakan
+14,13,Tanjungsiang
+15,13,Compreng
+16,13,Patokbeusi
+17,13,Cibogo
+18,13,Cipunagara
+19,13,Cijambe
+20,13,Cipeundeuy
+21,13,Legonkulon
+22,13,Cikaum
+23,13,Serangpanjang
+24,13,Sukasari
+25,13,Tambakdahan
+26,13,Kasomalang
+27,13,Dawuan
+28,13,"Pagaden Barat"
+29,13,Ciater
+30,13,Pusakajaya
+01,14,Purwakarta
+02,14,Campaka
+03,14,Jatiluhur
+04,14,Plered
+05,14,Sukatani
+06,14,Darangdan
+07,14,Maniis
+08,14,Tegalwaru
+09,14,Wanayasa
+10,14,Pasawahan
+11,14,Bojong
+12,14,Babakancikao
+13,14,Bungursari
+14,14,Cibatu
+15,14,Sukasari
+16,14,Pondoksalam
+17,14,Kiarapedes
+01,15,"Karawang Barat"
+02,15,Pangkalan
+03,15,"Telukjambe Timur"
+04,15,Ciampel
+05,15,Klari
+06,15,Rengasdengklok
+07,15,Kutawaluya
+08,15,Batujaya
+09,15,Tirtajaya
+10,15,Pedes
+11,15,Cibuaya
+12,15,Pakisjaya
+13,15,Cikampek
+14,15,Jatisari
+15,15,"Cilamaya Wetan"
+16,15,Tirtamulya
+17,15,Telagasari
+18,15,Rawamerta
+19,15,Lemahabang
+20,15,Tempuran
+21,15,Majalaya
+22,15,Jayakerta
+23,15,"Cilamaya Kulon"
+24,15,Banyusari
+25,15,"Kota Baru"
+26,15,"Karawang Timur"
+27,15,"Telukjambe Barat"
+28,15,Tegalwaru
+29,15,Purwasari
+30,15,Cilebar
+01,16,Tarumajaya
+02,16,Babelan
+03,16,Sukawangi
+04,16,Tambelang
+05,16,"Tambun Utara"
+06,16,"Tambun Selatan"
+07,16,Cibitung
+08,16,"Cikarang Barat"
+09,16,"Cikarang Utara"
+10,16,"Karang Bahagia"
+11,16,"Cikarang Timur"
+12,16,"Kedung Waringin"
+13,16,Pebayuran
+14,16,Sukakarya
+15,16,Sukatani
+16,16,Cabangbungin
+17,16,Muaragembong
+18,16,Setu
+19,16,"Cikarang Selatan"
+20,16,"Cikarang Pusat"
+21,16,"Serang Baru"
+22,16,Cibarusah
+23,16,Bojongmangu
+01,17,Lembang
+02,17,Parongpong
+03,17,Cisarua
+04,17,Cikalongwetan
+05,17,Cipeundeuy
+06,17,Ngamprah
+07,17,Cipatat
+08,17,Padalarang
+09,17,Batujajar
+10,17,Cihampelas
+11,17,Cililin
+12,17,Cipongkor
+13,17,Rongga
+14,17,Sindangkerta
+15,17,Gununghalu
+16,17,Saguling
+01,18,Parigi
+02,18,Cijulang
+03,18,Cimerak
+04,18,Cigugur
+05,18,Langkaplancar
+06,18,Mangunjaya
+07,18,Padaherang
+08,18,Kalipucang
+09,18,Pangandaran
+10,18,Sidamulih
+01,71,"Bogor Selatan"
+02,71,"Bogor Timur"
+03,71,"Bogor Tengah"
+04,71,"Bogor Barat"
+05,71,"Bogor Utara"
+06,71,"Tanah Sareal"
+01,72,Gunungpuyuh
+02,72,Cikole
+03,72,Citamiang
+04,72,Warudoyong
+05,72,Baros
+06,72,Lembursitu
+07,72,Cibeureum
+01,73,Sukasari
+02,73,Coblong
+03,73,"Babakan Ciparay"
+04,73,"Bojongloa Kaler"
+05,73,Andir
+06,73,Cicendo
+07,73,Sukajadi
+08,73,Cidadap
+09,73,"Bandung Wetan"
+10,73,"Astana Anyar"
+11,73,Regol
+12,73,Batununggal
+13,73,Lengkong
+14,73,"Cibeunying Kidul"
+15,73,"Bandung Kulon"
+16,73,Kiaracondong
+17,73,"Bojongloa Kidul"
+18,73,"Cibeunying Kaler"
+19,73,"Sumur Bandung"
+20,73,Antapani
+21,73,"Bandung Kidul"
+22,73,Buahbatu
+23,73,Rancasari
+24,73,Arcamanik
+25,73,Cibiru
+26,73,Ujungberung
+27,73,Gedebage
+28,73,Panyileukan
+29,73,Cinambo
+30,73,Mandalajati
+01,74,Kejaksan
+02,74,"Lemah Wungkuk"
+03,74,Harjamukti
+04,74,Pekalipan
+05,74,Kesambi
+01,75,"Bekasi Timur"
+02,75,"Bekasi Barat"
+03,75,"Bekasi Utara"
+04,75,"Bekasi Selatan"
+05,75,Rawalumbu
+06,75,Medansatria
+07,75,Bantargebang
+08,75,Pondokgede
+09,75,Jatiasih
+10,75,Jatisampurna
+11,75,Mustikajaya
+12,75,Pondokmelati
+01,76,"Pancoran Mas"
+02,76,Cimanggis
+03,76,Sawangan
+04,76,Limo
+05,76,Sukmajaya
+06,76,Beji
+07,76,Cipayung
+08,76,Cilodong
+09,76,Cinere
+10,76,Tapos
+11,76,Bojongsari
+01,77,"Cimahi Selatan"
+02,77,"Cimahi Tengah"
+03,77,"Cimahi Utara"
+01,78,Cihideung
+02,78,Cipedes
+03,78,Tawang
+04,78,Indihiang
+05,78,Kawalu
+06,78,Cibeureum
+07,78,Tamansari
+08,78,Mangkubumi
+09,78,Bungursari
+10,78,Purbaratu
+01,79,Banjar
+02,79,Pataruman
+03,79,Purwaharja
+04,79,Langensari
+01,01,Kedungreja
+02,01,Kesugihan
+03,01,Adipala
+04,01,Binangun
+05,01,Nusawungu
+06,01,Kroya
+07,01,Maos
+08,01,Jeruklegi
+09,01,Kawunganten
+10,01,Gandrungmangu
+11,01,Sidareja
+12,01,Karangpucung
+13,01,Cimanggu
+14,01,Majenang
+15,01,Wanareja
+16,01,Dayeuhluhur
+17,01,Sampang
+18,01,Cipari
+19,01,Patimuan
+20,01,Bantarsari
+21,01,"Cilacap Selatan"
+22,01,"Cilacap Tengah"
+23,01,"Cilacap Utara"
+24,01,"Kampung Laut"
+01,02,Lumbir
+02,02,Wangon
+03,02,Jatilawang
+04,02,Rawalo
+05,02,Kebasen
+06,02,Kemranjen
+07,02,Sumpiuh
+08,02,Tambak
+09,02,Somagede
+10,02,Kalibagor
+11,02,Banyumas
+12,02,Patikraja
+13,02,Purwojati
+14,02,Ajibarang
+15,02,Gumelar
+16,02,Pekuncen
+17,02,Cilongok
+18,02,Karanglewas
+19,02,Sokaraja
+20,02,Kembaran
+21,02,Sumbang
+22,02,Baturraden
+23,02,Kedungbanteng
+24,02,"Purwokerto Selatan"
+25,02,"Purwokerto Barat"
+26,02,"Purwokerto Timur"
+27,02,"Purwokerto Utara"
+01,03,Kemangkon
+02,03,Bukateja
+03,03,Kejobong
+04,03,Kaligondang
+05,03,Purbalingga
+06,03,Kalimanah
+07,03,Kutasari
+08,03,Mrebet
+09,03,Bobotsari
+10,03,Karangreja
+11,03,Karanganyar
+12,03,Karangmoncol
+13,03,Rembang
+14,03,Bojongsari
+15,03,Padamara
+16,03,Pengadegan
+17,03,Karangjambu
+18,03,Kertanegara
+01,04,Susukan
+02,04,"Purworeja Klampok"
+03,04,Mandiraja
+04,04,Purwanegara
+05,04,Bawang
+06,04,Banjarnegara
+07,04,Sigaluh
+08,04,Madukara
+09,04,Banjarmangu
+10,04,Wanadadi
+11,04,Rakit
+12,04,Punggelan
+13,04,Karangkobar
+14,04,Pagentan
+15,04,Pejawaran
+16,04,Batur
+17,04,Wanayasa
+18,04,Kalibening
+19,04,Pandanarum
+20,04,Pagedongan
+01,05,Ayah
+02,05,Buayan
+03,05,Puring
+04,05,Petanahan
+05,05,Klirong
+06,05,Buluspesantren
+07,05,Ambal
+08,05,Mirit
+09,05,Prembun
+10,05,Kutowinangun
+11,05,Alian
+12,05,Kebumen
+13,05,Pejagoan
+14,05,Sruweng
+15,05,Adimulyo
+16,05,Kuwarasan
+17,05,Rowokele
+18,05,Sempor
+19,05,Gombong
+20,05,Karanganyar
+21,05,Karanggayam
+22,05,Sadang
+23,05,Bonorowo
+24,05,Padureso
+25,05,Poncowarno
+26,05,Karangsambung
+01,06,Grabag
+02,06,Ngombol
+03,06,Purwodadi
+04,06,Bagelen
+05,06,Kaligesing
+06,06,Purworejo
+07,06,Banyuurip
+08,06,Bayan
+09,06,Kutoarjo
+10,06,Butuh
+11,06,Pituruh
+12,06,Kemiri
+13,06,Bruno
+14,06,Gebang
+15,06,Loano
+16,06,Bener
+01,07,Wadaslintang
+02,07,Kepil
+03,07,Sapuran
+04,07,Kaliwiro
+05,07,Leksono
+06,07,Selomerto
+07,07,Kalikajar
+08,07,Kertek
+09,07,Wonosobo
+10,07,Watumalang
+11,07,Mojotengah
+12,07,Garung
+13,07,Kejajar
+14,07,Sukoharjo
+15,07,Kalibawang
+01,08,Salaman
+02,08,Borobudur
+03,08,Ngluwar
+04,08,Salam
+05,08,Srumbung
+06,08,Dukun
+07,08,Sawangan
+08,08,Muntilan
+09,08,Mungkid
+10,08,Mertoyudan
+11,08,Tempuran
+12,08,Kajoran
+13,08,Kaliangkrik
+14,08,Bandongan
+15,08,Candimulyo
+16,08,Pakis
+17,08,Ngablak
+18,08,Grabag
+19,08,Tegalrejo
+20,08,Secang
+21,08,Windusari
+01,09,Selo
+02,09,Ampel
+03,09,Cepogo
+04,09,Musuk
+05,09,Boyolali
+06,09,Mojosongo
+07,09,Teras
+08,09,Sawit
+09,09,Banyudono
+10,09,Sambi
+11,09,Ngemplak
+12,09,Nogosari
+13,09,Simo
+14,09,Karanggede
+15,09,Klego
+16,09,Andong
+17,09,Kemusu
+18,09,Wonosegoro
+19,09,Juwangi
+20,09,Gladagsari
+21,09,Tamansari
+22,09,Wonosamodro
+01,10,Prambanan
+02,10,Gantiwarno
+03,10,Wedi
+04,10,Bayat
+05,10,Cawas
+06,10,Trucuk
+07,10,Kebonarum
+08,10,Jogonalan
+09,10,Manisrenggo
+10,10,Karangnongko
+11,10,Ceper
+12,10,Pedan
+13,10,Karangdowo
+14,10,Juwiring
+15,10,Wonosari
+16,10,Delanggu
+17,10,Polanharjo
+18,10,Karanganom
+19,10,Tulung
+20,10,Jatinom
+21,10,Kemalang
+22,10,Ngawen
+23,10,Kalikotes
+24,10,"Klaten Utara"
+25,10,"Klaten Tengah"
+26,10,"Klaten Selatan"
+01,11,Weru
+02,11,Bulu
+03,11,Tawangsari
+04,11,Sukoharjo
+05,11,Nguter
+06,11,Bendosari
+07,11,Polokarto
+08,11,Mojolaban
+09,11,Grogol
+10,11,Baki
+11,11,Gatak
+12,11,Kartasura
+01,12,Pracimantoro
+02,12,Giritontro
+03,12,Giriwoyo
+04,12,Batuwarno
+05,12,Tirtomoyo
+06,12,Nguntoronadi
+07,12,Baturetno
+08,12,Eromoko
+09,12,Wuryantoro
+10,12,Manyaran
+11,12,Selogiri
+12,12,Wonogiri
+13,12,Ngadirojo
+14,12,Sidoharjo
+15,12,Jatiroto
+16,12,Kismantoro
+17,12,Purwantoro
+18,12,Bulukerto
+19,12,Slogohimo
+20,12,Jatisrono
+21,12,Jatipurno
+22,12,Girimarto
+23,12,Karangtengah
+24,12,Paranggupito
+25,12,Puhpelem
+01,13,Jatipuro
+02,13,Jatiyoso
+03,13,Jumapolo
+04,13,Jumantono
+05,13,Matesih
+06,13,Tawangmangu
+07,13,Ngargoyoso
+08,13,Karangpandan
+09,13,Karanganyar
+10,13,Tasikmadu
+11,13,Jaten
+12,13,Colomadu
+13,13,Gondangrejo
+14,13,Kebakkramat
+15,13,Mojogedang
+16,13,Kerjo
+17,13,Jenawi
+01,14,Kalijambe
+02,14,Plupuh
+03,14,Masaran
+04,14,Kedawung
+05,14,Sambirejo
+06,14,Gondang
+07,14,Sambungmacan
+08,14,Ngrampal
+09,14,Karangmalang
+10,14,Sragen
+11,14,Sidoharjo
+12,14,Tanon
+13,14,Gemolong
+14,14,Miri
+15,14,Sumberlawang
+16,14,Mondokan
+17,14,Sukodono
+18,14,Gesi
+19,14,Tangen
+20,14,Jenar
+01,15,Kedungjati
+02,15,Karangrayung
+03,15,Penawangan
+04,15,Toroh
+05,15,Geyer
+06,15,Pulokulon
+07,15,Kradenan
+08,15,Gabus
+09,15,Ngaringan
+10,15,Wirosari
+11,15,Tawangharjo
+12,15,Grobogan
+13,15,Purwodadi
+14,15,Brati
+15,15,Klambu
+16,15,Godong
+17,15,Gubug
+18,15,Tegowanu
+19,15,Tanggungharjo
+01,16,Jati
+02,16,Randublatung
+03,16,Kradenan
+04,16,Kedungtuban
+05,16,Cepu
+06,16,Sambong
+07,16,Jiken
+08,16,Jepon
+09,16,Blora
+10,16,Tunjungan
+11,16,Banjarejo
+12,16,Ngawen
+13,16,Kunduran
+14,16,Todanan
+15,16,Bogorejo
+16,16,Japah
+01,17,Sumber
+02,17,Bulu
+03,17,Gunem
+04,17,Sale
+05,17,Sarang
+06,17,Sedan
+07,17,Pamotan
+08,17,Sulang
+09,17,Kaliori
+10,17,Rembang
+11,17,Pancur
+12,17,Kragan
+13,17,Sluke
+14,17,Lasem
+01,18,Sukolilo
+02,18,Kayen
+03,18,Tambakromo
+04,18,Winong
+05,18,Pucakwangi
+06,18,Jaken
+07,18,Batangan
+08,18,Juwana
+09,18,Jakenan
+10,18,Pati
+11,18,Gabus
+12,18,Margorejo
+13,18,Gembong
+14,18,Tlogowungu
+15,18,Wedarijaksa
+16,18,Margoyoso
+17,18,Gunungwungkal
+18,18,Cluwak
+19,18,Tayu
+20,18,Dukuhseti
+21,18,Trangkil
+01,19,Kaliwungu
+02,19,"Kota Kudus"
+03,19,Jati
+04,19,Undaan
+05,19,Mejobo
+06,19,Jekulo
+07,19,Bae
+08,19,Gebog
+09,19,Dawe
+01,20,Kedung
+02,20,Pecangaan
+03,20,Welahan
+04,20,Mayong
+05,20,Batealit
+06,20,Jepara
+07,20,Mlonggo
+08,20,Bangsri
+09,20,Keling
+10,20,"Karimun Jawa"
+11,20,Tahunan
+12,20,Nalumsari
+13,20,Kalinyamatan
+14,20,Kembang
+15,20,"Pakis Aji"
+16,20,Donorojo
+01,21,Mranggen
+02,21,Karangawen
+03,21,Guntur
+04,21,Sayung
+05,21,Karangtengah
+06,21,Wonosalam
+07,21,Dempet
+08,21,Gajah
+09,21,Karanganyar
+10,21,Mijen
+11,21,Demak
+12,21,Bonang
+13,21,Wedung
+14,21,Kebonagung
+01,22,Getasan
+02,22,Tengaran
+03,22,Susukan
+04,22,Suruh
+05,22,Pabelan
+06,22,Tuntang
+07,22,Banyubiru
+08,22,Jambu
+09,22,Sumowono
+10,22,Ambarawa
+11,22,Bawen
+12,22,Bringin
+13,22,Bergas
+15,22,Pringapus
+16,22,Bancak
+17,22,Kaliwungu
+18,22,"Ungaran Barat"
+19,22,"Ungaran Timur"
+20,22,Bandungan
+01,23,Bulu
+02,23,Tembarak
+03,23,Temanggung
+04,23,Pringsurat
+05,23,Kaloran
+06,23,Kandangan
+07,23,Kedu
+08,23,Parakan
+09,23,Ngadirejo
+10,23,Jumo
+11,23,Tretep
+12,23,Candiroto
+13,23,Kranggan
+14,23,Tlogomulyo
+15,23,Selopampang
+16,23,Bansari
+17,23,Kledung
+18,23,Bejen
+19,23,Wonoboyo
+20,23,Gemawang
+01,24,Plantungan
+02,24,Pageruyung
+03,24,Sukorejo
+04,24,Patean
+05,24,Singorojo
+06,24,Limbangan
+07,24,Boja
+08,24,Kaliwungu
+09,24,Brangsong
+10,24,Pegandon
+11,24,Gemuh
+12,24,Weleri
+13,24,Cepiring
+14,24,Patebon
+15,24,Kendal
+16,24,Rowosari
+17,24,Kangkung
+18,24,Ringinarum
+19,24,Ngampel
+20,24,"Kaliwungu Selatan"
+01,25,Wonotunggal
+02,25,Bandar
+03,25,Blado
+04,25,Reban
+05,25,Bawang
+06,25,Tersono
+07,25,Gringsing
+08,25,Limpung
+09,25,Subah
+10,25,Tulis
+11,25,Batang
+12,25,Warungasem
+13,25,Kandeman
+14,25,Pecalungan
+15,25,Banyuputih
+01,26,Kandangserang
+02,26,Paninggaran
+03,26,Lebakbarang
+04,26,Petungkriyono
+05,26,Talun
+06,26,Doro
+07,26,Karanganyar
+08,26,Kajen
+09,26,Kesesi
+10,26,Sragi
+11,26,Bojong
+12,26,Wonopringgo
+13,26,Kedungwuni
+14,26,Buaran
+15,26,Tirto
+16,26,Wiradesa
+17,26,Siwalan
+18,26,Karangdadap
+19,26,Wonokerto
+01,27,Moga
+02,27,Pulosari
+03,27,Belik
+04,27,Watukumpul
+05,27,Bodeh
+06,27,Bantarbolang
+07,27,Randudongkal
+08,27,Pemalang
+09,27,Taman
+10,27,Petarukan
+11,27,Ampelgading
+12,27,Comal
+13,27,Ulujami
+14,27,Warungpring
+01,28,Margasari
+02,28,Bumijawa
+03,28,Bojong
+04,28,Balapulang
+05,28,Pagerbarang
+06,28,Lebaksiu
+07,28,Jatinegara
+08,28,Kedungbanteng
+09,28,Pangkah
+10,28,Slawi
+11,28,Adiwerna
+12,28,Talang
+13,28,Dukuhturi
+14,28,Tarub
+15,28,Kramat
+16,28,Suradadi
+17,28,Warureja
+18,28,Dukuhwaru
+01,29,Salem
+02,29,Bantarkawung
+03,29,Bumiayu
+04,29,Paguyangan
+05,29,Sirampog
+06,29,Tonjong
+07,29,Jatibarang
+08,29,Wanasari
+09,29,Brebes
+10,29,Songgom
+11,29,Kersana
+12,29,Losari
+13,29,Tanjung
+14,29,Bulakamba
+15,29,Larangan
+16,29,Ketanggungan
+17,29,Banjarharjo
+01,71,"Magelang Selatan"
+02,71,"Magelang Utara"
+03,71,"Magelang Tengah"
+01,72,Laweyan
+02,72,Serengan
+03,72,"Pasar Kliwon"
+04,72,Jebres
+05,72,Banjarsari
+01,73,Sidorejo
+02,73,Tingkir
+03,73,Argomulyo
+04,73,Sidomukti
+01,74,"Semarang Tengah"
+02,74,"Semarang Utara"
+03,74,"Semarang Timur"
+04,74,Gayamsari
+05,74,Genuk
+06,74,Pedurungan
+07,74,"Semarang Selatan"
+08,74,Candisari
+09,74,Gajahmungkur
+10,74,Tembalang
+11,74,Banyumanik
+12,74,Gunungpati
+13,74,"Semarang Barat"
+14,74,Mijen
+15,74,Ngaliyan
+16,74,Tugu
+01,75,"Pekalongan Barat"
+02,75,"Pekalongan Timur"
+03,75,"Pekalongan Utara"
+04,75,"Pekalongan Selatan"
+01,76,"Tegal Barat"
+02,76,"Tegal Timur"
+03,76,"Tegal Selatan"
+04,76,Margadana
+01,01,Temon
+02,01,Wates
+03,01,Panjatan
+04,01,Galur
+05,01,Lendah
+06,01,Sentolo
+07,01,Pengasih
+08,01,Kokap
+09,01,Girimulyo
+10,01,Nanggulan
+11,01,Samigaluh
+12,01,Kalibawang
+01,02,Srandakan
+02,02,Sanden
+03,02,Kretek
+04,02,Pundong
+05,02,Bambanglipuro
+06,02,Pandak
+07,02,Pajangan
+08,02,Bantul
+09,02,Jetis
+10,02,Imogiri
+11,02,Dlingo
+12,02,Banguntapan
+13,02,Pleret
+14,02,Piyungan
+15,02,Sewon
+16,02,Kasihan
+17,02,Sedayu
+01,03,Wonosari
+02,03,Nglipar
+03,03,Playen
+04,03,Patuk
+05,03,Paliyan
+06,03,Panggang
+07,03,Tepus
+08,03,Semanu
+09,03,Karangmojo
+10,03,Ponjong
+11,03,Rongkop
+12,03,Semin
+13,03,Ngawen
+14,03,Gedangsari
+15,03,Saptosari
+16,03,Girisubo
+17,03,Tanjungsari
+18,03,Purwosari
+01,04,Gamping
+02,04,Godean
+03,04,Moyudan
+04,04,Minggir
+05,04,Seyegan
+06,04,Mlati
+07,04,Depok
+08,04,Berbah
+09,04,Prambanan
+10,04,Kalasan
+11,04,Ngemplak
+12,04,Ngaglik
+13,04,Sleman
+14,04,Tempel
+15,04,Turi
+16,04,Pakem
+17,04,Cangkringan
+01,71,Tegalrejo
+02,71,Jetis
+03,71,Gondokusuman
+04,71,Danurejan
+05,71,Gedongtengen
+06,71,Ngampilan
+07,71,Wirobrajan
+08,71,Mantrijeron
+09,71,Kraton
+10,71,Gondomanan
+11,71,Pakualaman
+12,71,Mergangsan
+13,71,Umbulharjo
+14,71,Kotagede
+01,01,Donorojo
+02,01,Pringkuku
+03,01,Punung
+04,01,Pacitan
+05,01,Kebonagung
+06,01,Arjosari
+07,01,Nawangan
+08,01,Bandar
+09,01,Tegalombo
+10,01,Tulakan
+11,01,Ngadirojo
+12,01,Sudimoro
+01,02,Slahung
+02,02,Ngrayun
+03,02,Bungkal
+04,02,Sambit
+05,02,Sawoo
+06,02,Sooko
+07,02,Pulung
+08,02,Mlarak
+09,02,Jetis
+10,02,Siman
+11,02,Balong
+12,02,Kauman
+13,02,Badegan
+14,02,Sampung
+15,02,Sukorejo
+16,02,Babadan
+17,02,Ponorogo
+18,02,Jenangan
+19,02,Ngebel
+20,02,Jambon
+21,02,Pudak
+01,03,Panggul
+02,03,Munjungan
+03,03,Pule
+04,03,Dongko
+05,03,Tugu
+06,03,Karangan
+07,03,Kampak
+08,03,Watulimo
+09,03,Bendungan
+10,03,Gandusari
+11,03,Trenggalek
+12,03,Pogalan
+13,03,Durenan
+14,03,Suruh
+01,04,Tulungagung
+02,04,Boyolangu
+03,04,Kedungwaru
+04,04,Ngantru
+05,04,Kauman
+06,04,Pagerwojo
+07,04,Sendang
+08,04,Karangrejo
+09,04,Gondang
+10,04,Sumbergempol
+11,04,Ngunut
+12,04,Pucanglaban
+13,04,Rejotangan
+14,04,Kalidawir
+15,04,Besuki
+16,04,Campurdarat
+17,04,Bandung
+18,04,Pakel
+19,04,Tanggunggunung
+01,05,Wonodadi
+02,05,Udanawu
+03,05,Srengat
+04,05,Kademangan
+05,05,Bakung
+06,05,Ponggok
+07,05,Sanankulon
+08,05,Wonotirto
+09,05,Nglegok
+10,05,Kanigoro
+11,05,Garum
+12,05,Sutojayan
+13,05,Panggungrejo
+14,05,Talun
+15,05,Gandusari
+16,05,Binangun
+17,05,Wlingi
+18,05,Doko
+19,05,Kesamben
+20,05,Wates
+21,05,Selorejo
+22,05,Selopuro
+01,06,Semen
+02,06,Mojo
+03,06,Kras
+04,06,Ngadiluwih
+05,06,Kandat
+06,06,Wates
+07,06,Ngancar
+08,06,Puncu
+09,06,Plosoklaten
+10,06,Gurah
+11,06,Pagu
+12,06,Gampengrejo
+13,06,Grogol
+14,06,Papar
+15,06,Purwoasri
+16,06,Plemahan
+17,06,Pare
+18,06,Kepung
+19,06,Kandangan
+20,06,Tarokan
+21,06,Kunjang
+22,06,Banyakan
+23,06,Ringinrejo
+24,06,"Kayen Kidul"
+25,06,Ngasem
+26,06,Badas
+01,07,Donomulyo
+02,07,Pagak
+03,07,Bantur
+04,07,"Sumbermanjing Wetan"
+05,07,Dampit
+06,07,Ampelgading
+07,07,Poncokusumo
+08,07,Wajak
+09,07,Turen
+10,07,Gondanglegi
+11,07,Kalipare
+12,07,Sumberpucung
+13,07,Kepanjen
+14,07,Bululawang
+15,07,Tajinan
+16,07,Tumpang
+17,07,Jabung
+18,07,Pakis
+19,07,Pakisaji
+20,07,Ngajum
+21,07,Wagir
+22,07,Dau
+23,07,"Karang Ploso"
+24,07,Singosari
+25,07,Lawang
+26,07,Pujon
+27,07,Ngantang
+28,07,Kasembon
+29,07,Gedangan
+30,07,Tirtoyudo
+31,07,Kromengan
+32,07,Wonosari
+33,07,Pagelaran
+01,08,Tempursari
+02,08,Pronojiwo
+03,08,Candipuro
+04,08,Pasirian
+05,08,Tempeh
+06,08,Kunir
+07,08,Yosowilangun
+08,08,Rowokangkung
+09,08,Tekung
+10,08,Lumajang
+11,08,Pasrujambe
+12,08,Senduro
+13,08,Gucialit
+14,08,Padang
+15,08,Sukodono
+16,08,Kedungjajang
+17,08,Jatiroto
+18,08,Randuagung
+19,08,Klakah
+20,08,Ranuyoso
+21,08,Sumbersuko
+01,09,Jombang
+02,09,Kencong
+03,09,Sumberbaru
+04,09,Gumukmas
+05,09,Umbulsari
+06,09,Tanggul
+07,09,Semboro
+08,09,Puger
+09,09,Bangsalsari
+10,09,Balung
+11,09,Wuluhan
+12,09,Ambulu
+13,09,Rambipuji
+14,09,Panti
+15,09,Sukorambi
+16,09,Jenggawah
+17,09,Ajung
+18,09,Tempurejo
+19,09,Kaliwates
+20,09,Patrang
+21,09,Sumbersari
+22,09,Arjasa
+23,09,Mumbulsari
+24,09,Pakusari
+25,09,Jelbuk
+26,09,Mayang
+27,09,Kalisat
+28,09,Ledokombo
+29,09,Sukowono
+30,09,Silo
+31,09,Sumberjambe
+01,10,Pesanggaran
+02,10,Bangorejo
+03,10,Purwoharjo
+04,10,Tegaldlimo
+05,10,Muncar
+06,10,Cluring
+07,10,Gambiran
+08,10,Srono
+09,10,Genteng
+10,10,Glenmore
+11,10,Kalibaru
+12,10,Singojuruh
+13,10,Rogojampi
+14,10,Kabat
+15,10,Glagah
+16,10,Banyuwangi
+17,10,Giri
+18,10,Wongsorejo
+19,10,Songgon
+20,10,Sempu
+21,10,Kalipuro
+22,10,Siliragung
+23,10,Tegalsari
+24,10,Licin
+25,10,Blimbingsari
+01,11,Maesan
+02,11,Tamanan
+03,11,Tlogosari
+04,11,Sukosari
+05,11,Pujer
+06,11,Grujugan
+07,11,Curahdami
+08,11,Tenggarang
+09,11,Wonosari
+10,11,Tapen
+11,11,Bondowoso
+12,11,Wringin
+13,11,Tegalampel
+14,11,Klabang
+15,11,Cermee
+16,11,Prajekan
+17,11,Pakem
+18,11,Sumberwringin
+19,11,Sempol
+20,11,Binakal
+21,11,"Taman Krocok"
+22,11,Botolinggo
+23,11,"Jambesari Darus Sholah"
+01,12,Jatibanteng
+02,12,Besuki
+03,12,Suboh
+04,12,Mlandingan
+05,12,Kendit
+06,12,Panarukan
+07,12,Situbondo
+08,12,Panji
+09,12,Mangaran
+10,12,Kapongan
+11,12,Arjasa
+12,12,Jangkar
+13,12,Asembagus
+14,12,Banyuputih
+15,12,Sumbermalang
+16,12,Banyuglugur
+17,12,Bungatan
+01,13,Sukapura
+02,13,Sumber
+03,13,Kuripan
+04,13,Bantaran
+05,13,Leces
+06,13,Banyuanyar
+07,13,Tiris
+08,13,Krucil
+09,13,Gading
+10,13,Pakuniran
+11,13,Kotaanyar
+12,13,Paiton
+13,13,Besuk
+14,13,Kraksaan
+15,13,Krejengan
+16,13,Pejarakan
+17,13,Maron
+18,13,Gending
+19,13,Dringu
+20,13,Tegalsiwalan
+21,13,Sumberasih
+22,13,Wonomerto
+23,13,Tongas
+24,13,Lumbang
+01,14,Purwodadi
+02,14,Tutur
+03,14,Puspo
+04,14,Lumbang
+05,14,Pasrepan
+06,14,Kejayan
+07,14,Wonorejo
+08,14,Purwosari
+09,14,Sukorejo
+10,14,Prigen
+11,14,Pandaan
+12,14,Gempol
+13,14,Beji
+14,14,Bangil
+15,14,Rembang
+16,14,Kraton
+17,14,Pohjentrek
+18,14,Gondangwetan
+19,14,Winongan
+20,14,Grati
+21,14,Nguling
+22,14,Lekok
+23,14,Rejoso
+24,14,Tosari
+01,15,Tarik
+02,15,Prambon
+03,15,Krembung
+04,15,Porong
+05,15,Jabon
+06,15,Tanggulangin
+07,15,Candi
+08,15,Sidoarjo
+09,15,Tulangan
+10,15,Wonoayu
+11,15,Krian
+12,15,Balongbendo
+13,15,Taman
+14,15,Sukodono
+15,15,Buduran
+16,15,Gedangan
+17,15,Sedati
+18,15,Waru
+01,16,Jatirejo
+02,16,Gondang
+03,16,Pacet
+04,16,Trawas
+05,16,Ngoro
+06,16,Pungging
+07,16,Kutorejo
+08,16,Mojosari
+09,16,Dlanggu
+10,16,Bangsal
+11,16,Puri
+12,16,Trowulan
+13,16,Sooko
+14,16,Gedeg
+15,16,Kemlagi
+16,16,Jetis
+17,16,Dawarblandong
+18,16,Mojoanyar
+01,17,Perak
+02,17,Gudo
+03,17,Ngoro
+04,17,Bareng
+05,17,Wonosalam
+06,17,Mojoagung
+07,17,Mojowarno
+08,17,Diwek
+09,17,Jombang
+10,17,Peterongan
+11,17,Sumobito
+12,17,Kesamben
+13,17,Tembelang
+14,17,Ploso
+15,17,Plandaan
+16,17,Kabuh
+17,17,Kudu
+18,17,Bandarkedungmulyo
+19,17,Jogoroto
+20,17,Megaluh
+21,17,Ngusikan
+01,18,Sawahan
+02,18,Ngetos
+03,18,Berbek
+04,18,Loceret
+05,18,Pace
+06,18,Prambon
+07,18,Ngronggot
+08,18,Kertosono
+09,18,Patianrowo
+10,18,Baron
+11,18,Tanjunganom
+12,18,Sukomoro
+13,18,Nganjuk
+14,18,Bagor
+15,18,Wilangan
+16,18,Rejoso
+17,18,Gondang
+18,18,Ngluyu
+19,18,Lengkong
+20,18,Jatikalen
+01,19,"Kebon Sari"
+02,19,Dolopo
+03,19,Geger
+04,19,Dagangan
+05,19,Kare
+06,19,Gemarang
+07,19,Wungu
+08,19,Madiun
+09,19,Jiwan
+10,19,Balerejo
+11,19,Mejayan
+12,19,Saradan
+13,19,Pilangkenceng
+14,19,Sawahan
+15,19,Wonoasri
+01,20,Poncol
+02,20,Parang
+03,20,Lembeyan
+04,20,Takeran
+05,20,Kawedanan
+06,20,Magetan
+07,20,Plaosan
+08,20,Panekan
+09,20,Sukomoro
+10,20,Bendo
+11,20,Maospati
+12,20,Barat
+13,20,Karangrejo
+14,20,Karas
+15,20,Kartoharjo
+16,20,Ngariboyo
+17,20,Nguntoronadi
+18,20,Sidorejo
+01,21,Sine
+02,21,Ngrambe
+03,21,Jogorogo
+04,21,Kendal
+05,21,Geneng
+06,21,Kwadungan
+07,21,Karangjati
+08,21,Padas
+09,21,Ngawi
+10,21,Paron
+11,21,Kedunggalar
+12,21,Widodaren
+13,21,Mantingan
+14,21,Pangkur
+15,21,Bringin
+16,21,Pitu
+17,21,Karanganyar
+18,21,Gerih
+19,21,Kasreman
+01,22,Ngraho
+02,22,Tambakrejo
+03,22,Ngambon
+04,22,Ngasem
+05,22,Bubulan
+06,22,Dander
+07,22,Sugihwaras
+08,22,Kedungadem
+09,22,Kepohbaru
+10,22,Baureno
+11,22,Kanor
+12,22,Sumberejo
+13,22,Balen
+14,22,Kapas
+15,22,Bojonegoro
+16,22,Kalitidu
+17,22,Malo
+18,22,Purwosari
+19,22,Padangan
+20,22,Kasiman
+21,22,Temayang
+22,22,Margomulyo
+23,22,Trucuk
+24,22,Sukosewu
+25,22,Kedewan
+26,22,Gondang
+27,22,Sekar
+28,22,Gayam
+01,23,Kenduruan
+02,23,Jatirogo
+03,23,Bangilan
+04,23,Bancar
+05,23,Senori
+06,23,Tambakboyo
+07,23,Singgahan
+08,23,Kerek
+09,23,Parengan
+10,23,Montong
+11,23,Soko
+12,23,Jenu
+13,23,Merakurak
+14,23,Rengel
+15,23,Semanding
+16,23,Tuban
+17,23,Plumpang
+18,23,Palang
+19,23,Widang
+20,23,Grabagan
+01,24,Sukorame
+02,24,Bluluk
+03,24,Modo
+04,24,Ngimbang
+05,24,Babat
+06,24,Kedungpring
+07,24,Brondong
+08,24,Laren
+09,24,Sekaran
+10,24,Maduran
+11,24,Sambeng
+12,24,Sugio
+13,24,Pucuk
+14,24,Paciran
+15,24,Solokuro
+16,24,Mantup
+17,24,Sukodadi
+18,24,Karanggeneng
+19,24,Kembangbahu
+20,24,Kalitengah
+21,24,Turi
+22,24,Lamongan
+23,24,Tikung
+24,24,Karangbinangun
+25,24,Deket
+26,24,Glagah
+27,24,Sarirejo
+01,25,Dukun
+02,25,Balongpanggang
+03,25,Panceng
+04,25,Benjeng
+05,25,Duduksampeyan
+06,25,Wringinanom
+07,25,Ujungpangkah
+08,25,Kedamean
+09,25,Sidayu
+10,25,Manyar
+11,25,Cerme
+12,25,Bungah
+13,25,Menganti
+14,25,Kebomas
+15,25,Driyorejo
+16,25,Gresik
+17,25,Sangkapura
+18,25,Tambak
+01,26,Bangkalan
+02,26,Socah
+03,26,Burneh
+04,26,Kamal
+05,26,Arosbaya
+06,26,Geger
+07,26,Klampis
+08,26,Sepulu
+09,26,"Tanjung Bumi"
+10,26,Kokop
+11,26,Kwanyar
+12,26,Labang
+13,26,"Tanah Merah"
+14,26,Tragah
+15,26,Blega
+16,26,Modung
+17,26,Konang
+18,26,Galis
+01,27,Sreseh
+02,27,Torjun
+03,27,Sampang
+04,27,Camplong
+05,27,Omben
+06,27,Kedungdung
+07,27,Jrengik
+08,27,Tambelangan
+09,27,Banyuates
+10,27,Robatal
+11,27,Sokobanah
+12,27,Ketapang
+13,27,Pangarengan
+14,27,Karangpenang
+01,28,Tlanakan
+02,28,Pademawu
+03,28,Galis
+04,28,Pamekasan
+05,28,Proppo
+06,28,Palenggaan
+07,28,Pegantenan
+08,28,Larangan
+09,28,Pakong
+10,28,Waru
+11,28,Batumarmar
+12,28,Kadur
+13,28,Pasean
+01,29,"Kota Sumenep"
+02,29,Kalianget
+03,29,Manding
+04,29,Talango
+05,29,Bluto
+06,29,Saronggi
+07,29,Lenteng
+08,29,Giliginting
+09,29,Guluk-Guluk
+10,29,Ganding
+11,29,Pragaan
+12,29,Ambunten
+13,29,Pasongsongan
+14,29,Dasuk
+15,29,Rubaru
+16,29,"Batang Batang"
+17,29,Batuputih
+18,29,Dungkek
+19,29,Gapura
+20,29,Gayam
+21,29,Nonggunong
+22,29,Raas
+23,29,Masalembu
+24,29,Arjasa
+25,29,Sapeken
+26,29,Batuan
+27,29,Kangayan
+01,71,Mojoroto
+02,71,Kota
+03,71,Pesantren
+01,72,Kepanjenkidul
+02,72,Sukorejo
+03,72,Sananwetan
+01,73,Blimbing
+02,73,Klojen
+03,73,Kedungkandang
+04,73,Sukun
+05,73,Lowokwaru
+01,74,Kademangan
+02,74,Wonoasih
+03,74,Mayangan
+04,74,Kanigaran
+05,74,Kedopok
+01,75,Gadingrejo
+02,75,Purworejo
+03,75,"Bugul Kidul"
+04,75,Panggungrejo
+01,76,Prajuritkulon
+02,76,Magersari
+03,76,Kranggan
+01,77,Kartoharjo
+02,77,Manguharjo
+03,77,Taman
+01,78,"Karang Pilang"
+02,78,Wonocolo
+03,78,Rungkut
+04,78,Wonokromo
+05,78,Tegalsari
+06,78,Sawahan
+07,78,Genteng
+08,78,Gubeng
+09,78,Sukolilo
+10,78,Tambaksari
+11,78,Simokerto
+12,78,"Pabean Cantian"
+13,78,Bubutan
+14,78,Tandes
+15,78,Krembangan
+16,78,Semampir
+17,78,Kenjeran
+18,78,Lakarsantri
+19,78,Benowo
+20,78,Wiyung
+21,78,"Dukuh Pakis"
+22,78,Gayungan
+23,78,Jambangan
+24,78,"Tenggilis Mejoyo"
+25,78,"Gunung Anyar"
+26,78,Mulyorejo
+27,78,Sukomanunggal
+28,78,"Asem Rowo"
+29,78,Bulak
+30,78,Pakal
+31,78,Sambikerep
+01,79,Batu
+02,79,Bumiaji
+03,79,Junrejo
+01,01,Sumur
+02,01,Cimanggu
+03,01,Cibaliung
+04,01,Cikeusik
+05,01,Cigeulis
+06,01,Panimbang
+07,01,Angsana
+08,01,Munjul
+09,01,Pagelaran
+10,01,Bojong
+11,01,Picung
+12,01,Labuan
+13,01,Menes
+14,01,Saketi
+15,01,Cipeucang
+16,01,Jiput
+17,01,Mandalawangi
+18,01,Cimanuk
+19,01,Kaduhejo
+20,01,Banjar
+21,01,Pandeglang
+22,01,Cadasari
+23,01,Cisata
+24,01,Patia
+25,01,"Karang Tanjung"
+26,01,Cikedal
+27,01,Cibitung
+28,01,Carita
+29,01,Sukaresmi
+30,01,Mekarjaya
+31,01,Sindangresmi
+32,01,Pulosari
+33,01,Koroncong
+34,01,Majasari
+35,01,Sobang
+01,02,Malingping
+02,02,Panggarangan
+03,02,Bayah
+04,02,Cipanas
+05,02,Muncang
+06,02,Leuwidamar
+07,02,Bojongmanik
+08,02,Gunungkencana
+09,02,Banjarsari
+10,02,Cileles
+11,02,Cimarga
+12,02,Sajira
+13,02,Maja
+14,02,Rangkasbitung
+15,02,Warunggunung
+16,02,Cijaku
+17,02,Cikulur
+18,02,Cibadak
+19,02,Cibeber
+20,02,Cilograng
+21,02,Wanasalam
+22,02,Sobang
+23,02,"Curug bitung"
+24,02,Kalanganyar
+25,02,Lebakgedong
+26,02,Cihara
+27,02,Cirinten
+28,02,Cigemlong
+01,03,Balaraja
+02,03,Jayanti
+03,03,Tigaraksa
+04,03,Jambe
+05,03,Cisoka
+06,03,Kresek
+07,03,Kronjo
+08,03,Mauk
+09,03,Kemiri
+10,03,Sukadiri
+11,03,Rajeg
+12,03,"Pasar Kemis"
+13,03,Teluknaga
+14,03,Kosambi
+15,03,Pakuhaji
+16,03,Sepatan
+17,03,Curug
+18,03,Cikupa
+19,03,Panongan
+20,03,Legok
+22,03,Pagedangan
+23,03,Cisauk
+27,03,Sukamulya
+28,03,"Kelapa Dua"
+29,03,"Sindang Jaya"
+30,03,"Sepatan Timur"
+31,03,Solear
+32,03,"Gunung Kaler"
+33,03,"Mekar Baru"
+05,04,Kramatwatu
+06,04,Waringinkurung
+07,04,Bojonegara
+08,04,"Pulo Ampel"
+09,04,Ciruas
+11,04,Kragilan
+12,04,Pontang
+13,04,Tirtayasa
+14,04,Tanara
+15,04,Cikande
+16,04,Kibin
+17,04,Carenang
+18,04,Binuang
+19,04,Petir
+20,04,"Tunjung Teja"
+22,04,Baros
+23,04,Cikeusal
+24,04,Pamarayan
+25,04,Kopo
+26,04,Jawilan
+27,04,Ciomas
+28,04,Pabuaran
+29,04,Padarincang
+30,04,Anyar
+31,04,Cinangka
+32,04,Mancak
+33,04,"Gunung Sari"
+34,04,Bandung
+35,04,"Lebak Wangi"
+01,71,Tangerang
+02,71,Jatiuwung
+03,71,Batuceper
+04,71,Benda
+05,71,Cipondoh
+06,71,Ciledug
+07,71,Karawaci
+08,71,Periuk
+09,71,Cibodas
+10,71,Neglasari
+11,71,Pinang
+12,71,"Karang Tengah"
+13,71,Larangan
+01,72,Cibeber
+02,72,Cilegon
+03,72,Pulomerak
+04,72,Ciwandan
+05,72,Jombang
+06,72,Gerogol
+07,72,Purwakarta
+08,72,Citangkil
+01,73,Serang
+02,73,Kasemen
+03,73,Walantaka
+04,73,Curug
+05,73,"Cipocok Jaya"
+06,73,Taktakan
+01,74,Serpong
+02,74,"Serpong Utara"
+03,74,"Pondok Aren"
+04,74,Ciputat
+05,74,"Ciputat Timur"
+06,74,Pamulang
+07,74,Setu
+01,01,Negara
+02,01,Mendoyo
+03,01,Pekutatan
+04,01,Melaya
+05,01,Jembrana
+01,02,Selemadeg
+02,02,"Salamadeg Timur"
+03,02,"Salemadeg Barat"
+04,02,Kerambitan
+05,02,Tabanan
+06,02,Kediri
+07,02,Marga
+08,02,Penebel
+09,02,Baturiti
+10,02,Pupuan
+01,03,Kuta
+02,03,Mengwi
+03,03,Abiansemal
+04,03,Petang
+05,03,"Kuta Selatan"
+06,03,"Kuta Utara"
+01,04,Sukawati
+02,04,Blahbatuh
+03,04,Gianyar
+04,04,Tampaksiring
+05,04,Ubud
+06,04,Tegallalang
+07,04,Payangan
+01,05,"Nusa Penida"
+02,05,Banjarangkan
+03,05,Klungkung
+04,05,Dawan
+01,06,Susut
+02,06,Bangli
+03,06,Tembuku
+04,06,Kintamani
+01,07,Rendang
+02,07,Sidemen
+03,07,Manggis
+04,07,Karangasem
+05,07,Abang
+06,07,Bebandem
+07,07,Selat
+08,07,Kubu
+01,08,Gerokgak
+02,08,Seririt
+03,08,Busungbiu
+04,08,Banjar
+05,08,Sukasada
+06,08,Buleleng
+07,08,Sawan
+08,08,Kubutambahan
+09,08,Tejakula
+01,71,"Denpasar Selatan"
+02,71,"Denpasar Timur"
+03,71,"Denpasar Barat"
+04,71,"Denpasar Utara"
+01,01,Gerung
+02,01,Kediri
+03,01,Narmada
+07,01,Sekotong
+08,01,Labuapi
+09,01,Gunungsari
+12,01,Lingsar
+13,01,Lembar
+14,01,"Batu Layar"
+15,01,Kuripan
+01,02,Praya
+02,02,Jonggat
+03,02,Batukliang
+04,02,Pujut
+05,02,"Praya Barat"
+06,02,"Praya Timur"
+07,02,Janapria
+08,02,Pringgarata
+09,02,Kopang
+10,02,"Praya Tengah"
+11,02,"Praya Barat Daya"
+12,02,"Batukliang Utara"
+01,03,Keruak
+02,03,Sakra
+03,03,Terara
+04,03,Sikur
+05,03,Masbagik
+06,03,Sukamulia
+07,03,Selong
+08,03,Pringgabaya
+09,03,Aikmel
+10,03,Sambelia
+11,03,"Montong Gading"
+12,03,Pringgasela
+13,03,Suralaga
+14,03,Wanasaba
+15,03,Sembalun
+16,03,Suwela
+17,03,"Labuhan Haji"
+18,03,"Sakra Timur"
+19,03,"Sakra Barat"
+20,03,Jerowaru
+21,03,Lenek
+02,04,Lunyuk
+05,04,Alas
+06,04,Utan
+07,04,"Batu Lanteh"
+08,04,Sumbawa
+09,04,"Moyo Hilir"
+10,04,"Moyo Hulu"
+11,04,Ropang
+12,04,Lape
+13,04,Plampang
+14,04,Empang
+17,04,"Alas Barat"
+18,04,"Labuhan Badas"
+19,04,Labangka
+20,04,Buer
+21,04,Rhee
+22,04,"Unter Iwes"
+23,04,"Moyo Utara"
+24,04,Maronge
+25,04,Tarano
+26,04,Lopok
+27,04,Lenangguar
+28,04,"Orong Telu"
+29,04,Lantung
+01,05,Dompu
+02,05,Kempo
+03,05,Hu'u
+04,05,Kilo
+05,05,Woja
+06,05,Pekat
+07,05,Manggalewa
+08,05,Pajo
+01,06,Monta
+02,06,Bolo
+03,06,Woha
+04,06,Belo
+05,06,Wawo
+06,06,Sape
+07,06,Wera
+08,06,Donggo
+09,06,Sanggar
+10,06,Ambalawi
+11,06,Langgudu
+12,06,Lambu
+13,06,Madapangga
+14,06,Tambora
+15,06,Soromandi
+16,06,Parado
+17,06,Lambitu
+18,06,Palibelo
+01,07,Jereweh
+02,07,Taliwang
+03,07,Seteluk
+04,07,Sekongkang
+05,07,"Brang Rea"
+06,07,"Poto Tano"
+07,07,"Brang Ene"
+08,07,Maluk
+01,08,Tanjung
+02,08,Gangga
+03,08,Kayangan
+04,08,Bayan
+05,08,Pemenang
+01,71,Ampenan
+02,71,Mataram
+03,71,Cakranegara
+04,71,Sekarbela
+05,71,Selaprang
+06,71,Sandubaya
+01,72,"RasanaE Barat"
+02,72,"RasanaE Timur"
+03,72,Asakota
+04,72,Raba
+05,72,Mpunda
+04,01,Semau
+05,01,"Kupang Barat"
+06,01,"Kupang Timur"
+07,01,Sulamu
+08,01,"Kupang Tengah"
+09,01,Amarasi
+10,01,Fatuleu
+11,01,Takari
+12,01,"Amfoang Selatan"
+13,01,"Amfoang Utara"
+16,01,Nekamese
+17,01,"Amarasi Barat"
+18,01,"Amarasi Selatan"
+19,01,"Amarasi Timur"
+20,01,"Amabi Oefeto Timur"
+21,01,"Amfoang Barat Daya"
+22,01,"Amfoang Barat Laut"
+23,01,"Semau Selatan"
+24,01,Taebenu
+25,01,"Amabi Oefeto"
+26,01,"Amfoang Timur"
+27,01,"Fatuleu Barat"
+28,01,"Fatuleu Tengah"
+30,01,"Amfoang Tengah"
+01,02,"Kota Soe"
+02,02,"Mollo Selatan"
+03,02,"Mollo Utara"
+04,02,"Amanuban Timur"
+05,02,"Amanuban Tengah"
+06,02,"Amanuban Selatan"
+07,02,"Amanuban Barat"
+08,02,"Amanatun Selatan"
+09,02,"Amanatun Utara"
+10,02,KI'E
+11,02,Kuanfatu
+12,02,Fatumnasi
+13,02,Polen
+14,02,"Batu Putih"
+15,02,Boking
+16,02,Toianas
+17,02,Nunkolo
+18,02,Oenino
+19,02,Kolbano
+20,02,"Kot olin"
+21,02,Kualin
+22,02,"Mollo Barat"
+23,02,"Kok Baun"
+24,02,Noebana
+25,02,Santian
+26,02,Noebeba
+27,02,Kuatnana
+28,02,Fautmolo
+29,02,Fatukopa
+30,02,"Mollo Tengah"
+31,02,Tobu
+32,02,Nunbena
+01,03,"Miomafo Timur"
+02,03,"Miomafo Barat"
+03,03,"Biboki Selatan"
+04,03,Noemuti
+05,03,"Kota Kefamenanu"
+06,03,"Biboki Utara"
+07,03,"Biboki Anleu"
+08,03,Insana
+09,03,"Insana Utara"
+10,03,"Noemuti Timur"
+11,03,"Miomaffo Tengah"
+12,03,Musi
+13,03,Mutis
+14,03,"Bikomi Selatan"
+15,03,"Bikomi Tengah"
+16,03,"Bikomi Nilulat"
+17,03,"Bikomi Utara"
+18,03,Naibenu
+19,03,"Insana Fafinesu"
+20,03,"Insana Barat"
+21,03,"Insana Tengah"
+22,03,"Biboki Tan Pah"
+23,03,"Biboki Moenleu"
+24,03,"Biboki Feotleu"
+01,04,Lamaknen
+02,04,TasifetoTimur
+03,04,Raihat
+04,04,"Tasifeto Barat"
+05,04,"Kakuluk Mesak"
+12,04,"Kota Atambua"
+13,04,Raimanuk
+17,04,Lasiolat
+18,04,"Lamaknen Selatan"
+21,04,"Atambua Barat"
+22,04,"Atambua Selatan"
+23,04,"Nanaet Duabesi"
+01,05,"Teluk Mutiara"
+02,05,"Alor Barat Laut"
+03,05,"Alor Barat Daya"
+04,05,"Alor Selatan"
+05,05,"Alor Timur"
+06,05,Pantar
+07,05,"Alor Tengah Utara"
+08,05,"Alor Timur Laut"
+09,05,"Pantar Barat"
+10,05,Kabola
+11,05,"Pulau Pura"
+12,05,Mataru
+13,05,Pureman
+14,05,"Pantar Timur"
+15,05,Lembur
+16,05,"Pantar Tengah"
+17,05,"Pantar Baru Laut"
+18,05,"Abad Selatan"
+01,06,Wulanggitang
+02,06,Titehena
+03,06,Larantuka
+04,06,"Ile Mandiri"
+05,06,"Tanjung Bunga"
+06,06,"Solor Barat"
+07,06,"Solor Timur"
+08,06,"Adonara Barat"
+09,06,"Wotan Ulumando"
+10,06,"Adonara Timur"
+11,06,Kelubagolit
+12,06,Witihama
+13,06,"Ile Boleng"
+14,06,"Demon Pagong"
+15,06,Lewolema
+16,06,"Ile Bura"
+17,06,Adonara
+18,06,"Adonara Tengah"
+19,06,"Solor Selatan"
+01,07,Paga
+02,07,Mego
+03,07,Lela
+04,07,Nita
+05,07,Alok
+06,07,Palue
+07,07,Nelle
+08,07,Talibura
+09,07,Waigete
+10,07,Kewapante
+11,07,Bola
+12,07,Magepanda
+13,07,Waiblama
+14,07,"Alok Barat"
+15,07,"Alok Timur"
+16,07,Koting
+17,07,"Tana Wawo"
+18,07,Hewokloang
+19,07,Kangae
+20,07,Doreng
+21,07,Mapitara
+01,08,Nangapanda
+02,08,"Pulau Ende"
+03,08,Ende
+04,08,"Ende Selatan"
+05,08,Ndona
+06,08,Detusoko
+07,08,Wewaria
+08,08,Wolowaru
+09,08,Wolojita
+10,08,Maurole
+11,08,Maukaro
+12,08,"Lio Timur"
+13,08,"Kota Baru"
+14,08,Kelimutu
+15,08,Detukeli
+16,08,"Ndona Timur"
+17,08,Ndori
+18,08,"Ende Utara"
+19,08,"Ende Tengah"
+20,08,"Ende Timur"
+21,08,"Lepembusu Kelisoke"
+01,09,Aimere
+02,09,Golewa
+06,09,Bajawa
+07,09,Soa
+09,09,Riung
+12,09,Jerebuu
+14,09,"Riung Barat"
+15,09,"Bajawa Utara"
+16,09,Wolomeze
+18,09,"Golewa Selatan"
+19,09,"Golewa Barat"
+20,09,Inerie
+01,10,"Wae Rii"
+03,10,Ruteng
+05,10,"Satar Mese"
+06,10,Cibal
+11,10,Reok
+12,10,"Langke Rembong"
+13,10,"Satar Mese Barat"
+14,10,"Rahong Utara"
+15,10,Lelak
+16,10,"Reok Barat"
+17,10,"Cibal barat"
+18,10,"Satar Mese Utara"
+01,11,"Kota Waingapu"
+02,11,Haharu
+03,11,Lewa
+04,11,"Nggaha Ori Angu"
+05,11,Tabundung
+06,11,"Pinu Pahar"
+07,11,Pandawai
+08,11,Umalulu
+09,11,Rindi
+10,11,"Pahunga Lodu"
+11,11,"Wulla Waijelu"
+12,11,Paberiwai
+13,11,Karera
+14,11,"Kahaungu Eti"
+15,11,"Matawai La Pawu"
+16,11,Kambera
+17,11,"Kambata Mapambuhang"
+18,11,"Lewa Tidahu"
+19,11,"Katala Hamu Lingu"
+20,11,Kanatang
+21,11,"Ngadu Ngala"
+22,11,Mahu
+04,12,"Tana Righu"
+10,12,Loli
+11,12,Wanokaka
+12,12,Lamboya
+15,12,"Kota Waikabubak"
+18,12,"Laboya Barat"
+01,13,"Naga Wutung"
+02,13,Atadei
+03,13,"Ile Ape"
+04,13,Lebatukan
+05,13,Nubatukan
+06,13,Omesuri
+07,13,Buyasuri
+08,13,Wulandoni
+09,13,"Ile Ape Timur"
+01,14,"Rote Barat Daya"
+02,14,"Rote Barat Laut"
+03,14,Lobalain
+04,14,"Rote Tengah"
+05,14,"Pantai Baru"
+06,14,"Rote Timur"
+07,14,"Rote Barat"
+08,14,"Rote Selatan"
+09,14,"Ndao Nuse"
+10,14,"Landu Leko"
+11,14,Loaholu
+01,15,"Macang Pacar"
+02,15,Kuwus
+03,15,Lembor
+04,15,"Sano Nggoang"
+05,15,Komodo
+06,15,Boleng
+07,15,Welak
+08,15,Ndoso
+09,15,"Lembor Selatan"
+10,15,Mbeliling
+11,15,Pacar
+12,15,"Kuwus Barat"
+01,16,Aesesa
+02,16,Nangaroro
+03,16,Boawae
+04,16,Mauponggo
+05,16,Wolowae
+06,16,"Keo Tengah"
+07,16,"Aesesa Selatan"
+01,17,"Katiku Tana"
+02,17,"Umbu Ratu Nggay Barat"
+03,17,Mamboro
+04,17,"Umbu Ratu Nggay"
+05,17,"Katiku Tana Selatan"
+06,17,"Umbu Ratu Nggay Tengah"
+01,18,Loura
+02,18,"Wewewa Utara"
+03,18,"Wewewa Timur"
+04,18,"Wewewa Barat"
+05,18,"Wewewa Selatan"
+06,18,"Kodi Bangedo"
+07,18,Kodi
+08,18,"Kodi Utara"
+09,18,"Kota Tambolaka"
+10,18,"Wewewa Tengah"
+11,18,"Kodi Balaghar"
+01,19,Borong
+02,19,"Poco Ranaka"
+03,19,"Lamba Leda"
+04,19,"Sambi Rampas"
+05,19,Elar
+06,19,"Kota Komba"
+07,19,"Rana Mese"
+08,19,"Poco Ranaka Timur"
+09,19,"Elar Selatan"
+10,19,"Kota Komba Utara"
+11,19,"Lamba Leda Utara"
+12,19,Congkar
+01,20,"Sabu Barat"
+02,20,"Sabu Tengah"
+03,20,"Sabu Timur"
+04,20,"Sabu Liae"
+05,20,"Hawu Mehara"
+06,20,Raijua
+01,21,"Malaka Tengah"
+02,21,"Malaka Barat"
+03,21,Wewiku
+04,21,Weliman
+05,21,Rinhat
+06,21,"Io Kufeu"
+07,21,Sasitamean
+08,21,Laenmanen
+09,21,"Malaka Timur"
+10,21,"Kobalima Timur"
+11,21,Kobalima
+12,21,"Botin Leobele"
+01,71,Alak
+02,71,Maulafa
+03,71,"Kelapa Lima"
+04,71,Oebobo
+05,71,"Kota Raja"
+06,71,"Kota Lama"
+01,01,Sambas
+02,01,"Teluk Keramat"
+03,01,Jawai
+04,01,Tebas
+05,01,Pemangkat
+06,01,Sejangkung
+07,01,Selakau
+08,01,Paloh
+09,01,"Sajingan Besar"
+10,01,Subah
+11,01,Galing
+12,01,Tekarang
+13,01,Semparuk
+14,01,Sajad
+15,01,Sebawi
+16,01,"Jawai Selatan"
+17,01,Tangaran
+18,01,Salatiga
+19,01,"Selakau Timur"
+01,02,"Mempawah Hilir"
+06,02,Toho
+07,02,"Sungai Pinyuh"
+08,02,Siantan
+12,02,"Sungai Kunyit"
+15,02,Segedong
+16,02,Anjongan
+17,02,Sadaniang
+18,02,"Mempawah Timur"
+01,03,Kapuas
+02,03,Mukok
+03,03,Noyan
+04,03,Jangkang
+05,03,Bonti
+06,03,Beduai
+07,03,Sekayam
+08,03,Kembayan
+09,03,Parindu
+10,03,"Tayan Hulu"
+11,03,"Tayan Hilir"
+12,03,Balai
+13,03,Toba
+20,03,Meliau
+21,03,Entikong
+01,04,"Matan Hilir Utara"
+02,04,Marau
+03,04,"Manis Mata"
+04,04,Kendawangan
+05,04,Sandai
+07,04,"Sungai Laur"
+08,04,"Simpang Hulu"
+11,04,"Nanga Tayap"
+12,04,"Matan Hilir Selatan"
+13,04,"Tumbang Titi"
+14,04,"Jelai Hulu"
+16,04,"Delta Pawan"
+17,04,"Muara Pawan"
+18,04,"Benua Kayong"
+19,04,"Hulu Sungai"
+20,04,"Simpang Dua"
+21,04,"Air Upas"
+22,04,Singkup
+24,04,Pemahan
+25,04,"Sungai Melayu Rayak"
+01,05,Sintang
+02,05,Tempunak
+03,05,Sepauk
+04,05,"Ketungau Hilir"
+05,05,"Ketungau Tengah"
+06,05,"Ketungau Hulu"
+07,05,Dedai
+08,05,"Kayan Hilir"
+09,05,"Kayan Hulu"
+14,05,Serawai
+15,05,Ambalau
+19,05,"Kelam Permai"
+20,05,"Sungai Tebelian"
+21,05,"Binjai Hulu"
+01,06,"Putussibau Utara"
+02,06,Bika
+03,06,"Embaloh Hilir"
+04,06,"Embaloh Hulu"
+05,06,"Bunut Hilir"
+06,06,"Bunut Hulu"
+07,06,Jongkong
+08,06,"Hulu Gurung"
+09,06,Selimbau
+10,06,Semitau
+11,06,Seberuang
+12,06,"Batang Lupar"
+13,06,Empanang
+14,06,Badau
+15,06,"Silat Hilir"
+16,06,"Silat Hulu"
+17,06,"Putussibau Selatan"
+18,06,Kalis
+19,06,"Boyan Tanjung"
+20,06,Mentebah
+21,06,Pengkadan
+22,06,Suhaid
+23,06,"Puring Kencana"
+01,07,"Sungai Raya"
+02,07,Samalantan
+03,07,Ledo
+04,07,Bengkayang
+05,07,Seluas
+06,07,"Sanggau Ledo"
+07,07,"Jagoi Babang"
+08,07,Monterado
+09,07,Teriak
+10,07,"Suti Semarang"
+11,07,Capkala
+12,07,Siding
+13,07,Lumar
+14,07,"Sungai Betung"
+15,07,"Sungai Raya Kepulauan"
+16,07,"Lembah Bawang"
+17,07,"Tujuh Belas"
+01,08,Ngabang
+02,08,"Mempawah Hulu"
+03,08,Menjalin
+04,08,Mandor
+05,08,"Air Besar"
+06,08,Menyuke
+07,08,"Sengah Temila"
+08,08,Meranti
+09,08,"Kuala Behe"
+10,08,Sebangki
+11,08,Jelimpo
+12,08,"Banyuke Hulu"
+13,08,Sompak
+01,09,"Sekadau Hilir"
+02,09,"Sekadau Hulu"
+03,09,"Nanga Taman"
+04,09,"Nanga Mahap"
+05,09,"Belitang Hilir"
+06,09,"Belitang Hulu"
+07,09,Belitang
+01,10,Belimbing
+02,10,"Nanga Pinoh"
+03,10,"Ella Hilir"
+04,10,Menukung
+05,10,Sayan
+06,10,"Tanah Pinoh"
+07,10,Sokan
+08,10,"Pinoh Utara"
+09,10,"Pinoh Selatan"
+10,10,"Belimbing Hulu"
+11,10,"Tanah Pinoh Barat"
+01,11,Sukadana
+02,11,"Simpang Hilir"
+03,11,"Teluk Batang"
+04,11,"Pulau Maya"
+05,11,Seponti
+06,11,"Kepulauan Karimata"
+01,12,"Sungai Raya"
+02,12,"Kuala Mandor B"
+03,12,"Sungai Ambawang"
+04,12,Terentang
+05,12,"Batu Ampar"
+06,12,Kubu
+07,12,"Rasau Jaya"
+08,12,"Teluk Pakedai"
+09,12,"Sungai Kakap"
+01,71,"Pontianak Selatan"
+02,71,"Pontianak Timur"
+03,71,"Pontianak Barat"
+04,71,"Pontianak Utara"
+05,71,"Pontianak Kota"
+06,71,"Pontianak Tenggara"
+01,72,"Singkawang Tengah"
+02,72,"Singkawang Barat"
+03,72,"Singkawang Timur"
+04,72,"Singkawang Utara"
+05,72,"Singkawang Selatan"
+01,01,Kumai
+02,01,"Arut Selatan"
+03,01,"Kotawaringin Lama"
+04,01,"Arut Utara"
+05,01,"Pangkalan Lada"
+06,01,"Pangkalan Banteng"
+01,02,"Kota Besi"
+02,02,Cempaga
+03,02,"Mentaya Hulu"
+04,02,Parenggean
+05,02,Baamang
+06,02,"Mentawa Baru Ketapang"
+07,02,"Mentaya Hilir Utara"
+08,02,"Mentaya Hilir Selatan"
+09,02,"Pulau Hanaut"
+10,02,"Antang Kalang"
+11,02,"Teluk Sampit"
+12,02,Seranau
+13,02,"Cempaga Hulu"
+14,02,Telawang
+15,02,"Bukit Santuai"
+16,02,"Tualan Hulu"
+17,02,"Telaga Antang"
+01,03,Selat
+02,03,"Kapuas Hilir"
+03,03,"Kapuas Timur"
+04,03,"Kapuas Kuala"
+05,03,"Kapuas Barat"
+06,03,"Pulau Petak"
+07,03,"Kapuas Murung"
+08,03,Basarang
+09,03,Mantangai
+10,03,Timpah
+11,03,"Kapuas Tengah"
+12,03,"Kapuas Hulu"
+13,03,"Tamban Catur"
+14,03,"Pasak Talawang"
+15,03,"Mandau Talawang"
+16,03,Dadahup
+17,03,Bataguh
+01,04,Jenamas
+02,04,"Dusun Hilir"
+03,04,"Karau Kuala"
+04,04,"Dusun Utara"
+05,04,"Gn. Bintang Awai"
+06,04,"Dusun Selatan"
+01,05,Montallat
+02,05,"Gunung Timang"
+03,05,"Gunung Purei"
+04,05,"Teweh Timur"
+05,05,"Teweh Tengah"
+06,05,Lahei
+07,05,"Teweh Baru"
+08,05,"Teweh Selatan"
+09,05,"Lahei Barat"
+01,06,Kamipang
+02,06,"Katingan Hilir"
+03,06,"Tewang Sangalang Garing"
+04,06,"Pulau Malan"
+05,06,"Katingan Tengah"
+06,06,"Sanaman Mantikei"
+07,06,Marikit
+08,06,"Katingan Hulu"
+09,06,Mendawai
+10,06,"Katingan Kuala"
+11,06,"Tasik Payawan"
+12,06,"Petak Malai"
+13,06,"Bukit Raya"
+01,07,"Seruyan Hilir"
+02,07,"Seruyan Tengah"
+03,07,"Danau Sembuluh"
+04,07,Hanau
+05,07,"Seruyan Hulu"
+06,07,"Seruyan Hilir Timur"
+07,07,"Seruyan Raya"
+08,07,"Danau Seluluk"
+09,07,"Batu Ampar"
+10,07,"Suling Tambun"
+01,08,Sukamara
+02,08,Jelai
+03,08,"Balai Riam"
+04,08,"Pantai Lunci"
+05,08,"Permata Kecubung"
+01,09,Lamandau
+02,09,Delang
+03,09,Bulik
+04,09,"Bulik Timur"
+05,09,"Menthobi Raya"
+06,09,"Sematu Jaya"
+07,09,"Belantikan Raya"
+08,09,"Batang Kawa"
+01,10,Sepang
+02,10,Kurun
+03,10,Tewah
+04,10,"Kahayan Hulu Utara"
+05,10,Rungan
+06,10,Manuhing
+07,10,"Mihing Raya"
+08,10,"Damang Batu"
+09,10,"Miri Manasa"
+10,10,"Rungan Hulu"
+11,10,"Manuhing Raya"
+12,10,"Rungan Barat"
+01,11,"Pandih Batu"
+02,11,"Kahayan Kuala"
+03,11,"Kahayan Tengah"
+04,11,"Banama Tingang"
+05,11,"Kahayan Hilir"
+06,11,Maliku
+07,11,Jabiren
+08,11,"Sebangau Kuala"
+01,12,Murung
+02,12,"Tanah Siang"
+03,12,"Laung Tuhup"
+04,12,"Permata Intan"
+05,12,"Sumber Barito"
+06,12,"Barito Tuhup Raya"
+07,12,"Tanah Siang Selatan"
+08,12,"Sungai Babuat"
+09,12,"Seribu Riam"
+10,12,"Uut Murung"
+01,13,"Dusun Timur"
+02,13,"Banua Lima"
+03,13,"Patangkep Tutui"
+04,13,Awang
+05,13,"Dusun Tengah"
+06,13,"Pematang Karau"
+07,13,"Paju Epat"
+08,13,"Raren Batuah"
+09,13,Paku
+10,13,"Karusen Janang"
+01,71,Pahandut
+02,71,"Bukit Batu"
+03,71,"Jekan Raya"
+04,71,Sabangau
+05,71,Rakumpit
+01,01,Takisung
+02,01,Jorong
+03,01,Pelaihari
+04,01,Kurau
+05,01,"Bati Bati"
+06,01,Panyipatan
+07,01,Kintap
+08,01,"Tambang Ulang"
+09,01,"Batu Ampar"
+10,01,Bajuin
+11,01,"Bumi Makmur"
+01,02,"Pulau Sembilan"
+02,02,"Pulau Laut Barat"
+03,02,"Pulau Laut Selatan"
+04,02,"Pulau Laut Timur"
+05,02,"Pulau Sebuku"
+06,02,"Pulaulaut Utara"
+07,02,"Kelumpang Selatan"
+08,02,"Kelumpang Hulu"
+09,02,"Kelumpang Tengah"
+10,02,"Kelumpang Utara"
+11,02,"Pamukan Selatan"
+12,02,Sampanahan
+13,02,"Pamukan Utara"
+14,02,Hampang
+15,02,"Sungai Durian"
+16,02,"Pulau Laut Tengah"
+17,02,"Kelumpang Hilir"
+18,02,"Kelumpang Barat"
+19,02,"Pamukan Barat"
+20,02,"Pulau Laut Kepulauan"
+21,02,"Pulau Laut Tanjung Selayar"
+22,02,"Pulaulaut Sigam"
+01,03,"Aluh Aluh"
+02,03,"Kertak Hanyar"
+03,03,Gambut
+04,03,"Sungai Tabuk"
+05,03,Martapura
+06,03,"Karang Intan"
+07,03,Astambul
+08,03,"Simpang Empat"
+09,03,Pengarom
+10,03,"Sungai Pinang"
+11,03,Aranio
+12,03,Mataraman
+13,03,"Beruntung Baru"
+14,03,"Martapura Barat"
+15,03,"Martapura Timur"
+16,03,"Sambung Makmur"
+17,03,Paramasan
+18,03,"Telaga Bauntung"
+19,03,"Tatah Makmur"
+20,03,"Cintapuri Darussalam"
+01,04,Tabunganen
+02,04,Tamban
+03,04,"Anjir Pasar"
+04,04,"Anjir Muara"
+05,04,Alalak
+06,04,Mandastana
+07,04,"Rantau Badauh"
+08,04,Belawang
+09,04,Cerbon
+10,04,Bakumpai
+11,04,Kuripan
+12,04,Tabukan
+13,04,Mekarsari
+14,04,Barambai
+15,04,Marabahan
+16,04,Wanaraya
+17,04,Jejangkit
+01,05,Binuang
+02,05,"Tapin Selatan"
+03,05,"Tapin Tengah"
+04,05,"Tapin Utara"
+05,05,"Candi Laras Selatan"
+06,05,"Candi Laras Utara"
+07,05,Bakarangan
+08,05,Piani
+09,05,Bungur
+10,05,Lokpaikat
+11,05,"Salam Babaris"
+12,05,Hatungun
+01,06,"Sungai Raya"
+02,06,"Padang Batung"
+03,06,"Telaga Langsat"
+04,06,Angkinang
+05,06,Kandangan
+06,06,Simpur
+07,06,"Daha Selatan"
+08,06,"Daha Utara"
+09,06,Kalumpang
+10,06,Loksado
+11,06,"Daha Barat"
+01,07,Haruyan
+02,07,"Batu Benawa"
+03,07,"Labuan Amas Selatan"
+04,07,"Labuan Amas Utara"
+05,07,Pandawan
+06,07,Barabai
+07,07,"Batang Alai Selatan"
+08,07,"Batang Alai Utara"
+09,07,Hantakan
+10,07,"Batang Alai Timur"
+11,07,Limpasu
+01,08,"Danau Panggang"
+02,08,Babirik
+03,08,"Sungai Pandan"
+04,08,"Amuntai Selatan"
+05,08,"Amuntai Tengah"
+06,08,"Amuntai Utara"
+07,08,Banjang
+08,08,"Haur Gading"
+09,08,Paminggir
+10,08,"Sungai Tabukan"
+01,09,"Banua Lawas"
+02,09,Kelua
+03,09,Tanta
+04,09,Tanjung
+05,09,Haruai
+06,09,"Murung Pudak"
+07,09,"Muara Uya"
+08,09,"Muara Harus"
+09,09,Pugaan
+10,09,Upau
+11,09,Jaro
+12,09,"Bintang Ara"
+01,10,"Batu Licin"
+02,10,"Kusan Hilir"
+03,10,"Sungai Loban"
+04,10,Satui
+05,10,"Kusan Hulu"
+06,10,"Simpang Empat"
+07,10,"Karang Bintang"
+08,10,Mantewe
+09,10,Angsana
+10,10,Kuranji
+11,10,"Kusan Tengah"
+12,10,"Teluk Kepayang"
+01,11,Juai
+02,11,Halong
+03,11,Awayan
+04,11,"Batu Mandi"
+05,11,Lampihong
+06,11,Paringin
+07,11,"Paringin Selatan"
+08,11,"Tebing Tinggi"
+01,71,"Banjarmasin Selatan"
+02,71,"Banjarmasin Timur"
+03,71,"Banjarmasin Barat"
+04,71,"Banjarmasin Utara"
+05,71,"Banjarmasin Tengah"
+02,72,"Landasan Ulin"
+03,72,Cempaka
+04,72,"Banjarbaru Utara"
+05,72,"Banjarbaru Selatan"
+06,72,"Liang Anggang"
+01,01,"Batu Sopang"
+02,01,"Tanjung Harapan"
+03,01,"Paser Belengkong"
+04,01,"Tanah Grogot"
+05,01,Kuaro
+06,01,"Long Ikis"
+07,01,"Muara Komam"
+08,01,"Long Kali"
+09,01,"Batu Engau"
+10,01,"Muara Samu"
+01,02,"Muara Muntai"
+02,02,"Loa Kulu"
+03,02,"Loa Janan"
+04,02,Anggana
+05,02,"Muara Badak"
+06,02,Tenggarong
+07,02,Sebulu
+08,02,"Kota Bangun"
+09,02,Kenohan
+10,02,"Kembang Janggut"
+11,02,"Muara Kaman"
+12,02,Tabang
+13,02,Samboja
+14,02,"Muara Jawa"
+15,02,"Sanga Sanga"
+16,02,"Tenggarong Seberang"
+17,02,"Marang Kayu"
+18,02,"Muara Wis"
+19,02,"Kota Bangun Darat"
+20,02,"Semboja Barat"
+01,03,Kelay
+02,03,Talisayan
+03,03,Sambaliung
+04,03,Segah
+05,03,"Tanjung Redeb"
+06,03,"Gunung Tabur"
+07,03,"Pulau Derawan"
+08,03,Biduk-Biduk
+09,03,"Teluk Bayur"
+10,03,Tabalar
+11,03,Maratua
+12,03,"Batu Putih"
+13,03,Biatan
+05,07,"Long Iram"
+06,07,Melak
+07,07,"Barong Tongkok"
+08,07,Damai
+09,07,"Muara Lawa"
+10,07,"Muara Pahu"
+11,07,Jempang
+12,07,Bongan
+13,07,Penyinggahan
+14,07,"Bentian Besar"
+15,07,"Linggang Bigung"
+16,07,Nyuatan
+17,07,"Siluq Ngurai"
+18,07,"Mook Manaar Bulatn"
+19,07,Tering
+20,07,"Sekolaq Darat"
+01,08,"Muara Ancalong"
+02,08,"Muara Wahau"
+03,08,"Muara Bengkal"
+04,08,"Sangatta Utara"
+05,08,Sangkulirang
+06,08,Busang
+07,08,Telen
+08,08,Kombeng
+09,08,Bengalon
+10,08,Kaliorang
+11,08,Sandaran
+12,08,"Sangatta Selatan"
+13,08,"Teluk Pandan"
+14,08,"Rantau Pulung"
+15,08,Kaubun
+16,08,Karangan
+17,08,"Batu Ampar"
+18,08,"Long Mesangat"
+01,09,Penajam
+02,09,Waru
+03,09,Babulu
+04,09,Sepaku
+01,11,"Long Bagun"
+02,11,"Long Hubung"
+03,11,Laham
+04,11,"Long Apari"
+05,11,"Long Pahangai"
+01,71,"Balikpapan Timur"
+02,71,"Balikpapan Barat"
+03,71,"Balikpapan Utara"
+04,71,"Balikpapan Tengah"
+05,71,"Balikpapan Selatan"
+06,71,"Balikpapan Kota"
+01,72,Palaran
+02,72,"Samarinda Seberang"
+03,72,"Samarinda Ulu"
+04,72,"Samarinda Ilir"
+05,72,"Samarinda Utara"
+06,72,"Sungai Kunjang"
+07,72,Sambutan
+08,72,"Sungai Pinang"
+09,72,"Samarinda Kota"
+10,72,"Loa Janan Ilir"
+01,74,"Bontang Utara"
+02,74,"Bontang Selatan"
+03,74,"Bontang Barat"
+01,01,"Tanjung Palas"
+02,01,"Tanjung Palas Barat"
+03,01,"Tanjung Palas Utara"
+04,01,"Tanjung Palas Timur"
+05,01,"Tanjung Selor"
+06,01,"Tanjung Palas Tengah"
+07,01,Peso
+08,01,"Peso Hilir"
+09,01,Sekatak
+10,01,Bunyu
+01,02,Mentarang
+02,02,"Malinau Kota"
+03,02,Pujungan
+04,02,"Kayan Hilir"
+05,02,"Kayan Hulu"
+06,02,"Malinau Selatan"
+07,02,"Malinau Utara"
+08,02,"Malinau Barat"
+09,02,"Sungai Boh"
+10,02,"Kayan Selatan"
+11,02,"Bahau Hulu"
+12,02,"Mentarang Hulu"
+13,02,"Malinau Selatan Hilir"
+14,02,"Malinau Selatan Hulu"
+15,02,"Sungai Tubu"
+01,03,Sebatik
+02,03,Nunukan
+03,03,Sembakung
+04,03,Lumbis
+05,03,Krayan
+06,03,Sebuku
+07,03,"Krayan Selatan"
+08,03,"Sebatik Barat"
+09,03,"Nunukan Selatan"
+10,03,"Sebatik Timur"
+11,03,"Sebatik Utara"
+12,03,"Sebatik Tengah"
+13,03,"Sei Menggaris"
+14,03,"Tulin Onsoi"
+15,03,"Lumbis Ogong"
+16,03,"Sembakung Atulai"
+17,03,"Krayan Tengah"
+18,03,"Krayan Timur"
+19,03,"Krayan Barat"
+20,03,"Lumbis Pansiangan"
+21,03,"Lumbis Hulu"
+01,04,Sesayap
+02,04,"Sesayap Hilir"
+03,04,"Tana Lia"
+04,04,Betayau
+05,04,"Muruk Rian"
+01,71,"Tarakan Barat"
+02,71,"Tarakan Tengah"
+03,71,"Tarakan Timur"
+04,71,"Tarakan Utara"
+05,01,"Sang Tombolang"
+09,01,"Dumoga Barat"
+10,01,"Dumoga Timur"
+11,01,"Dumoga Utara"
+12,01,Lolak
+13,01,Bolaang
+14,01,Lolayan
+19,01,"Passi Barat"
+20,01,Poigar
+22,01,"Passi Timur"
+31,01,"Bolaang Timur"
+32,01,Bilalang
+33,01,Dumoga
+34,01,"Dumoga Tenggara"
+35,01,"Dumoga Tengah"
+01,02,"Tondano Barat"
+02,02,"Tondano Timur"
+03,02,Eris
+04,02,Kombi
+05,02,"Lembean Timur"
+06,02,Kakas
+07,02,Tompaso
+08,02,Remboken
+09,02,"Langowan Timur"
+10,02,"Langowan Barat"
+11,02,Sonder
+12,02,Kawangkoan
+13,02,Pineleng
+14,02,Tombulu
+15,02,Tombariri
+16,02,"Tondano Utara"
+17,02,"Langowan Selatan"
+18,02,"Tondano Selatan"
+19,02,"Langowan Utara"
+20,02,"Kakas Barat"
+21,02,"Kawangkoan Utara"
+22,02,"Kawangkoan Barat"
+23,02,Mandolang
+24,02,"Tombariri Timur"
+25,02,"Tompaso Barat"
+08,03,"Tabukan Utara"
+09,03,"Nusa Tabukan"
+10,03,"Manganitu Selatan"
+11,03,Tatoareng
+12,03,Tamako
+13,03,Manganitu
+14,03,"Tabukan Tengah"
+15,03,"Tabukan Selatan"
+16,03,Kendahe
+17,03,Tahuna
+19,03,"Tabukan Selatan Tengah"
+20,03,"Tabukan Selatan Tenggara"
+23,03,"Tahuna Barat"
+24,03,"Tahuna Timur"
+25,03,"Kepulauan Marore"
+01,04,Lirung
+02,04,Beo
+03,04,Rainis
+04,04,Essang
+05,04,Nanusa
+06,04,Kabaruan
+07,04,Melonguane
+08,04,Gemeh
+09,04,Damau
+10,04,"Tampan' Amma"
+11,04,Salibabu
+12,04,Kalongan
+13,04,Miangas
+14,04,"Beo Utara"
+15,04,Pulutan
+16,04,"Melonguane Timur"
+17,04,Moronge
+18,04,"Beo Selatan"
+19,04,"Essang Selatan"
+01,05,Modoinding
+02,05,"Tompaso Baru"
+03,05,Ranoyapo
+07,05,Motoling
+08,05,Sinonsayang
+09,05,Tenga
+10,05,Amurang
+12,05,Tumpaan
+13,05,Tareran
+15,05,Kumelembuai
+16,05,Maesaan
+17,05,"Amurang Barat"
+18,05,"Amurang Timur"
+19,05,Tatapaan
+21,05,"Motoling Barat"
+22,05,"Motoling Timur"
+23,05,"Suluun Tareran"
+01,06,Kema
+02,06,Kauditan
+03,06,Airmadidi
+04,06,Wori
+05,06,Dimembe
+06,06,"Likupang Barat"
+07,06,"Likupang Timur"
+08,06,Kalawat
+09,06,Talawaan
+10,06,"Likupang Selatan"
+01,07,Ratahan
+02,07,Pusomaen
+03,07,Belang
+04,07,Ratatotok
+05,07,Tombatu
+06,07,Touluaan
+07,07,"Touluaan Selatan"
+08,07,"Silian Raya"
+09,07,"Tombatu Timur"
+10,07,"Tombatu Utara"
+11,07,Pasan
+12,07,"Ratahan Timur"
+01,08,Sangkub
+02,08,Bintauna
+03,08,"Bolangitang Timur"
+04,08,"Bolangitang Barat"
+05,08,Kaidipang
+06,08,Pinogaluman
+01,09,"Siau Timur"
+02,09,"Siau Barat"
+03,09,Tagulandang
+04,09,"Siau Timur Selatan"
+05,09,"Siau Barat Selatan"
+06,09,"Tagulandang Utara"
+07,09,Biaro
+08,09,"Siau Barat Utara"
+09,09,"Siau Tengah"
+10,09,"Tagulandang Selatan"
+01,10,Tutuyan
+02,10,Kotabunan
+03,10,Nuangan
+04,10,Modayag
+05,10,"Modayag Barat"
+06,10,Motongkad
+07,10,Mooat
+01,11,"Bolaang Uki"
+02,11,Posigadan
+03,11,Pinolosian
+04,11,"Pinolosian Tengah"
+05,11,"Pinolosian Timur"
+06,11,Helumo
+07,11,Tomini
+01,71,Bunaken
+02,71,Tuminiting
+03,71,Singkil
+04,71,Wenang
+05,71,Tikala
+06,71,Sario
+07,71,Wanea
+08,71,Mapanget
+09,71,Malalayang
+10,71,"Bunaken Kepulauan"
+11,71,"Paal Dua"
+01,72,"Lembeh Selatan"
+02,72,Madidir
+03,72,Ranowulu
+04,72,Aertembaga
+05,72,Matuari
+06,72,Girian
+07,72,Maesa
+08,72,"Lembeh Utara"
+01,73,"Tomohon Selatan"
+02,73,"Tomohon Tengah"
+03,73,"Tomohon Utara"
+04,73,"Tomohon Barat"
+05,73,"Tomohon Timur"
+01,74,"Kotamobagu Utara"
+02,74,"Kotamobagu Timur"
+03,74,"Kotamobagu Selatan"
+04,74,"Kotamobagu Barat"
+01,01,Batui
+02,01,Bunta
+03,01,Kintom
+04,01,Luwuk
+05,01,Lamala
+06,01,Balantak
+07,01,Pagimana
+08,01,Bualemo
+09,01,Toili
+10,01,Masama
+11,01,"Luwuk Timur"
+12,01,"Toili Barat"
+13,01,Nuhon
+14,01,Moilong
+15,01,"Batui Selatan"
+16,01,Lobu
+17,01,"Simpang Raya"
+18,01,"Balantak Selatan"
+19,01,"Balantak Utara"
+20,01,"Luwuk Selatan"
+21,01,"Luwuk Utara"
+22,01,Mantoh
+23,01,Nambo
+01,02,"Poso Kota"
+02,02,"Poso Pesisir"
+03,02,Lage
+04,02,"Pamona Puselemba"
+05,02,"Pamona Timur"
+06,02,"Pamona Selatan"
+07,02,"Lore Utara"
+08,02,"Lore Tengah"
+09,02,"Lore Selatan"
+18,02,"Poso Pesisir Utara"
+19,02,"Poso Pesisir Selatan"
+20,02,"Pamona Barat"
+21,02,"Poso Kota Selatan"
+22,02,"Poso Kota Utara"
+23,02,"Lore Barat"
+24,02,"Lore Timur"
+25,02,"Lore Piore"
+26,02,"Pamona Tenggara"
+27,02,"Pamona Utara"
+04,03,"Rio Pakava"
+06,03,Dampelas
+08,03,Banawa
+09,03,Labuan
+10,03,Sindue
+11,03,Sirenja
+12,03,Balaesang
+14,03,Sojol
+18,03,"Banawa Selatan"
+19,03,Tanantovea
+21,03,Pinembani
+24,03,"Sindue Tombusabora"
+25,03,"Sindue Tobata"
+27,03,"Banawa Tengah"
+30,03,"Sojol Utara"
+31,03,"Balaesang Tanjung"
+01,04,"Dampal Selatan"
+02,04,"Dampal Utara"
+03,04,Dondo
+04,04,Basidondo
+05,04,Ogodeide
+06,04,Lampasio
+07,04,Baolan
+08,04,Galang
+09,04,"Toli-Toli Utara"
+10,04,"Dako Pemean"
+01,05,Momunu
+02,05,Lakea
+03,05,Bokat
+04,05,Bunobogu
+05,05,Paleleh
+06,05,Biau
+07,05,Tiloan
+08,05,Bukal
+09,05,Gadung
+10,05,Karamat
+11,05,"Paleleh Barat"
+05,06,"Bungku Tengah"
+06,06,"Bungku Selatan"
+07,06,"Menui Kepulauan"
+08,06,"Bungku Barat"
+09,06,"Bumi Raya"
+10,06,Bahodopi
+12,06,"Wita Ponda"
+15,06,"Bungku Pesisir"
+18,06,"Bungku Timur"
+03,07,Totikum
+04,07,Tinangkung
+05,07,Liang
+06,07,Bulagi
+07,07,Buko
+09,07,"Bulagi Selatan"
+11,07,"Tinangkung Selatan"
+15,07,"Totikum Selatan"
+16,07,"Peling Tengah"
+17,07,"Bulagi Utara"
+18,07,"Buko Selatan"
+19,07,"Tinangkung Utara"
+01,08,Parigi
+02,08,Ampibabo
+03,08,Tinombo
+04,08,Moutong
+05,08,Tomini
+06,08,Sausu
+07,08,"Bolano Lambunu"
+08,08,Kasimbar
+09,08,Torue
+10,08,"Tinombo Selatan"
+11,08,"Parigi Selatan"
+12,08,Mepanga
+13,08,Toribulu
+14,08,Taopa
+15,08,Balinggi
+16,08,"Parigi Barat"
+17,08,Siniu
+18,08,Palasa
+19,08,"Parigi Utara"
+20,08,"Parigi Tengah"
+21,08,Bolano
+22,08,"Ongka Malino"
+23,08,Sidoan
+01,09,"Una Una"
+02,09,Togean
+03,09,"Walea Kepulauan"
+04,09,"Ampana Tete"
+05,09,"Ampana Kota"
+06,09,Ulubongka
+07,09,"Tojo Barat"
+08,09,Tojo
+09,09,"Walea Besar"
+10,09,Ratolindo
+11,09,Batudaka
+12,09,Talatako
+01,10,"Sigi Biromaru"
+02,10,Palolo
+03,10,Nokilalaki
+04,10,Lindu
+05,10,Kulawi
+06,10,"Kulawi Selatan"
+07,10,Pipikoro
+08,10,Gumbasa
+09,10,"Dolo Selatan"
+10,10,Tanambulava
+11,10,"Dolo Barat"
+12,10,Dolo
+13,10,Kinovaro
+14,10,Marawola
+15,10,"Marawola Barat"
+01,11,Banggai
+02,11,"Banggai Utara"
+03,11,"Bokan Kepulauan"
+04,11,Bangkurung
+05,11,Labobo
+06,11,"Banggai Selatan"
+07,11,"Banggai Tengah"
+01,12,Petasia
+02,12,"Petasia Timur"
+03,12,"Lembo Raya"
+04,12,Lembo
+05,12,"Mori Atas"
+06,12,"Mori Utara"
+07,12,"Soyo Jaya"
+08,12,"Bungku Utara"
+09,12,Mamosalato
+10,12,"Petasia Barat"
+01,71,"Palu Timur"
+02,71,"Palu Barat"
+03,71,"Palu Selatan"
+04,71,"Palu Utara"
+05,71,Ulujadi
+06,71,Tatanga
+07,71,Tawaeli
+08,71,Mantikulore
+01,01,Benteng
+02,01,Bontoharu
+03,01,Bontomatene
+04,01,Bontomanai
+05,01,Bontosikuyu
+06,01,Pasimasunggu
+07,01,Pasimarannu
+08,01,"Taka Bonerate"
+09,01,Pasilambena
+10,01,"Pasimasunggu Timur"
+11,01,Buki
+01,02,Gantorang
+02,02,"Ujung Bulu"
+03,02,"Bonto Bahari"
+04,02,"Bonto Tiro"
+05,02,Herlang
+06,02,Kajang
+07,02,Bulukumpa
+08,02,Kindang
+09,02,Ujungloe
+10,02,Rilauale
+01,03,Bissappu
+02,03,Bantaeng
+03,03,Eremerasa
+04,03,"Tompo Bulu"
+05,03,Pajukukang
+06,03,Uluere
+07,03,"Gantarang Keke"
+08,03,Sinoa
+01,04,Bangkala
+02,04,Tamalatea
+03,04,Binamu
+04,04,Batang
+05,04,Kelara
+06,04,"Bangkala Barat"
+07,04,Bontoramba
+08,04,Turatea
+09,04,Arungkeke
+10,04,Rumbia
+11,04,Tarowang
+01,05,Mappakasunggu
+02,05,Mangarabombang
+03,05,"Polombangkeng Selatan"
+04,05,"Polombangkeng Utara"
+05,05,"Galesong Selatan"
+06,05,"Galesong Utara"
+07,05,Pattallassang
+08,05,Sanrobone
+09,05,Galesong
+10,05,"Kepulauan Tanakeke"
+01,06,Bontonompo
+02,06,Bajeng
+03,06,Tompobullu
+04,06,Tinggimoncong
+05,06,Parangloe
+06,06,Bontomarannu
+07,06,Palangga
+08,06,"Somba Upu"
+09,06,Bungaya
+10,06,Tombolopao
+11,06,Biringbulu
+12,06,Barombong
+13,06,Pattalasang
+14,06,Manuju
+15,06,Bontolempangang
+16,06,"Bontonompo Selatan"
+17,06,Parigi
+18,06,"Bajeng Barat"
+01,07,"Sinjai Barat"
+02,07,"Sinjai Selatan"
+03,07,"Sinjai Timur"
+04,07,"Sinjai Tengah"
+05,07,"Sinjai Utara"
+06,07,Bulupoddo
+07,07,"Sinjai Borong"
+08,07,"Tellu Limpoe"
+09,07,"Pulau Sembilan"
+01,08,Bontocani
+02,08,Kahu
+03,08,Kajuara
+04,08,Salomekko
+05,08,Tonra
+06,08,Libureng
+07,08,Mare
+08,08,Sibulue
+09,08,Barebbo
+10,08,Cina
+11,08,Ponre
+12,08,Lappariaja
+13,08,Lamuru
+14,08,Ulaweng
+15,08,Palakka
+16,08,Awangpone
+17,08,"Tellu Siattinge"
+18,08,Ajangale
+19,08,"Dua Boccoe"
+20,08,Cenrana
+21,08,"Tanete Riattang"
+22,08,"Tanete Riattang Barat"
+23,08,"Tanete Riattang Timur"
+24,08,Amali
+25,08,Tellulimpoe
+26,08,Bengo
+27,08,Patimpeng
+01,09,Mandai
+02,09,Camba
+03,09,Bantimurung
+04,09,"Maros Baru"
+05,09,Bontoa
+06,09,Malllawa
+07,09,Tanralili
+08,09,Marusu
+09,09,Simbang
+10,09,Cenrana
+11,09,Tompobulu
+12,09,Lau
+13,09,"Moncong Loe"
+14,09,Turikale
+01,10,"Liukang Tangaya"
+02,10,"Liukang Kalmas"
+03,10,"Liukang Tupabbiring"
+04,10,Pangkajene
+05,10,Balocci
+06,10,Bungoro
+07,10,Labakkang
+08,10,Marang
+09,10,Segeri
+10,10,"Minasa Tene"
+11,10,Mandalle
+12,10,"Tondong Tallasa"
+13,10,"Liukang Tupabbiring Utara"
+01,11,"Tanete Riaja"
+02,11,"Tanete Rilau"
+03,11,Barru
+04,11,"Soppeng Riaja"
+05,11,Mallusetasi
+06,11,Pujananting
+07,11,Balusu
+01,12,Marioriwawo
+02,12,Liliraja
+03,12,Lilirilau
+04,12,Lalabata
+05,12,Marioriawa
+06,12,"Donri Donri"
+07,12,Ganra
+08,12,Citta
+01,13,Sabangparu
+02,13,Pammana
+03,13,Takkalalla
+04,13,Sajoanging
+05,13,Majauleng
+06,13,Tempe
+07,13,Belawa
+08,13,Tanasitolo
+09,13,Maniangpajo
+10,13,Pitumpanua
+11,13,Bola
+12,13,Penrang
+13,13,Gilireng
+14,13,Keera
+01,14,"Panca Lautang"
+02,14,"Tellu Limpoe"
+03,14,"Watang Pulu"
+04,14,Baranti
+05,14,"Panca Rijang"
+06,14,Kulo
+07,14,Maritengngae
+08,14,"Watang Sidenreng"
+09,14,"Dua Pitue"
+10,14,"Pitu Riawa"
+11,14,"Pitu Riase"
+01,15,"Matirro Sompe"
+02,15,Suppa
+03,15,"Mattiro Bulu"
+04,15,"Watang Sawito"
+05,15,Patampanua
+06,15,Duampanua
+07,15,Lembang
+08,15,Cempa
+09,15,Tiroang
+10,15,Lanrisang
+11,15,Paleteang
+12,15,"Batu Lappa"
+01,16,Maiwa
+02,16,Enrekang
+03,16,Baraka
+04,16,Anggeraja
+05,16,Alla
+06,16,Bungin
+07,16,Cendana
+08,16,Curio
+09,16,Malua
+10,16,"Buntu Batu"
+11,16,Masalle
+12,16,Baroko
+01,17,"Basse Sangtempe"
+02,17,Larompong
+03,17,Suli
+04,17,Bajo
+05,17,"Bua Ponrang"
+06,17,Walenrang
+07,17,Belopa
+08,17,Bua
+09,17,Lamasi
+10,17,"Larompong Selatan"
+11,17,Ponrang
+12,17,Latimojong
+13,17,Kamanre
+14,17,"Belopa Utara"
+15,17,"Walenrang Barat"
+16,17,"Walenrang Utara"
+17,17,"Walenrang Timur"
+18,17,"Lamasi Timur"
+19,17,"Suli Barat"
+20,17,"Bajo Barat"
+21,17,"Ponrang Selatan"
+22,17,"Basse Sangtempe Utara"
+01,18,Saluputi
+02,18,Bittuang
+03,18,Bonggakaradeng
+05,18,Makale
+09,18,Simbuang
+11,18,Rantetayo
+12,18,Mengkendek
+13,18,Sangalla
+19,18,"Gandangbatu Sillanan"
+20,18,Rembon
+27,18,"Makale Utara"
+28,18,Mappak
+29,18,"Makale Selatan"
+31,18,Masanda
+33,18,"Sangalla Selatan"
+34,18,"Sangalla Utara"
+35,18,"Malimbong Balepe"
+37,18,Rano
+38,18,Kurra
+01,22,Malangke
+02,22,"Bone Bone"
+03,22,Masamba
+04,22,Sabbang
+05,22,Limbong
+06,22,Sukamaju
+07,22,Seko
+08,22,"Malangke Barat"
+09,22,Rampi
+10,22,Mappedeceng
+11,22,Baebunta
+12,22,"Tana Lili"
+13,22,"Sukamaju Selatan"
+14,22,"Baebunta Selatan"
+15,22,"Sabbang Selatan"
+01,24,Mangkutana
+02,24,Nuha
+03,24,Towuti
+04,24,Malili
+05,24,Angkona
+06,24,Wotu
+07,24,Burau
+08,24,Tomoni
+09,24,"Tomoni Timur"
+10,24,Kalaena
+11,24,Wasuponda
+01,26,Rantepao
+02,26,Sesean
+03,26,Nanggala
+04,26,Rindingallo
+05,26,Buntao
+06,26,Sa'dan
+07,26,Sanggalangi
+08,26,Sopai
+09,26,Tikala
+10,26,Balusu
+11,26,Tallunglipu
+12,26,"Dende' Piongan Napo"
+13,26,"Buntu Pepasan"
+14,26,Baruppu
+15,26,Kesu
+16,26,Tondon
+17,26,Bangkelekila
+18,26,Rantebua
+19,26,"Sesean Suloara"
+20,26,"Kapala Pitu"
+21,26,"Awan Rante Karua"
+01,71,Mariso
+02,71,Mamajang
+03,71,Makassar
+04,71,"Ujung Pandang"
+05,71,Wajo
+06,71,Bontoala
+07,71,Tallo
+08,71,"Ujung Tanah"
+09,71,Panakkukang
+10,71,Tamalate
+11,71,Biringkanaya
+12,71,Manggala
+13,71,Rappocini
+14,71,Tamalanrea
+15,71,"Kepulauan Sangkarrang"
+01,72,Bacukiki
+02,72,Ujung
+03,72,Soreang
+04,72,"Bacukiki Barat"
+01,73,Wara
+02,73,"Wara Utara"
+03,73,"Wara Selatan"
+04,73,Telluwanua
+05,73,"Wara Timur"
+06,73,"Wara Barat"
+07,73,Sendana
+08,73,Mungkajang
+09,73,Bara
+01,01,Wundulako
+04,01,Kolaka
+07,01,Pomalaa
+08,01,Watubangga
+10,01,Wolo
+12,01,Baula
+14,01,Latambaga
+18,01,Tanggetada
+20,01,Samaturu
+24,01,Toari
+25,01,Polinggona
+27,01,Iwoimendaa
+01,02,Lambuya
+02,02,Unaaha
+03,02,Wawotobi
+04,02,Pondidaha
+05,02,Sampara
+10,02,Abuki
+11,02,Soropia
+15,02,Tongauna
+16,02,Latoma
+17,02,Puriala
+18,02,Uepai
+19,02,Wonggeduku
+20,02,Besulutu
+21,02,Bondoala
+23,02,Routa
+24,02,Anggaberi
+25,02,Meluhu
+28,02,Amonggedo
+31,02,Asinua
+32,02,Konawe
+33,02,Kapoiala
+36,02,Lalonggasumeeto
+37,02,Onembute
+38,02,Padangguni
+39,02,Morosi
+40,02,Anggalomoare
+41,02,"Wonggeduku Barat"
+06,03,Napabalano
+07,03,Maligano
+13,03,"Wakorumba Selatan"
+14,03,Lasalepa
+15,03,Batalaiwaru
+16,03,Katobu
+17,03,Duruka
+18,03,Lohia
+19,03,Watopute
+20,03,Kontunaga
+23,03,Kabangka
+24,03,Kabawo
+25,03,Parigi
+26,03,Bone
+27,03,Tongkuno
+28,03,"Pasir Putih"
+30,03,"Kontu Kowuna"
+31,03,Marobo
+32,03,"Tongkuno Selatan"
+33,03,"Pasi Kolaga"
+34,03,Batukara
+37,03,Towea
+11,04,Pasarwajo
+22,04,Kapontori
+23,04,Lasalimu
+24,04,"Lasalimu Selatan"
+27,04,Siotapina
+28,04,Wolowa
+29,04,Wabula
+01,05,Tinanggea
+02,05,Angata
+03,05,Andoolo
+04,05,Palangga
+05,05,Landono
+06,05,Lainea
+07,05,Konda
+08,05,Ranomeeto
+09,05,Kolono
+10,05,Moramo
+11,05,Laonti
+12,05,Lalembuu
+13,05,Benua
+14,05,"Palangga Selatan"
+15,05,Mowila
+16,05,"Moramo Utara"
+17,05,Buke
+18,05,Wolasi
+19,05,Laeya
+20,05,Baito
+21,05,Basala
+22,05,"Ranomeeto Barat"
+23,05,"Kolono Timur"
+24,05,Sabulakoa
+25,05,"Andoolo Barat"
+01,06,Poleang
+02,06,"Poleang Timur"
+03,06,Rarowatu
+04,06,Rumbia
+05,06,Kabaena
+06,06,"Kabaena Timur"
+07,06,"Poleang Barat"
+08,06,"Mata Oleo"
+09,06,"Rarowatu Utara"
+10,06,"Poleang Utara"
+11,06,"Poleang Selatan"
+12,06,"Poleang Tenggara"
+13,06,"Kabaena Selatan"
+14,06,"Kabaena Barat"
+15,06,"Kabaena Utara"
+16,06,"Kabaena Tengah"
+17,06,"Kep. Masaloka Raya"
+18,06,"Rumbia Tengah"
+19,06,"Poleang Tengah"
+20,06,Tontonunu
+21,06,"Lantari Jaya"
+22,06,"Mata Usu"
+01,07,Wangi-Wangi
+02,07,Kaledupa
+03,07,Tomia
+04,07,Binongko
+05,07,"Wangi Wangi Selatan"
+06,07,"Kaledupa Selatan"
+07,07,"Tomia Timur"
+08,07,"Togo Binongko"
+01,08,Lasusua
+02,08,Pakue
+03,08,"Batu Putih"
+04,08,"Rante Angin"
+05,08,Kodeoha
+06,08,Ngapa
+07,08,Wawo
+08,08,Lambai
+09,08,Watunohu
+10,08,"Pakue Tengah"
+11,08,"Pakue Utara"
+12,08,Porehu
+13,08,Katoi
+14,08,Tiwu
+15,08,Tolala
+01,09,Asera
+02,09,Wiwirano
+03,09,Langgikima
+04,09,Molawe
+05,09,Lasolo
+06,09,Lembo
+07,09,Sawa
+08,09,Oheo
+09,09,Andowia
+10,09,Motui
+11,09,Wawolesea
+12,09,"Lasolo Kepulauan"
+13,09,Landawe
+01,10,Kulisusu
+02,10,Kambowa
+03,10,Bonegunu
+04,10,"Kulisusu Barat"
+05,10,"Kulisusu Utara"
+06,10,"Wakorumba Utara"
+01,11,Tirawuta
+02,11,Loea
+03,11,Ladongi
+04,11,"Poli Polia"
+05,11,Lambandia
+06,11,Lalolae
+07,11,Mowewe
+08,11,Uluiwoi
+09,11,Tinondo
+10,11,Aere
+11,11,Ueesi
+12,11,Dangia
+01,12,"Wawonii Barat"
+02,12,"Wawonii Utara"
+03,12,"Wawonii Timur Laut"
+04,12,"Wawonii Timur"
+05,12,"Wawonii Tenggara"
+06,12,"Wawonii Selatan"
+07,12,"Wawonii Tengah"
+01,13,Sawerigadi
+02,13,Barangka
+03,13,Lawa
+04,13,Wadaga
+05,13,"Tiworo Selatan"
+06,13,Maginti
+07,13,"Tiworo Tengah"
+08,13,"Tiworo Utara"
+09,13,"Tiworo Kepulauan"
+10,13,Kusambi
+11,13,"Napano Kusambi"
+01,14,Lakudo
+02,14,"Mawasangka Timur"
+03,14,"Mawasangka Tengah"
+04,14,Mawasangka
+05,14,"Talaga Raya"
+06,14,Gu
+07,14,"Sangia Wambulu"
+01,15,Batauga
+02,15,Sampolawa
+03,15,Lapandewa
+04,15,"Batu Atas"
+05,15,"Siompu Barat"
+06,15,Siompu
+07,15,Kadatua
+01,71,Mandonga
+02,71,Kendari
+03,71,Baruga
+04,71,Poasia
+05,71,"Kendari Barat"
+06,71,Abeli
+07,71,Wua-Wua
+08,71,Kadia
+09,71,Puuwatu
+10,71,Kambu
+11,71,Nambo
+01,72,Betoambari
+02,72,Wolio
+03,72,Sorawolio
+04,72,Bungi
+05,72,Kokalukuna
+06,72,Murhum
+07,72,Lea-Lea
+08,72,Batupoaro
+01,01,Limboto
+02,01,Telaga
+03,01,Batudaa
+04,01,Tibawa
+05,01,"Batudaa Pantai"
+09,01,Boliyohuto
+10,01,"Telaga Biru"
+11,01,Bongomeme
+13,01,Tolangohula
+14,01,Mootilango
+16,01,Pulubala
+17,01,"Limboto Barat"
+18,01,Tilango
+19,01,Tabongo
+20,01,Biluhu
+21,01,Asparaga
+22,01,"Talaga Jaya"
+23,01,Bilato
+24,01,Dungaliyo
+01,02,Paguyaman
+02,02,Wonosari
+03,02,Dulupi
+04,02,Tilamuta
+05,02,Mananggu
+06,02,Botumoita
+07,02,"Paguyaman Pantai"
+01,03,Tapa
+02,03,Kabila
+03,03,Suwawa
+04,03,Bonepantai
+05,03,"Bulango Utara"
+06,03,Tilongkabila
+07,03,Botupingge
+08,03,"Kabila Bone"
+09,03,Bone
+10,03,"Bone Raya"
+11,03,"Suwawa Timur"
+12,03,"Suwawa Selatan"
+13,03,"Suwawa Tengah"
+14,03,"Bulango Ulu"
+15,03,"Bulango Selatan"
+16,03,"Bulango Timur"
+17,03,Bulawa
+18,03,Pinogu
+01,04,Popayato
+02,04,Lemito
+03,04,Randangan
+04,04,Marisa
+05,04,Paguat
+06,04,Patilanggio
+07,04,Taluditi
+08,04,Dengilo
+09,04,Buntulia
+10,04,Duhiadaa
+11,04,Wanggarasi
+12,04,"Popayato Timur"
+13,04,"Popayato Barat"
+01,05,Atinggola
+02,05,Kwandang
+03,05,Anggrek
+04,05,Sumalata
+05,05,Tolinggula
+06,05,"Gentuma Raya"
+07,05,Tomolito
+08,05,"Ponelo Kepulauan"
+09,05,Monano
+10,05,Biau
+11,05,"Sumalata Timur"
+01,71,"Kota Barat"
+02,71,"Kota Selatan"
+03,71,"Kota Utara"
+04,71,Dungingi
+05,71,"Kota Timur"
+06,71,"Kota Tengah"
+07,71,Sipatana
+08,71,"Dumbo Raya"
+09,71,Hulonthalangi
+01,01,Bambalamotu
+02,01,Pasangkayu
+03,01,Baras
+04,01,Sarudu
+05,01,Dapurang
+06,01,Duripoku
+07,01,"Bulu Taba"
+08,01,"Tikke Raya"
+09,01,Pedongga
+10,01,Bambaira
+11,01,Sarjo
+12,01,Lariang
+01,02,Mamuju
+02,02,Tapalang
+03,02,Kalukku
+04,02,Kalumpang
+07,02,Papalang
+08,02,Sampaga
+11,02,Tommo
+12,02,"Simboro dan Kepulauan"
+13,02,"Tapalang Barat"
+15,02,Bonehau
+16,02,"Kep. Bala Balakang"
+01,03,Mambi
+02,03,Aralle
+03,03,Mamasa
+04,03,Pana
+05,03,Tabulahan
+06,03,Sumarorong
+07,03,Messawa
+08,03,Sesenapadang
+09,03,"Tanduk Kalua"
+10,03,Tabang
+11,03,Bambang
+12,03,Balla
+13,03,Nosu
+14,03,Tawalian
+15,03,"Rantebulahan Timur"
+16,03,Buntumalangka
+17,03,Mehalaan
+01,04,Tinambung
+02,04,Campalagian
+03,04,Wonomulyo
+04,04,Polewali
+05,04,Tutar
+06,04,Binuang
+07,04,Tapango
+08,04,Mapilli
+09,04,Matangnga
+10,04,Luyo
+11,04,Limboro
+12,04,Balanipa
+13,04,Anreapi
+14,04,Matakali
+15,04,Allu
+16,04,Bulo
+01,05,Banggae
+02,05,Pamboang
+03,05,Sendana
+04,05,Malunda
+05,05,Ulumanda
+06,05,"Tammerodo Sendana"
+07,05,"Tubo Sendana"
+08,05,"Banggae Timur"
+01,06,Tobadak
+02,06,Pangale
+03,06,Budong-Budong
+04,06,Topoyo
+05,06,Karossa
+01,01,Amahai
+02,01,"Teon Nila Serua"
+06,01,"Seram Utara"
+09,01,Banda
+11,01,Tehoru
+12,01,Saparua
+13,01,"Pulau Haruku"
+14,01,Salahutu
+15,01,Leihitu
+16,01,"Nusa Laut"
+17,01,"Kota Masohi"
+20,01,"Seram Utara Barat"
+21,01,"Teluk Elpaputih"
+22,01,"Leihitu Barat"
+23,01,Telutih
+24,01,"Seram Utara Timur Seti"
+25,01,"Seram Utara Timur Kobi"
+26,01,"Saparua Timur"
+01,02,"Kei Kecil"
+03,02,"Kei Besar"
+04,02,"Kei Besar Selatan"
+05,02,"Kei Besar Utara Timur"
+13,02,"Kei Kecil Timur"
+14,02,"Kei Kecil Barat"
+15,02,Manyeuw
+16,02,"Hoat Sorbay"
+17,02,"Kei Besar Utara Barat"
+18,02,"Kei Besar Selatan Barat"
+19,02,"Kei Kecil Timur Selatan"
+01,03,"Tanimbar Selatan"
+02,03,Selaru
+03,03,"Wer Tamrian"
+04,03,"Wer Maktian"
+05,03,"Tanimbar Utara"
+06,03,Yaru
+07,03,"Wuar Labobar"
+08,03,Kormomolin
+09,03,Nirunmas
+18,03,"Molu Maru"
+01,04,Namlea
+02,04,"Air Buaya"
+03,04,Waeapo
+06,04,Waplau
+10,04,Batabual
+11,04,"Lolong Guba"
+12,04,Waelata
+13,04,"Fena Leisela"
+14,04,"Teluk Kaiely"
+15,04,Lilialy
+01,05,Bula
+02,05,"Seram Timur"
+03,05,Werinama
+04,05,"Pulau Gorom"
+05,05,Wakate
+06,05,"Tutuk Tolu"
+07,05,Siwalalat
+08,05,Kilmury
+09,05,"Pulau Panjang"
+10,05,Teor
+11,05,"Gorom Timur"
+12,05,"Bula Barat"
+13,05,"Kian Darat"
+14,05,"Siritaun Wida Timur"
+15,05,"Teluk Waru"
+01,06,Kairatu
+02,06,"Seram Barat"
+03,06,Taniwel
+04,06,"Huamual Belakang"
+05,06,Amalatu
+06,06,Inamosol
+07,06,"Kairatu Barat"
+08,06,Huamual
+09,06,"Kepulauan Manipa"
+10,06,"Taniwel Timur"
+11,06,Elpaputih
+01,07,"Pulau-Pulau Aru"
+02,07,"Aru Selatan"
+03,07,"Aru Tengah"
+04,07,"Aru Utara"
+05,07,"Aru Utara Timur Batuley"
+06,07,Sir-Sir
+07,07,"Aru Tengah Timur"
+08,07,"Aru Tengah Selatan"
+09,07,"Aru Selatan Timur"
+10,07,"Aru Selatan Utara"
+01,08,"Moa Lakor"
+02,08,Damer
+03,08,"Mndona Hiera"
+04,08,"Pulau-Pulau Babar"
+05,08,"Pulau-pulau Babar Timur"
+06,08,Wetar
+07,08,"Pulau-pulau Terselatan"
+08,08,"Pulau Leti"
+09,08,"Pulau Masela"
+10,08,"Dawelor Dawera"
+11,08,"Pulau Wetang"
+12,08,"Pulau Lakor"
+13,08,"Wetar Utara"
+14,08,"Wetar Barat"
+15,08,"Wetar Timur"
+16,08,"Kepulauan Romang"
+17,08,"Kisar Utara"
+01,09,Namrole
+02,09,Waesama
+03,09,Ambalau
+04,09,"Kepala Madan"
+05,09,Leksula
+06,09,"Fena Fafan"
+01,71,Nusaniwe
+02,71,Sirimau
+03,71,Baguala
+04,71,"Teluk Ambon"
+05,71,"Leitimur Selatan"
+01,72,"Pulau Dullah Utara"
+02,72,"Pulau Dullah Selatan"
+03,72,"Tayando Tam"
+04,72,"Pulau-Pulau Kur"
+05,72,"Kur Selatan"
+01,01,Jailolo
+02,01,Loloda
+03,01,Ibu
+04,01,Sahu
+05,01,"Jailolo Selatan"
+07,01,"Ibu Utara"
+08,01,"Ibu Selatan"
+09,01,"Sahu Timur"
+10,01,"Loloda Tengah"
+01,02,Weda
+02,02,Patani
+03,02,"Pulau Gebe"
+04,02,"Weda Utara"
+05,02,"Weda Selatan"
+06,02,"Patani Utara"
+07,02,"Weda Tengah"
+08,02,"Patani Barat"
+09,02,"Weda Timur"
+10,02,"Patani Timur"
+04,03,Galela
+05,03,Tobelo
+06,03,"Tobelo Selatan"
+07,03,Kao
+08,03,Malifut
+09,03,"Loloda Utara"
+10,03,"Tobelo Utara"
+11,03,"Tobelo Tengah"
+12,03,"Tobelo Timur"
+13,03,"Tobelo Barat"
+14,03,"Galela Barat"
+15,03,"Galela Utara"
+16,03,"Galela Selatan"
+19,03,"Loloda Kepulauan"
+20,03,"Kao Utara"
+21,03,"Kao Barat"
+22,03,"Kao Teluk"
+01,04,"Pulau Makian"
+02,04,Kayoa
+03,04,"Gane Timur"
+04,04,"Gane Barat"
+05,04,"Obi Selatan"
+06,04,Obi
+07,04,"Bacan Timur"
+08,04,Bacan
+09,04,"Bacan Barat"
+10,04,"Makian Barat"
+11,04,"Kayoa Barat"
+12,04,"Kayoa Selatan"
+13,04,"Kayoa Utara"
+14,04,"Bacan Barat Utara"
+15,04,"Kasiruta Barat"
+16,04,"Kasiruta Timur"
+17,04,"Bacan Selatan"
+18,04,"Kepulauan Botanglomang"
+19,04,"Mandioli Selatan"
+20,04,"Mandioli Utara"
+21,04,"Bacan Timur Selatan"
+22,04,"Bacan Timur Tengah"
+23,04,"Gane Barat Selatan"
+24,04,"Gane Barat Utara"
+25,04,"Kepulauan Joronga"
+26,04,"Gane Timur Selatan"
+27,04,"Gane Timur Tengah"
+28,04,"Obi Barat"
+29,04,"Obi Timur"
+30,04,"Obi Utara"
+01,05,"Mangoli Timur"
+02,05,Sanana
+03,05,"Sulabesi Barat"
+06,05,"Mangoli Barat"
+07,05,"Sulabesi Tengah"
+08,05,"Sulabesi Timur"
+09,05,"Sulabesi Selatan"
+10,05,"Mangoli Utara Timur"
+11,05,"Mangoli Tengah"
+12,05,"Mangoli Selatan"
+13,05,"Mangoli Utara"
+18,05,"Sanana Utara"
+01,06,Wasile
+02,06,Maba
+03,06,"Maba Selatan"
+04,06,"Wasile Selatan"
+05,06,"Wasile Tengah"
+06,06,"Wasile Utara"
+07,06,"Wasile Timur"
+08,06,"Maba Tengah"
+09,06,"Maba Utara"
+10,06,"Kota Maba"
+01,07,"Morotai Selatan"
+02,07,"Morotai Selatan Barat"
+03,07,"Morotai Jaya"
+04,07,"Morotai Utara"
+05,07,"Morotai Timur"
+06,07,"Pulau Rao"
+01,08,"Taliabu Barat"
+02,08,"Taliabu Barat Laut"
+03,08,Lede
+04,08,"Taliabu Utara"
+05,08,"Taliabu Timur"
+06,08,"Taliabu Timur Selatan"
+07,08,"Taliabu Selatan"
+08,08,Tabona
+01,71,"Pulau Ternate"
+02,71,"Kota Ternate Selatan"
+03,71,"Kota Ternate Utara"
+04,71,Moti
+05,71,"Pulau Batang Dua"
+06,71,"Kota Ternate Tengah"
+07,71,"Pulau Hiri"
+08,71,"Ternate Barat"
+01,72,Tidore
+02,72,"Oba Utara"
+03,72,Oba
+04,72,"Tidore Selatan"
+05,72,"Tidore Utara"
+06,72,"Oba Tengah"
+07,72,"Oba Selatan"
+08,72,"Tidore Timur"
+01,01,Merauke
+02,01,Muting
+03,01,Okaba
+04,01,Kimaam
+05,01,Semangga
+06,01,"Tanah Miring"
+07,01,Jagebob
+08,01,Sota
+09,01,Ulilin
+10,01,Elikobal
+11,01,Kurik
+12,01,Naukenjerai
+13,01,Animha
+14,01,Malind
+15,01,Tubang
+16,01,Ngguti
+17,01,Kaptel
+18,01,Tabonji
+19,01,Waan
+20,01,Ilwayab
+21,01,Padua
+22,01,Kontuar
+01,02,Wamena
+03,02,Kurulu
+04,02,Asologaima
+12,02,Hubikosi
+15,02,Bolakme
+25,02,Walelagama
+27,02,Musatfak
+28,02,Wolo
+29,02,Asolokobal
+34,02,Pelebaga
+35,02,Yalengga
+40,02,Trikora
+41,02,Napua
+42,02,Walaik
+43,02,Wouma
+44,02,Hubikiak
+45,02,Ibele
+46,02,Taelarek
+47,02,"Itlay Hisage"
+48,02,Siepkosi
+49,02,Usilimo
+50,02,"Wita Waya"
+51,02,Libarek
+52,02,Wadangku
+53,02,Pisugi
+54,02,Koragi
+55,02,Tagime
+56,02,Molagalome
+57,02,Tagineri
+58,02,"Silo Karno Doga"
+59,02,Piramid
+60,02,Muliama
+61,02,Bugi
+62,02,Bpiri
+63,02,Welesi
+64,02,Asotipo
+65,02,Maima
+66,02,Popugoba
+67,02,Wame
+68,02,Wesaput
+01,03,Sentani
+02,03,"Sentani Timur"
+03,03,Depapre
+04,03,"Sentani Barat"
+05,03,Kemtuk
+06,03,"Kemtuk Gresi"
+07,03,Nimboran
+08,03,Nimbokrang
+09,03,"Unurum Guay"
+10,03,Demta
+11,03,Kaureh
+12,03,Ebungfao
+13,03,Waibu
+14,03,Nambluong
+15,03,Yapsi
+16,03,Airu
+17,03,"Raveni Rara"
+18,03,"Gresi Selatan"
+19,03,Yokari
+01,04,Nabire
+02,04,Napan
+03,04,Yaur
+06,04,Uwapa
+07,04,Wanggar
+10,04,Siriwo
+11,04,Makimi
+12,04,"Teluk Umar"
+16,04,"Teluk Kimi"
+17,04,Yaro
+21,04,Wapoga
+22,04,"Nabire Barat"
+23,04,Moora
+24,04,Dipa
+25,04,Menou
+01,05,"Yapen Selatan"
+02,05,"Yapen Barat"
+03,05,"Yapen Timur"
+04,05,Angkaisera
+05,05,Poom
+06,05,Kosiwo
+07,05,"Yapen Utara"
+08,05,Raimbawi
+09,05,"Teluk Ampimoi"
+10,05,"Kepulauan Ambai"
+11,05,Wonawa
+12,05,Windesi
+13,05,"Pulau Kurudu"
+14,05,"Pulau Yerui"
+15,05,Anotaurei
+16,05,Yawakukat
+01,06,"Biak Kota"
+02,06,"Biak Utara"
+03,06,"Biak Timur"
+04,06,"Numfor Barat"
+05,06,"Numfor Timur"
+08,06,"Biak Barat"
+09,06,Warsa
+10,06,Padaido
+11,06,Yendidori
+12,06,Samofa
+13,06,Yawosi
+14,06,Andey
+15,06,Swandiwe
+16,06,Bruyadori
+17,06,Orkeri
+18,06,Poiru
+19,06,"Aimando Padaido"
+20,06,Oridek
+21,06,Bondifuar
+01,07,Mulia
+03,07,Ilu
+06,07,Fawi
+07,07,Mewoluk
+08,07,Yamo
+10,07,Nume
+11,07,Torere
+12,07,Tingginambut
+17,07,Pagaleme
+18,07,Gurage
+19,07,Irimuli
+20,07,Muara
+21,07,Ilamburawi
+22,07,Yambi
+23,07,Lumo
+24,07,Molanikime
+25,07,Dokome
+26,07,Kalome
+27,07,Wanwi
+28,07,Yamoneri
+29,07,Waegi
+30,07,Nioga
+31,07,Gubume
+32,07,Taganombak
+33,07,Dagai
+34,07,Kiyage
+01,08,"Paniai Timur"
+02,08,"Paniai Barat"
+04,08,Aradide
+07,08,Bogabaida
+09,08,Bibida
+12,08,Dumadama
+13,08,Siriwo
+19,08,Kebo
+20,08,Yatamo
+21,08,Ekadide
+22,08,"Wegee Muka"
+23,08,"Wegee Bino"
+24,08,"Pugo Dagi"
+25,08,Muye
+26,08,Nakama
+27,08,"Teluk Deya"
+28,08,Yagai
+29,08,Youtadi
+30,08,"Baya Biru"
+31,08,"Deiyai Miyo"
+32,08,Dogomo
+33,08,Aweida
+34,08,Topiyai
+01,09,"Mimika Baru"
+02,09,Agimuga
+03,09,"Mimika Timur"
+04,09,"Mimika Barat"
+05,09,Jita
+06,09,Jila
+07,09,"Mimika Timur Jauh"
+08,09,"Mimika Tengah"
+09,09,"Kuala Kencana"
+10,09,Tembagapura
+11,09,"Mimika Barat Jauh"
+12,09,"Mimika Barat Tengah"
+13,09,"Kwamki Narama"
+14,09,Hoya
+15,09,Iwaka
+16,09,Wania
+17,09,Amar
+18,09,Alama
+01,10,Sarmi
+02,10,"Tor Atas"
+03,10,"Pantai Barat"
+04,10,"Pantai Timur"
+05,10,Bonggo
+09,10,"Apawer Hulu"
+12,10,"Sarmi Selatan"
+13,10,"Sarmi Timur"
+14,10,"Pantai Timur Bagian Barat"
+15,10,"Bonggo Timur"
+01,11,Waris
+02,11,Arso
+03,11,Senggi
+04,11,Web
+05,11,Skanto
+06,11,"Arso Timur"
+07,11,Towe
+08,11,"Arso Barat"
+09,11,Mannem
+10,11,Yaffi
+11,11,Kaisenar
+01,12,Oksibil
+02,12,Kiwirok
+03,12,Okbibab
+04,12,Iwur
+05,12,Batom
+06,12,Borme
+07,12,"Kiwirok Timur"
+08,12,Aboy
+09,12,Pepera
+10,12,Bime
+11,12,Alemsom
+12,12,Okbape
+13,12,Kalomdol
+14,12,Oksop
+15,12,Serambakon
+16,12,"Ok Aom"
+17,12,Kawor
+18,12,Awinbon
+19,12,Tarup
+20,12,Okhika
+21,12,Oksamol
+22,12,Oklip
+23,12,Okbemtau
+24,12,Oksebang
+25,12,Okbab
+26,12,Batani
+27,12,Weime
+28,12,Murkim
+29,12,Mofinop
+30,12,Jetfa
+31,12,Teiraplu
+32,12,Eipumek
+33,12,Pamek
+34,12,Nongme
+01,13,Kurima
+02,13,Anggruk
+03,13,Ninia
+06,13,Silimo
+07,13,Samenage
+08,13,Nalca
+09,13,Dekai
+10,13,Obio
+11,13,"Suru Suru"
+12,13,Wusama
+13,13,Amuma
+14,13,Musaik
+15,13,Pasema
+16,13,Hogio
+17,13,Mugi
+18,13,Soba
+19,13,Werima
+20,13,Tangma
+21,13,Ukha
+22,13,Panggema
+23,13,Kosarek
+24,13,Nipsan
+25,13,Ubahak
+26,13,Pronggoli
+27,13,Walma
+28,13,Yahuliambut
+29,13,Hereapini
+30,13,Ubalihi
+31,13,Talambo
+32,13,Puldama
+33,13,Endomen
+34,13,Kona
+35,13,Dirwemna
+36,13,Holuon
+37,13,Lolat
+38,13,Soloikma
+39,13,Sela
+40,13,Korupun
+41,13,Langda
+42,13,Bomela
+43,13,Suntamon
+44,13,Seredela
+45,13,Sobaham
+46,13,Kabianggama
+47,13,Kwelemdua
+48,13,Kwikma
+49,13,Hilipuk
+50,13,Duram
+51,13,Yogosem
+52,13,Kayo
+53,13,Sumo
+01,14,Karubaga
+02,14,Bokondini
+03,14,Kanggime
+04,14,Kembu
+05,14,Goyage
+06,14,Wunim
+07,14,Wina
+08,14,Umagi
+09,14,Panaga
+10,14,Woniki
+11,14,Kubu
+12,14,"Konda/ Kondaga"
+13,14,Nelawi
+14,14,Kuari
+15,14,Bokoneri
+16,14,Bewani
+18,14,Nabunage
+19,14,Gilubandu
+20,14,Nunggawi
+21,14,Gundagi
+22,14,Numba
+23,14,Timori
+24,14,Dundu
+25,14,Geya
+26,14,Egiam
+27,14,Poganeri
+28,14,Kamboneri
+29,14,Airgaram
+30,14,"Wari/Taiyeve II"
+31,14,Dow
+32,14,Tagineri
+33,14,Yuneri
+34,14,Wakuwo
+35,14,Gika
+36,14,Telenggeme
+37,14,Anawi
+38,14,Wenam
+39,14,Wugi
+40,14,Danime
+41,14,Tagime
+42,14,Kai
+43,14,Aweku
+44,14,Bogonuk
+45,14,"Li Anogomma"
+46,14,Biuk
+47,14,Yuko
+01,15,"Waropen Bawah"
+03,15,Masirei
+07,15,"Risei Sayati"
+08,15,"Urei Faisei"
+09,15,Inggerus
+10,15,Kirihi
+11,15,Oudate
+12,15,Wapoga
+13,15,Demba
+14,15,Wonti
+15,15,"Soyoi Mambai"
+01,16,Mandobo
+02,16,Mindiptana
+03,16,Waropko
+04,16,Kouh
+05,16,Jair
+06,16,Bomakia
+07,16,Kombut
+08,16,Iniyandit
+09,16,Arimop
+10,16,Fofi
+11,16,Ambatkwi
+12,16,Manggelum
+13,16,Firiwage
+14,16,Yaniruma
+15,16,Subur
+16,16,Kombay
+17,16,Ninati
+18,16,Sesnuk
+19,16,Ki
+20,16,Kawagit
+01,17,Obaa
+02,17,"Mambioman Bapai"
+03,17,Citak-Mitak
+04,17,Edera
+05,17,Haju
+06,17,Assue
+07,17,Kaibar
+08,17,Passue
+09,17,Minyamur
+10,17,Venaha
+11,17,Syahcame
+12,17,Yakomi
+13,17,Bamgi
+14,17,"Passue Bawah"
+15,17,"Ti Zain"
+01,18,Agats
+02,18,Atsj
+03,18,"Sawa Erma"
+04,18,Akat
+05,18,Fayit
+06,18,"Pantai Kasuari"
+07,18,Suator
+08,18,Suru-suru
+09,18,"Kolf Braza"
+10,18,"Unir Sirau"
+11,18,Joerat
+12,18,"Pulau Tiga"
+13,18,Jetsy
+14,18,"Der Koumur"
+15,18,Kopay
+16,18,Safan
+17,18,Sirets
+18,18,Ayip
+19,18,Betcbamu
+20,18,Joutu
+21,18,Aswi
+22,18,Awyu
+23,18,"Koroway Buluanop"
+01,19,"Supiori Selatan"
+02,19,"Supiori Utara"
+03,19,"Supiori Timur"
+04,19,"Kepulauan Aruri"
+05,19,"Supiori Barat"
+01,20,"Mamberamo Tengah"
+02,20,"Mamberamo Hulu"
+03,20,Rufaer
+04,20,"Mamberamo Tengah Timur"
+05,20,"Mamberamo Hilir"
+06,20,"Waropen Atas"
+07,20,Benuki
+08,20,Sawai
+01,21,Kobagma
+02,21,Kelila
+03,21,Eragayam
+04,21,Megambilis
+05,21,Ilugwa
+01,22,Elelim
+02,22,Apalapsili
+03,22,Abenaho
+04,22,Benawa
+05,22,Welarek
+01,23,Tiom
+02,23,Pirime
+03,23,Makki
+04,23,Gamelia
+05,23,Dimba
+06,23,Melagineri
+07,23,Balingga
+08,23,Tiomneri
+09,23,Kuyawage
+10,23,Poga
+11,23,Niname
+12,23,Nogi
+13,23,Yiginua
+14,23,"Tiom Ollo"
+15,23,Yugungwi
+16,23,Mokoni
+17,23,Wereka
+18,23,Milimbo
+19,23,Wiringgambut
+20,23,Gollo
+21,23,Awina
+22,23,Ayumnati
+23,23,"Wano Barat"
+24,23,"Goa Balim"
+25,23,Bruwa
+26,23,"Balingga Barat"
+27,23,Gupura
+28,23,Kolawa
+29,23,"Gelok Beam"
+30,23,"Kuly Lanny"
+31,23,Lannyna
+32,23,Karu
+33,23,Yiluk
+34,23,Guna
+35,23,Kelulome
+36,23,Nikogwe
+37,23,Muara
+38,23,"Buguk Gona"
+39,23,Melagi
+01,24,Kenyam
+02,24,Mapenduma
+03,24,Yigi
+04,24,Wosak
+05,24,Geselma
+06,24,Mugi
+07,24,Mbuwa
+08,24,Gearek
+09,24,Koroptak
+10,24,Kegayem
+11,24,Paro
+12,24,Mebarok
+13,24,Yenggelo
+14,24,Kilmid
+15,24,Alama
+16,24,Yal
+17,24,Mam
+18,24,Dal
+19,24,Nirkuri
+20,24,Inikgal
+21,24,Iniye
+22,24,"Mbulmu Yalma"
+23,24,"Mbua Tengah"
+24,24,Embetpen
+25,24,Kora
+26,24,Wusi
+27,24,Pija
+28,24,Moba
+29,24,Wutpaga
+30,24,Nenggeagin
+31,24,Krepkuri
+32,24,"Pasir Putih"
+01,25,Ilaga
+02,25,Wangbe
+03,25,Beoga
+04,25,Doufo
+05,25,Pogoma
+06,25,Sinak
+07,25,Agandugume
+08,25,Gome
+09,25,Dervos
+10,25,"Beoga Barat"
+11,25,"Beoga Timur"
+12,25,Ogamanim
+13,25,Kembru
+14,25,Bina
+15,25,"Sinak Barat"
+16,25,Mage'abume
+17,25,Yugumuak
+18,25,"Ilaga Utara"
+19,25,Mabugi
+20,25,Omukia
+21,25,Lambewi
+22,25,Oneri
+23,25,Amungkalpia
+24,25,"Gome Utara"
+25,25,Erelmakawia
+01,26,Kamu
+02,26,Mapia
+03,26,Piyaiye
+04,26,"Kamu Utara"
+05,26,"Sukikai Selatan"
+06,26,"Mapia Barat"
+07,26,"Kamu Selatan"
+08,26,"Kamu Timur"
+09,26,"Mapia Tengah"
+10,26,Dogiyai
+01,27,Sugapa
+02,27,Homeyo
+03,27,Wandai
+04,27,Biandoga
+05,27,Agisiga
+06,27,Hitadipa
+07,27,Ugimba
+08,27,Tomosiga
+01,28,Tigi
+02,28,"Tigi Timur"
+03,28,Bowobado
+04,28,"Tigi Barat"
+05,28,Kapiraya
+01,71,"Jayapura Utara"
+02,71,"Jayapura Selatan"
+03,71,Abepura
+04,71,"Muara Tami"
+05,71,Heram
+01,01,Makbon
+04,01,Beraur
+05,01,Salawati
+06,01,Seget
+07,01,Aimas
+08,01,Klamono
+10,01,Sayosa
+12,01,Segun
+13,01,Mayamuk
+14,01,"Salawati Selatan"
+17,01,Klabot
+18,01,Klawak
+20,01,Maudus
+39,01,Mariat
+40,01,Klayili
+41,01,Klaso
+42,01,Moisegen
+43,01,Sorong
+44,01,Bagun
+45,01,Wemak
+46,01,Sunook
+47,01,Buk
+48,01,Saengkeduk
+49,01,Malabotom
+50,01,Konhir
+51,01,Klasafet
+52,01,Hobard
+53,01,"Salawati Tengah"
+54,01,Botain
+55,01,"Sayosa Timur"
+03,02,Warmare
+04,02,Prafi
+05,02,Masni
+12,02,"Manokwari Barat"
+13,02,"Manokwari Timur"
+14,02,"Manokwari Utara"
+15,02,"Manokwari Selatan"
+17,02,"Tanah Rubuh"
+21,02,Sidey
+01,03,Fak-Fak
+02,03,"Fak-Fak Barat"
+03,03,"Fak-Fak Timur"
+04,03,Kokas
+05,03,"Fak-Fak Tengah"
+06,03,Karas
+07,03,Bomberay
+08,03,Kramongmongga
+09,03,"Teluk Patipi"
+10,03,Pariwari
+11,03,Wartutin
+12,03,"Fakfak Timur Tengah"
+13,03,Arguni
+14,03,Mbahamdandara
+15,03,Kayauni
+16,03,Furwagi
+17,03,Tomage
+01,04,Teminabuan
+04,04,Inanwatan
+06,04,Sawiat
+09,04,Kokoda
+10,04,Moswaren
+11,04,Seremuk
+12,04,Wayer
+14,04,Kais
+15,04,Konda
+20,04,Matemani
+21,04,"Kokoda Utara"
+22,04,Saifi
+24,04,Fokour
+25,04,Salkma
+26,04,"Kais Darat"
+01,05,"Misool (Misool Utara)"
+02,05,"Waigeo Utara"
+03,05,"Waigeo Selatan"
+04,05,"Salawati Utara"
+05,05,"Kepulauan Ayau"
+06,05,"Misool Timur"
+07,05,"Waigeo Barat"
+08,05,"Waigeo Timur"
+09,05,"Teluk Mayalibit"
+10,05,Kofiau
+11,05,"Meos Mansar"
+13,05,"Misool Selatan"
+14,05,Warwarbomi
+15,05,"Waigeo Barat Kepulauan"
+16,05,"Misool Barat"
+17,05,"Kepulauan Sembilan"
+18,05,"Kota Waisai"
+19,05,"Tiplol Mayalibit"
+20,05,"Batanta Utara"
+21,05,"Salawati Barat"
+22,05,"Salawati Tengah"
+23,05,Supnin
+24,05,Ayau
+25,05,"Batanta Selatan"
+01,06,Bintuni
+02,06,Merdey
+03,06,Babo
+04,06,Aranday
+05,06,"Moskona Selatan"
+06,06,"Moskona Utara"
+07,06,Wamesa
+08,06,Fafurwar
+09,06,Tembuni
+10,06,Kuri
+11,06,Manimeri
+12,06,Tuhiba
+13,06,"Dataran Beimes"
+14,06,Sumuri
+15,06,Kaitaro
+16,06,Aroba
+17,06,Masyeta
+18,06,Biscoop
+19,06,Tomu
+20,06,Kamundan
+21,06,Weriagar
+22,06,"Moskona Barat"
+23,06,Meyado
+24,06,"Moskona Timur"
+01,07,Wasior
+02,07,Windesi
+03,07,"Teluk Duairi"
+04,07,Wondiboy
+05,07,Wamesa
+06,07,Rumberpon
+07,07,Naikere
+08,07,Rasiei
+09,07,"Kuri Wamesa"
+10,07,Roon
+11,07,Roswar
+12,07,Nikiwar
+13,07,"Soug Jaya"
+01,08,Kaimana
+02,08,Buruway
+03,08,"Teluk Arguni Atas"
+04,08,"Teluk Etna"
+05,08,Kambrau
+06,08,"Teluk Arguni Bawah"
+07,08,Yamor
+01,09,Fef
+02,09,Miyah
+03,09,Yembun
+04,09,Kwoor
+05,09,Sausapor
+06,09,Abun
+07,09,Syujak
+08,09,Moraid
+09,09,Kebar
+10,09,Amberbaken
+11,09,Senopi
+12,09,Mubrani
+13,09,Bikar
+14,09,Bamusbama
+15,09,Ases
+16,09,"Miyah Selatan"
+17,09,Ireres
+18,09,Tobouw
+19,09,"Wilhem Roumbouts"
+20,09,Tinggouw
+21,09,Kwesefo
+22,09,Mawabuan
+23,09,"Kebar Timur"
+24,09,"Kebar Selatan"
+25,09,Manekar
+26,09,Mpur
+27,09,"Amberbaken Barat"
+28,09,Kasi
+29,09,Selemkai
+01,10,Aifat
+02,10,"Aifat Utara"
+03,10,"Aifat Timur"
+04,10,"Aifat Selatan"
+05,10,"Aitinyo Barat"
+06,10,Aitinyo
+07,10,"Aitinyo Utara"
+08,10,Ayamaru
+09,10,"Ayamaru Utara"
+10,10,"Ayamaru Timur"
+11,10,Mare
+12,10,"Aifat Timur Tengah"
+13,10,"Aifat Timur Jauh"
+14,10,"Aifat Timur Selatan"
+15,10,"Ayamaru Selatan"
+16,10,"Ayamaru Jaya"
+17,10,"Ayamaru Selatan Jaya"
+18,10,"Ayamaru Timur Selatan"
+19,10,"Ayamaru Utara Timur"
+20,10,"Ayamaru Tengah"
+21,10,"Ayamaru Barat"
+22,10,"Aitinyo Tengah"
+23,10,"Aitinyo Raya"
+24,10,"Mare Selatan"
+01,11,Ransiki
+02,11,Oransbari
+03,11,Neney
+04,11,"Dataran Isim"
+05,11,"Momi Waren"
+06,11,Tahota
+01,12,Anggi
+02,12,"Anggi Gida"
+03,12,Membey
+04,12,Sururey
+05,12,Didohu
+06,12,Taige
+07,12,Catubouw
+08,12,Testega
+09,12,Minyambaouw
+10,12,Hingk
+01,71,Sorong
+02,71,"Sorong Timur"
+03,71,"Sorong Barat"
+04,71,"Sorong Kepulauan"
+05,71,"Sorong Utara"
+06,71,"Sorong Manoi"
+07,71,"Sorong Kota"
+08,71,Klaurung
+09,71,Malaimsimsa
+10,71,"Maladum Mes"
