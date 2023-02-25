@@ -16,7 +16,7 @@
         <a href="LICENSE.md">
             <img src="https://img.shields.io/github/license/vermaysha/laravel-wilayah-indonesia?style=flat-square" alt="LICENSE">
         </a>
-        <a href="releases/latest">
+        <a href="https://github.com/vermaysha/laravel-wilayah-indonesia/releases/latest">
             <img src="https://img.shields.io/github/release-date/vermaysha/laravel-wilayah-indonesia?style=flat-square" alt="GitHub Release Date - Published_At">
         </a>
     </p>
