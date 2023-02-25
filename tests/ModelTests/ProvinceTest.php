@@ -1,12 +1,12 @@
 <?php
 
 use Illuminate\Database\Eloquent\Collection;
-use Vermaysha\LaravelWilayahID\Models\City;
-use Vermaysha\LaravelWilayahID\Models\District;
-use Vermaysha\LaravelWilayahID\Models\Province;
-use Vermaysha\LaravelWilayahID\Seeds\CitySeeder;
-use Vermaysha\LaravelWilayahID\Seeds\DistrictSeeder;
-use Vermaysha\LaravelWilayahID\Seeds\ProvinceSeeder;
+use Vermaysha\Wilayah\Models\City;
+use Vermaysha\Wilayah\Models\District;
+use Vermaysha\Wilayah\Models\Province;
+use Vermaysha\Wilayah\Seeds\CitySeeder;
+use Vermaysha\Wilayah\Seeds\DistrictSeeder;
+use Vermaysha\Wilayah\Seeds\ProvinceSeeder;
 
 it('province has data', function () {
     $this->seed(ProvinceSeeder::class);
