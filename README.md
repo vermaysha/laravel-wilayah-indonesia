@@ -1,10 +1,26 @@
-
-# Laravel Wilayah Indonesia
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/vermaysha/laravel-wilayah-indonesia.svg?style=flat-square)](https://packagist.org/packages/vermaysha/laravel-wilayah-indonesia)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/vermaysha/laravel-wilayah-indonesia/run-tests.yml?branch=master&label=tests&style=flat-square)](https://github.com/vermaysha/laravel-wilayah-indonesia/actions?query=workflow%3Arun-tests+branch%3Amaster)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/vermaysha/laravel-wilayah-indonesia/fix-php-code-style-issues.yml?branch=master&label=code%20style&style=flat-square)](https://github.com/vermaysha/laravel-wilayah-indonesia/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amaster)
-[![Total Downloads](https://img.shields.io/packagist/dt/vermaysha/laravel-wilayah-indonesia.svg?style=flat-square)](https://packagist.org/packages/vermaysha/laravel-wilayah-indonesia)
-![LICENSE](https://img.shields.io/github/license/vermaysha/laravel-wilayah-indonesia)
+<div align="center">
+    <h1>Laravel Wilayah Indonesia</h1>
+    <p>
+        <a href="https://packagist.org/packages/vermaysha/laravel-wilayah-indonesia">
+            <img src="https://img.shields.io/packagist/v/vermaysha/laravel-wilayah-indonesia.svg?style=flat-square" alt="Latest Version on Packagist">
+        </a>
+        <a href="https://github.com/vermaysha/laravel-wilayah-indonesia/actions?query=workflow%3Arun-tests+branch%3Amaster">
+            <img src="https://img.shields.io/github/actions/workflow/status/vermaysha/laravel-wilayah-indonesia/run-tests.yml?branch=master&amp;label=tests&amp;style=flat-square" alt="GitHub Tests Action Status">
+        </a>
+        <a href="https://github.com/vermaysha/laravel-wilayah-indonesia/actions?query=workflow%3A&quot;Fix+PHP+code+style+issues&quot;+branch%3Amaster">
+            <img src="https://img.shields.io/github/actions/workflow/status/vermaysha/laravel-wilayah-indonesia/fix-php-code-style-issues.yml?branch=master&amp;label=code%20style&amp;style=flat-square" alt="GitHub Code Style Action Status">
+        </a>
+        <a href="https://packagist.org/packages/vermaysha/laravel-wilayah-indonesia">
+            <img src="https://img.shields.io/packagist/dt/vermaysha/laravel-wilayah-indonesia.svg?style=flat-square" alt="Total Downloads">
+        </a>
+        <a href="LICENSE.md">
+            <img src="https://img.shields.io/github/license/vermaysha/laravel-wilayah-indonesia?style=flat-square" alt="LICENSE">
+        </a>
+        <a href="releases/latest">
+            <img src="https://img.shields.io/github/release-date/vermaysha/laravel-wilayah-indonesia?style=flat-square" alt="GitHub Release Date - Published_At">
+        </a>
+    </p>
+</div>
 
 Package untuk laravel yang berisi Data Wilayah Administrasi Indonesia yang tersusun berdasarkan Provinsi, Kabupaten, Kecamatan dan Desa
 
