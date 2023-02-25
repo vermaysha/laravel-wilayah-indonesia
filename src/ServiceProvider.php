@@ -25,6 +25,5 @@ class ServiceProvider extends PackageServiceProvider
                 'create_village_table',
             ])
             ->hasCommand(SeedCommand::class);
-
     }
 }

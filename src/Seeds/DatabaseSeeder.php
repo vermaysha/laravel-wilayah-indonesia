@@ -3,7 +3,6 @@
 namespace Vermaysha\LaravelWilayahID\Seeds;
 
 use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\Schema;
 
 class DatabaseSeeder extends Seeder
 {

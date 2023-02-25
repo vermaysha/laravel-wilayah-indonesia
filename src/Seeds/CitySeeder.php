@@ -11,17 +11,17 @@ class CitySeeder extends Seeder
 {
     public function run()
     {
-        LazyCollection::make(function() {
-            $handle = fopen(__DIR__ . '/../../resources/csv/cities.csv', 'r');
+        LazyCollection::make(function () {
+            $handle = fopen(__DIR__.'/../../resources/csv/cities.csv', 'r');
 
             while (($line = fgetcsv($handle, 1000)) !== false) {
                 $now = Carbon::now();
                 yield [
-                    'code'          => $line[0],
+                    'code' => $line[0],
                     'province_code' => $line[1],
-                    'name'          => $line[2],
-                    'created_at'    => $now,
-                    'updated_at'    => $now
+                    'name' => $line[2],
+                    'created_at' => $now,
+                    'updated_at' => $now,
                 ];
             }
 

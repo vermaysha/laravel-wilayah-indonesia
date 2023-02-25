@@ -36,9 +36,8 @@ class TestCase extends Orchestra
         ];
 
         foreach ($migrationsFiles as $file) {
-            $migration = include __DIR__.'/../database/migrations/' . $file;
+            $migration = include __DIR__.'/../database/migrations/'.$file;
             $migration->up();
         }
-
     }
 }
