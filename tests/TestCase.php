@@ -1,10 +1,10 @@
 <?php
 
-namespace Vermaysha\LaravelWilayahIndonesia\Tests;
+namespace Vermaysha\LaravelWilayahID\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Vermaysha\LaravelWilayahIndonesia\ServiceProvider;
+use Vermaysha\LaravelWilayahID\ServiceProvider;
 
 class TestCase extends Orchestra
 {
@@ -13,7 +13,7 @@ class TestCase extends Orchestra
         parent::setUp();
 
         Factory::guessFactoryNamesUsing(
-            fn (string $modelName) => 'Vermaysha\\LaravelWilayahIndonesia\\Database\\Factories\\'.class_basename($modelName).'Factory'
+            fn (string $modelName) => 'Vermaysha\\LaravelWilayahID\\Database\\Factories\\'.class_basename($modelName).'Factory'
         );
     }
 
