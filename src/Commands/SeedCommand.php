@@ -30,6 +30,7 @@ class SeedCommand extends Command
     {
         Artisan::call('db:seed', ['--class' => '\Vermaysha\Wilayah\Seeds\DatabaseSeeder', '--force' => true]);
         $this->info('Seeded: \Vermaysha\Wilayah\Seeds\IndonesiaSeeder');
+
         return self::SUCCESS;
     }
 }
