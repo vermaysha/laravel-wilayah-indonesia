@@ -1,84 +1,111 @@
-# Wilayah Administrasi Indonesia
 
+# Laravel Wilayah Indonesia
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/vermaysha/laravel-wilayah-indonesia.svg?style=flat-square)](https://packagist.org/packages/vermaysha/laravel-wilayah-indonesia)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/vermaysha/laravel-wilayah-indonesia/run-tests.yml?branch=master&label=tests&style=flat-square)](https://github.com/vermaysha/laravel-wilayah-indonesia/actions?query=workflow%3Arun-tests+branch%3Amaster)
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/vermaysha/laravel-wilayah-indonesia/fix-php-code-style-issues.yml?branch=master&label=code%20style&style=flat-square)](https://github.com/vermaysha/laravel-wilayah-indonesia/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/vermaysha/laravel-wilayah-indonesia.svg?style=flat-square)](https://packagist.org/packages/vermaysha/laravel-wilayah-indonesia)
+![LICENSE](https://img.shields.io/github/license/vermaysha/laravel-wilayah-indonesia)
 
-Data Wilayah Administrasi Indonesia yang disusun ulang berdasarkan Provinsi, Kabupaten, Kecamatan dan Desa
+Package untuk laravel yang berisi Data Wilayah Administrasi Indonesia yang tersusun berdasarkan Provinsi, Kabupaten, Kecamatan dan Desa
 
-<!-- ## Support us
-
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/laravel-wilayah-indonesia.jpg?t=1" width="419px" />](https://spatie.be/github-ad-click/laravel-wilayah-indonesia)
-
-We invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can support us by [buying one of our paid products](https://spatie.be/open-source/support-us).
-
-We highly appreciate you sending us a postcard from your hometown, mentioning which of our package(s) you are using. You'll find our address on [our contact page](https://spatie.be/about-us). We publish all received postcards on [our virtual postcard wall](https://spatie.be/open-source/postcards). -->
 
 ## Installation
 
-You can install the package via composer:
+Install package menggunakan composer
 
 ```bash
 composer require vermaysha/laravel-wilayah-indonesia
 ```
 
-You can publish and run the migrations with:
+Setelah package terinstall, jalankan kode dibawah 
 
 ```bash
-php artisan vendor:publish --tag="laravel-wilayah-indonesia-migrations"
+php artisan wilayah:install
+```
+
+File config serta migration akan otomatis tercopy ke folder masing-masing, lalu jalankan perintah dibawah
+
+```bash
 php artisan migrate
+php artisan wilayah:seed
 ```
 
-You can publish the config file with:
+## Usage/Examples
 
-```bash
-php artisan vendor:publish --tag="laravel-wilayah-indonesia-config"
-```
-
-This is the contents of the published config file:
+Gunakan beberapa model yang telah disediakan untuk mengolah data wilayah
 
 ```php
-return [
-];
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use Vermaysha\Wilayah\Models\City;
+use Vermaysha\Wilayah\Models\District;
+use Vermaysha\Wilayah\Models\Province;
+use Vermaysha\Wilayah\Models\Village;
+
+class ExampleController extends Controller
+{
+    /**
+     * Display all province
+     */
+    public function provinces(Request $request)
+    {
+        $province = Province::all();
+        return $province;
+    }
+
+    /**
+     * Display all province
+     */
+    public function cities(Request $request)
+    {
+        $city = City::limit(50)->get();
+        return $city;
+    }
+
+    /**
+     * Display all province
+     */
+    public function districts(Request $request)
+    {
+        $district = District::limit(50)->get();
+        return $district;
+    }
+
+    /**
+     * Display all province
+     */
+    public function villages(Request $request)
+    {
+        $village = Village::limit(50)->get();
+        return $village;
+    }
+}
+
 ```
 
-Optionally, you can publish the views using
+
+## Running Tests
 
 ```bash
-php artisan vendor:publish --tag="laravel-wilayah-indonesia-views"
+  composer test
 ```
 
-## Usage
 
-```php
-$Wilayah = new Vermaysha\Wilayah();
-echo $Wilayah->echoPhrase('Hello, Vermaysha!');
-```
+## Authors
 
-## Testing
+- [@vermaysha](https://www.github.com/vermaysha)
 
-```bash
-composer test
-```
-
-## Changelog
-
-Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-## Security Vulnerabilities
-
-Please review [our security policy](../../security/policy) on how to report security vulnerabilities.
-
-## Credits
-
-- [Ashary Vermaysha](https://github.com/vermaysha)
-- [All Contributors](../../contributors)
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+[LGPL-2.1](https://choosealicense.com/licenses/lgpl-2.1/)
+
+
+## FAQ
+
+#### Berapa banyak data provinsi, kabupaten, kecamatan dan desa yang tercantum ?
+
+Data pada package ini diambil dari repository https://github.com/vermaysha/kode-wilayah-indonesia, yang sesuai dengan Permendagri No 58 Tahun 2021 (diperbaharui dengan Kepmendagri No. 050-145 Tahun 2022)
