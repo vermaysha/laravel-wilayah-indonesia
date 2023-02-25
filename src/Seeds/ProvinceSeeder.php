@@ -13,7 +13,7 @@ class ProvinceSeeder extends Seeder
         $handle = fopen(__DIR__.'/../../resources/csv/provinces.csv', 'r');
 
         $rows = [];
-        while (($line = fgetcsv($handle, 1000)) !== false) {
+        while (($line = fgetcsv($handle)) !== false) {
             $now = Carbon::now();
             $rows[] = [
                 'code' => $line[0],
