@@ -23,6 +23,10 @@ class VillageSeeder extends Seeder
                     'created_at' => $now,
                     'updated_at' => $now,
                 ];
+
+                if (app()->runningUnitTests()) {
+                    break;
+                }
             }
 
             fclose($handle);

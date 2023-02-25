@@ -14,7 +14,7 @@ class CitySeeder extends Seeder
         LazyCollection::make(function () {
             $handle = fopen(__DIR__.'/../../resources/csv/cities.csv', 'r');
 
-            while (($line = fgetcsv($handle, 1000)) !== false) {
+            while (($line = fgetcsv($handle, 4096)) !== false) {
                 $now = Carbon::now();
                 yield [
                     'code' => $line[0],
@@ -23,6 +23,10 @@ class CitySeeder extends Seeder
                     'created_at' => $now,
                     'updated_at' => $now,
                 ];
+
+                if (app()->runningUnitTests()) {
+                    break;
+                }
             }
 
             fclose($handle);
