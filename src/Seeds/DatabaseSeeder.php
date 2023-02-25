@@ -1,6 +1,6 @@
 <?php
 
-namespace Vermaysha\LaravelWilayahIndonesia\Seeds;
+namespace Vermaysha\LaravelWilayahID\Seeds;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\Schema;

@@ -1,11 +1,11 @@
 <?php
 
-namespace Vermaysha\LaravelWilayahIndonesia\Seeds;
+namespace Vermaysha\LaravelWilayahID\Seeds;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Carbon;
 use Illuminate\Support\LazyCollection;
-use Vermaysha\LaravelWilayahIndonesia\Models\District;
+use Vermaysha\LaravelWilayahID\Models\District;
 
 class DistrictSeeder extends Seeder
 {
