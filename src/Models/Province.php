@@ -8,6 +8,29 @@ use Illuminate\Database\Eloquent\Relations\HasManyThrough;
 class Province extends Model
 {
     /**
+     * The table associated with the model.
+     *
+     * @var string
+     */
+    protected $table = 'provincies';
+
+
+    /**
+     * Model Constructor
+     *
+     * @param array $attributes
+     *
+     * @return void
+     *
+     */
+    public function __construct(array $attributes = [])
+    {
+        parent::__construct($attributes);
+
+        $this->table = config('wilayah-id.table_names.province') ?? $this->table;
+    }
+
+    /**
      * Cities of this province
      */
     public function cities(): HasMany
