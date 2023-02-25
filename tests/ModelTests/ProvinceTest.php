@@ -1,7 +1,7 @@
 <?php
 
-use Vermaysha\LaravelWilayahIndonesia\Models\Province;
-use Vermaysha\LaravelWilayahIndonesia\Seeds\ProvinceSeeder;
+use Vermaysha\LaravelWilayahID\Models\Province;
+use Vermaysha\LaravelWilayahID\Seeds\ProvinceSeeder;
 
 it('province has data', function () {
     $this->seed(ProvinceSeeder::class);

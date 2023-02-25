@@ -1,7 +1,7 @@
 <?php
 
-use Vermaysha\LaravelWilayahIndonesia\Models\District;
-use Vermaysha\LaravelWilayahIndonesia\Seeds\DistrictSeeder;
+use Vermaysha\LaravelWilayahID\Models\District;
+use Vermaysha\LaravelWilayahID\Seeds\DistrictSeeder;
 
 it('district has data', function () {
     $this->seed(DistrictSeeder::class);
