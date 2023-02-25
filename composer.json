@@ -60,7 +60,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Vermaysha\\LaravelWilayahIndonesia\\LaravelWilayahIndonesiaServiceProvider"
+                "Vermaysha\\LaravelWilayahIndonesia\\ServiceProvider"
             ],
             "aliases": {
                 "LaravelWilayahIndonesia": "Vermaysha\\LaravelWilayahIndonesia\\Facades\\LaravelWilayahIndonesia"
