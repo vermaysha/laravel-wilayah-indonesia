@@ -7,6 +7,12 @@ use Illuminate\Database\Eloquent\Relations\HasManyThrough;
 
 class Province extends Model
 {
+    /**
+     * Cities of this province
+     *
+     * @return HasMany
+     *
+     */
     public function cities(): HasMany
     {
         return $this->hasMany(
@@ -16,6 +22,12 @@ class Province extends Model
         );
     }
 
+    /**
+     * Districts of this province
+     *
+     * @return HasManyThrough
+     *
+     */
     public function districts(): HasManyThrough
     {
         return $this->hasManyThrough(

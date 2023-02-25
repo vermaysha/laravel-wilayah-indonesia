@@ -6,6 +6,12 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
 class Village extends Model
 {
+    /**
+     * District of this village
+     *
+     * @return BelongsTo
+     *
+     */
     public function district(): BelongsTo
     {
         return $this->belongsTo(

@@ -7,6 +7,12 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class District extends Model
 {
+    /**
+     * City of this district
+     *
+     * @return BelongsTo
+     *
+     */
     public function city(): BelongsTo
     {
         return $this->belongsTo(
@@ -16,6 +22,12 @@ class District extends Model
         );
     }
 
+    /**
+     * Villages of this district
+     *
+     * @return HasMany
+     *
+     */
     public function villages(): HasMany
     {
         return $this->hasMany(
