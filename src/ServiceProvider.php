@@ -1,11 +1,11 @@
 <?php
 
-namespace Vermaysha\LaravelWilayahID;
+namespace Vermaysha\Wilayah;
 
 use Spatie\LaravelPackageTools\Commands\InstallCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Vermaysha\LaravelWilayahID\Commands\SeedCommand;
+use Vermaysha\Wilayah\Commands\SeedCommand;
 
 class ServiceProvider extends PackageServiceProvider
 {
@@ -17,8 +17,8 @@ class ServiceProvider extends PackageServiceProvider
          * More info: https://github.com/spatie/laravel-package-tools
          */
         $package
-            ->name('laravel-wilayah-id')
-            ->hasConfigFile('wilayah-id')
+            ->name('wilayah')
+            ->hasConfigFile('wilayah')
             ->hasMigrations([
                 'create_provinces_table',
                 'create_cities_table',
@@ -28,6 +28,8 @@ class ServiceProvider extends PackageServiceProvider
             ->hasCommand(SeedCommand::class)
             ->hasInstallCommand(function (InstallCommand $command) {
                 $command
+                    ->setDescription('')
+                    ->setHidden(false)
                     ->publishConfigFile()
                     ->publishMigrations()
                     ->askToRunMigrations()

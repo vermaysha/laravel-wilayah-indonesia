@@ -1,9 +1,9 @@
 <?php
 
-use Vermaysha\LaravelWilayahID\Models\District;
-use Vermaysha\LaravelWilayahID\Models\Village;
-use Vermaysha\LaravelWilayahID\Seeds\DistrictSeeder;
-use Vermaysha\LaravelWilayahID\Seeds\VillageSeeder;
+use Vermaysha\Wilayah\Models\District;
+use Vermaysha\Wilayah\Models\Village;
+use Vermaysha\Wilayah\Seeds\DistrictSeeder;
+use Vermaysha\Wilayah\Seeds\VillageSeeder;
 
 it('village has data', function () {
     $this->seed(VillageSeeder::class);

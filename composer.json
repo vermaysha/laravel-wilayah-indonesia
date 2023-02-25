@@ -7,11 +7,13 @@
         "laravel-wilayah-indonesia"
     ],
     "homepage": "https://github.com/vermaysha/laravel-wilayah-indonesia",
-    "license": "MIT",
+    "readme": "https://github.com/vermaysha/laravel-wilayah-indonesia#readme",
+    "type": "library",
+    "license": "LGPL-2.1-only",
     "authors": [
         {
             "name": "Ashary Vermaysha",
-            "email": "asharyver13@gmail.com",
+            "email": "vermaysha@gmail.com",
             "role": "Developer"
         }
     ],
@@ -34,13 +36,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Vermaysha\\LaravelWilayahID\\": "src",
-            "Vermaysha\\LaravelWilayahID\\Database\\Factories\\": "database/factories"
+            "Vermaysha\\Wilayah\\": "src",
+            "Vermaysha\\Wilayah\\Database\\Factories\\": "database/factories"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Vermaysha\\LaravelWilayahID\\Tests\\": "tests"
+            "Vermaysha\\Wilayah\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -60,7 +62,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Vermaysha\\LaravelWilayahID\\ServiceProvider"
+                "Vermaysha\\Wilayah\\ServiceProvider"
             ]
         }
     },

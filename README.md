@@ -52,8 +52,8 @@ php artisan vendor:publish --tag="laravel-wilayah-indonesia-views"
 ## Usage
 
 ```php
-$LaravelWilayahID = new Vermaysha\LaravelWilayahID();
-echo $LaravelWilayahID->echoPhrase('Hello, Vermaysha!');
+$Wilayah = new Vermaysha\Wilayah();
+echo $Wilayah->echoPhrase('Hello, Vermaysha!');
 ```
 
 ## Testing

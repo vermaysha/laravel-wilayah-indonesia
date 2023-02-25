@@ -1,6 +1,6 @@
 <?php
 
-namespace Vermaysha\LaravelWilayahID\Seeds;
+namespace Vermaysha\Wilayah\Seeds;
 
 use Illuminate\Database\Seeder;
 

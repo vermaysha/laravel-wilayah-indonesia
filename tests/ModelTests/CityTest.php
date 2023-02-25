@@ -1,13 +1,13 @@
 <?php
 
 use Illuminate\Database\Eloquent\Collection;
-use Vermaysha\LaravelWilayahID\Models\City;
-use Vermaysha\LaravelWilayahID\Models\Province;
-use Vermaysha\LaravelWilayahID\Models\Village;
-use Vermaysha\LaravelWilayahID\Seeds\CitySeeder;
-use Vermaysha\LaravelWilayahID\Seeds\DistrictSeeder;
-use Vermaysha\LaravelWilayahID\Seeds\ProvinceSeeder;
-use Vermaysha\LaravelWilayahID\Seeds\VillageSeeder;
+use Vermaysha\Wilayah\Models\City;
+use Vermaysha\Wilayah\Models\Province;
+use Vermaysha\Wilayah\Models\Village;
+use Vermaysha\Wilayah\Seeds\CitySeeder;
+use Vermaysha\Wilayah\Seeds\DistrictSeeder;
+use Vermaysha\Wilayah\Seeds\ProvinceSeeder;
+use Vermaysha\Wilayah\Seeds\VillageSeeder;
 
 it('city has data', function () {
     $this->seed(CitySeeder::class);

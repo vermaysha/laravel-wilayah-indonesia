@@ -1,9 +1,9 @@
 <?php
 
-namespace Vermaysha\LaravelWilayahID\Tests;
+namespace Vermaysha\Wilayah\Tests;
 
 use Orchestra\Testbench\TestCase as Orchestra;
-use Vermaysha\LaravelWilayahID\ServiceProvider;
+use Vermaysha\Wilayah\ServiceProvider;
 
 class TestCase extends Orchestra
 {
