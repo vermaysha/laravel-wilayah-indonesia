@@ -28,14 +28,15 @@ class ServiceProvider extends PackageServiceProvider
             ->hasCommand(SeedCommand::class)
             ->hasInstallCommand(function (InstallCommand $command) {
                 $command
-                    ->setDescription('')
+                    ->setDescription('Install vermaysha/laravel-wilayah-indonesia package')
                     ->setHidden(false)
                     ->publishConfigFile()
                     ->publishMigrations()
-                    ->askToRunMigrations()
                     ->askToStarRepoOnGitHub('vermaysha/laravel-wilayah-indonesia')
                     ->endWith(function (InstallCommand $command) {
-                        $command->info('Please run `php artisan wilayah-id:seed` to produce data');
+                        $command->line('');
+                        $command->info('Please run `php artisan migrate`');
+                        $command->info('Please run `php artisan wilayah:seed` to produce data');
                     });
             });
     }

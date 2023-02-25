@@ -25,7 +25,7 @@ class City extends Model
     {
         parent::__construct($attributes);
 
-        $this->table = config('wilayah-id.table_names.city') ?? $this->table;
+        $this->table = config('wilayah.table_names.city') ?? $this->table;
     }
 
     /**

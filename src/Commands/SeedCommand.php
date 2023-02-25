@@ -12,14 +12,14 @@ class SeedCommand extends Command
      *
      * @var string
      */
-    public $signature = 'wilayah-id:seed';
+    public $signature = 'wilayah:seed';
 
     /**
      * The console command description.
      *
      * @var string
      */
-    public $description = 'Seed database wilayah-id';
+    public $description = 'Seed database wilayah';
 
     /**
      * The console command description.

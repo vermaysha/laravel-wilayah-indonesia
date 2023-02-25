@@ -24,7 +24,7 @@ class Province extends Model
     {
         parent::__construct($attributes);
 
-        $this->table = config('wilayah-id.table_names.province') ?? $this->table;
+        $this->table = config('wilayah.table_names.province') ?? $this->table;
     }
 
     /**
