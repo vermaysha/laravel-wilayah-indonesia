@@ -23,13 +23,12 @@ class SeedCommand extends Command
 
     /**
      * The console command description.
-     *
-     * @return int
      */
     public function handle(): int
     {
         Artisan::call('db:seed', ['--class' => '\Vermaysha\Wilayah\Seeds\DatabaseSeeder', '--force' => true]);
         $this->info('Seeded: \Vermaysha\Wilayah\Seeds\IndonesiaSeeder');
+
         return self::SUCCESS;
     }
 }
