@@ -8,9 +8,6 @@ class Village extends Model
 {
     /**
      * District of this village
-     *
-     * @return BelongsTo
-     *
      */
     public function district(): BelongsTo
     {

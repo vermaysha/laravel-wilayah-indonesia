@@ -19,7 +19,7 @@ it('province has data', function () {
 it('province has many cities data', function () {
     $this->seed([
         ProvinceSeeder::class,
-        CitySeeder::class
+        CitySeeder::class,
     ]);
 
     $province = Province::with('cities')->first();
@@ -32,7 +32,7 @@ it('province has many districts data', function () {
     $this->seed([
         ProvinceSeeder::class,
         CitySeeder::class,
-        DistrictSeeder::class
+        DistrictSeeder::class,
     ]);
 
     $province = Province::with(['cities', 'districts'])->first();

@@ -16,7 +16,7 @@ it('village has data', function () {
 it('village has district data', function () {
     $this->seed([
         DistrictSeeder::class,
-        VillageSeeder::class
+        VillageSeeder::class,
     ]);
 
     $village = Village::with('district')->first();

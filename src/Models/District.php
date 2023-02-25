@@ -9,9 +9,6 @@ class District extends Model
 {
     /**
      * City of this district
-     *
-     * @return BelongsTo
-     *
      */
     public function city(): BelongsTo
     {
@@ -24,9 +21,6 @@ class District extends Model
 
     /**
      * Villages of this district
-     *
-     * @return HasMany
-     *
      */
     public function villages(): HasMany
     {

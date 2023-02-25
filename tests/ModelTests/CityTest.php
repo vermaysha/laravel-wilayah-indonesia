@@ -2,7 +2,6 @@
 
 use Illuminate\Database\Eloquent\Collection;
 use Vermaysha\LaravelWilayahID\Models\City;
-use Vermaysha\LaravelWilayahID\Models\District;
 use Vermaysha\LaravelWilayahID\Models\Province;
 use Vermaysha\LaravelWilayahID\Models\Village;
 use Vermaysha\LaravelWilayahID\Seeds\CitySeeder;

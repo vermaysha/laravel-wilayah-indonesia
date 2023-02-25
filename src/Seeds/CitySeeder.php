@@ -24,7 +24,9 @@ class CitySeeder extends Seeder
                     'updated_at' => $now,
                 ];
 
-                if (app()->runningUnitTests()) break;
+                if (app()->runningUnitTests()) {
+                    break;
+                }
             }
 
             fclose($handle);

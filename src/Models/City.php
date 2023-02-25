@@ -10,9 +10,6 @@ class City extends Model
 {
     /**
      * Province of this city
-     *
-     * @return BelongsTo
-     *
      */
     public function province(): BelongsTo
     {
@@ -25,9 +22,6 @@ class City extends Model
 
     /**
      * Districts of this city
-     *
-     * @return HasMany
-     *
      */
     public function districts(): HasMany
     {
@@ -40,9 +34,6 @@ class City extends Model
 
     /**
      * Villages of thi city
-     *
-     * @return HasManyThrough
-     *
      */
     public function villages(): HasManyThrough
     {

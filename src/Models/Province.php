@@ -9,9 +9,6 @@ class Province extends Model
 {
     /**
      * Cities of this province
-     *
-     * @return HasMany
-     *
      */
     public function cities(): HasMany
     {
@@ -24,9 +21,6 @@ class Province extends Model
 
     /**
      * Districts of this province
-     *
-     * @return HasManyThrough
-     *
      */
     public function districts(): HasManyThrough
     {
