@@ -1,6 +1,6 @@
 <?php
 
-// config for Vermaysha/LaravelWilayahIndonesia
+// config for Vermaysha/LaravelWilayahID
 return [
 
 ];

@@ -1,7 +1,7 @@
 <?php
 
-use Vermaysha\LaravelWilayahIndonesia\Models\City;
-use Vermaysha\LaravelWilayahIndonesia\Seeds\CitySeeder;
+use Vermaysha\LaravelWilayahID\Models\City;
+use Vermaysha\LaravelWilayahID\Seeds\CitySeeder;
 
 it('city has data', function () {
     $this->seed(CitySeeder::class);

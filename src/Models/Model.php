@@ -1,6 +1,6 @@
 <?php
 
-namespace Vermaysha\LaravelWilayahIndonesia\Models;
+namespace Vermaysha\LaravelWilayahID\Models;
 
 use Illuminate\Database\Eloquent\Model as EloquentModel;
 

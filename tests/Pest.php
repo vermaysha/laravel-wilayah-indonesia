@@ -1,5 +1,5 @@
 <?php
 
-use Vermaysha\LaravelWilayahIndonesia\Tests\TestCase;
+use Vermaysha\LaravelWilayahID\Tests\TestCase;
 
 uses(TestCase::class)->in('ModelTests');
