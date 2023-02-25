@@ -3,7 +3,7 @@
 use Vermaysha\LaravelWilayahID\Models\Village;
 use Vermaysha\LaravelWilayahID\Seeds\VillageSeeder;
 
-it('Village has data', function () {
+it('village has data', function () {
     $this->seed(VillageSeeder::class);
 
     $village = Village::first();
