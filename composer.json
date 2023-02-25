@@ -34,13 +34,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Vermaysha\\LaravelWilayahIndonesia\\": "src",
-            "Vermaysha\\LaravelWilayahIndonesia\\Database\\Factories\\": "database/factories"
+            "Vermaysha\\LaravelWilayahID\\": "src",
+            "Vermaysha\\LaravelWilayahID\\Database\\Factories\\": "database/factories"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Vermaysha\\LaravelWilayahIndonesia\\Tests\\": "tests"
+            "Vermaysha\\LaravelWilayahID\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -60,11 +60,8 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Vermaysha\\LaravelWilayahIndonesia\\ServiceProvider"
-            ],
-            "aliases": {
-                "LaravelWilayahIndonesia": "Vermaysha\\LaravelWilayahIndonesia\\Facades\\LaravelWilayahIndonesia"
-            }
+                "Vermaysha\\LaravelWilayahID\\ServiceProvider"
+            ]
         }
     },
     "minimum-stability": "dev",
