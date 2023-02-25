@@ -1,10 +1,10 @@
 <?php
 
-namespace Vermaysha\LaravelWilayahID\Seeds;
+namespace Vermaysha\Wilayah\Seeds;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Carbon;
-use Vermaysha\LaravelWilayahID\Models\Province;
+use Vermaysha\Wilayah\Models\Province;
 
 class ProvinceSeeder extends Seeder
 {

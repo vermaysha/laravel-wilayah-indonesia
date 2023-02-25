@@ -1,11 +1,11 @@
 <?php
 
-namespace Vermaysha\LaravelWilayahID\Seeds;
+namespace Vermaysha\Wilayah\Seeds;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Carbon;
 use Illuminate\Support\LazyCollection;
-use Vermaysha\LaravelWilayahID\Models\City;
+use Vermaysha\Wilayah\Models\City;
 
 class CitySeeder extends Seeder
 {
