@@ -1,6 +1,6 @@
 <?php
 
-namespace Vermaysha\LaravelWilayahID\Models;
+namespace Vermaysha\Wilayah\Models;
 
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
