@@ -1,10 +1,10 @@
 <?php
 
-namespace Vermaysha\LaravelWilayahIndonesia;
+namespace Vermaysha\LaravelWilayahID;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Vermaysha\LaravelWilayahIndonesia\Commands\LaravelWilayahIndonesiaCommand;
+use Vermaysha\LaravelWilayahID\Commands\SeedCommand;
 
 class ServiceProvider extends PackageServiceProvider
 {
@@ -24,7 +24,7 @@ class ServiceProvider extends PackageServiceProvider
                 'create_districts_table',
                 'create_village_table',
             ])
-            ->hasCommand(LaravelWilayahIndonesiaCommand::class);
+            ->hasCommand(SeedCommand::class);
 
     }
 }
