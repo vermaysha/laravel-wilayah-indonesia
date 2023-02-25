@@ -1,12 +1,12 @@
 <?php
 
-namespace Vermaysha\LaravelWilayahIndonesia\Commands;
+namespace Vermaysha\LaravelWilayahID\Commands;
 
 use Illuminate\Console\Command;
 
-class LaravelWilayahIndonesiaCommand extends Command
+class SeedCommand extends Command
 {
-    public $signature = 'laravel-wilayah-indonesia';
+    public $signature = 'wilayah-id:seed';
 
     public $description = 'My command';
 
