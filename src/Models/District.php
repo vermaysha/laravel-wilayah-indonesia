@@ -8,6 +8,26 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 class District extends Model
 {
     /**
+     * The table associated with the model.
+     *
+     * @var string
+     */
+    protected $table = 'districts';
+
+    /**
+     * Model Constructor
+     *
+     *
+     * @return void
+     */
+    public function __construct(array $attributes = [])
+    {
+        parent::__construct($attributes);
+
+        $this->table = config('wilayah-id.table_names.district') ?? $this->table;
+    }
+
+    /**
      * City of this district
      */
     public function city(): BelongsTo
