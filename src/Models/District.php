@@ -24,7 +24,7 @@ class District extends Model
     {
         parent::__construct($attributes);
 
-        $this->table = config('wilayah-id.table_names.district') ?? $this->table;
+        $this->table = config('wilayah.table_names.district') ?? $this->table;
     }
 
     /**

@@ -23,7 +23,7 @@ class Village extends Model
     {
         parent::__construct($attributes);
 
-        $this->table = config('wilayah-id.table_names.village') ?? $this->table;
+        $this->table = config('wilayah.table_names.village') ?? $this->table;
     }
 
     /**
