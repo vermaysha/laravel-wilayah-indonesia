@@ -1,6 +1,6 @@
 <?php
 
-namespace Vermaysha\LaravelWilayahIndonesia\Models;
+namespace Vermaysha\LaravelWilayahID\Models;
 
 class Village extends Model
 {
