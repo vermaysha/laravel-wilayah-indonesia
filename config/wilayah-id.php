@@ -10,7 +10,7 @@ return [
 
         /**
          * City table name
-        */
+         */
         'city' => 'cities',
 
         /**
@@ -21,6 +21,6 @@ return [
         /**
          * Village table name
          */
-        'village' => 'villages'
-    ]
+        'village' => 'villages',
+    ],
 ];

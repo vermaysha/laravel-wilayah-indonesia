@@ -18,10 +18,8 @@ class City extends Model
     /**
      * Model Constructor
      *
-     * @param array $attributes
      *
      * @return void
-     *
      */
     public function __construct(array $attributes = [])
     {
