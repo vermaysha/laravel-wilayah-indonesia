@@ -1,4 +1,4 @@
-name: run-tests-laravel-10
+name: run-tests
 
 on:
   push:
@@ -44,8 +44,8 @@ jobs:
           echo "::add-matcher::${{ runner.tool_cache }}/phpunit.json"
       - name: Install dependencies
         run: |
-          composer require "laravel/framework:${{ matrix.laravel }}" "orchestra/testbench:${{ matrix.testbench }}" "nesbot/carbon:^2.64.1" --no-interaction --no-update
-          composer update --${{ matrix.stability }} --prefer-dist --no-interaction --dev
+          COMPOSER_NO_DEV=0 composer require "laravel/framework:${{ matrix.laravel }}" "orchestra/testbench:${{ matrix.testbench }}" "nesbot/carbon:^2.64.1" --no-interaction --no-update --with-all-dependencies
+          COMPOSER_NO_DEV=0 composer update --${{ matrix.stability }} --prefer-dist --no-interaction --with-all-dependencies
 
       - name: List Installed Dependencies
         run: composer show -D
