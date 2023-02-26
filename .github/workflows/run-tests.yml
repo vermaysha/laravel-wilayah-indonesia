@@ -43,7 +43,7 @@ jobs:
 
       - name: Install dependencies for laravel 10
         run: |
-          composer require "laravel/framework:10.*" "orchestra/testbench:8.*" "nesbot/carbon:^2.63" "nesbot/carbon:${{ matrix.carbon }}" --no-interaction --no-update
+          composer require "laravel/framework:10.*" "orchestra/testbench:8.*" "nesbot/carbon:^2.63" --no-interaction --no-update
           composer update --${{ matrix.stability }} --prefer-dist --no-interaction
         if: matrix.laravel == '10.*' && matrix.php >= 8.1
 
