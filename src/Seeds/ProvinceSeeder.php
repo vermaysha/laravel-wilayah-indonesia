@@ -3,7 +3,6 @@
 namespace Vermaysha\Wilayah\Seeds;
 
 use Illuminate\Database\Seeder;
-use Illuminate\Support\Carbon;
 use Vermaysha\Wilayah\Models\Province;
 
 class ProvinceSeeder extends Seeder
@@ -21,7 +20,6 @@ class ProvinceSeeder extends Seeder
         }
 
         fclose($handle);
-
 
         $rows->each(function (array $row) {
             Province::updateOrInsert(['code' => $row['code']], $row);
