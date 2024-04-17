@@ -3,7 +3,6 @@
 namespace Vermaysha\Wilayah\Seeds;
 
 use Illuminate\Database\Seeder;
-use Illuminate\Support\Carbon;
 use Illuminate\Support\LazyCollection;
 use Vermaysha\Wilayah\Models\District;
 
@@ -15,13 +14,10 @@ class DistrictSeeder extends Seeder
             $handle = fopen(__DIR__.'/../../resources/csv/districts.csv', 'r');
 
             while (($line = fgetcsv($handle, 4096)) !== false) {
-                $now = Carbon::now();
                 yield [
                     'code' => $line[0],
                     'city_code' => $line[1],
                     'name' => $line[2],
-                    'created_at' => $now,
-                    'updated_at' => $now,
                 ];
 
                 if (app()->runningUnitTests()) {
@@ -30,8 +26,8 @@ class DistrictSeeder extends Seeder
             }
 
             fclose($handle);
-        })->chunk(1000)->each(function (LazyCollection $chunk) {
-            District::insertOrIgnore($chunk->toArray());
+        })->each(function (array $row) {
+            District::updateOrInsert(['code' => $row['code']], $row);
         });
     }
 }

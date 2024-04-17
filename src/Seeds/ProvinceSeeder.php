@@ -12,18 +12,19 @@ class ProvinceSeeder extends Seeder
     {
         $handle = fopen(__DIR__.'/../../resources/csv/provinces.csv', 'r');
 
-        $rows = [];
+        $rows = collect();
         while (($line = fgetcsv($handle)) !== false) {
-            $now = Carbon::now();
-            $rows[] = [
+            $rows->push([
                 'code' => $line[0],
                 'name' => $line[1],
-                'created_at' => $now,
-                'updated_at' => $now,
-            ];
+            ]);
         }
 
         fclose($handle);
-        Province::insertOrIgnore($rows);
+
+
+        $rows->each(function (array $row) {
+            Province::updateOrInsert(['code' => $row['code']], $row);
+        });
     }
 }

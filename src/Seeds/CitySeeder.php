@@ -3,7 +3,6 @@
 namespace Vermaysha\Wilayah\Seeds;
 
 use Illuminate\Database\Seeder;
-use Illuminate\Support\Carbon;
 use Illuminate\Support\LazyCollection;
 use Vermaysha\Wilayah\Models\City;
 
@@ -15,13 +14,10 @@ class CitySeeder extends Seeder
             $handle = fopen(__DIR__.'/../../resources/csv/cities.csv', 'r');
 
             while (($line = fgetcsv($handle, 4096)) !== false) {
-                $now = Carbon::now();
                 yield [
                     'code' => $line[0],
                     'province_code' => $line[1],
-                    'name' => $line[2],
-                    'created_at' => $now,
-                    'updated_at' => $now,
+                    'name' => $line[2]
                 ];
 
                 if (app()->runningUnitTests()) {
@@ -30,8 +26,8 @@ class CitySeeder extends Seeder
             }
 
             fclose($handle);
-        })->chunk(1000)->each(function (LazyCollection $chunk) {
-            City::insertOrIgnore($chunk->toArray());
+        })->each(function (array $row) {
+            City::updateOrInsert(['code' => $row['code']], $row);
         });
     }
 }
