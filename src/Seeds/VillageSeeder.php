@@ -18,6 +18,8 @@ class VillageSeeder extends Seeder
                     'code' => $line[0],
                     'district_code' => $line[1],
                     'name' => $line[2],
+                    'updated_at' => now(),
+                    'created_at' => now(),
                 ];
 
                 if (app()->runningUnitTests()) {
@@ -26,8 +28,8 @@ class VillageSeeder extends Seeder
             }
 
             fclose($handle);
-        })->each(function (array $row) {
-            Village::updateOrInsert(['code' => $row['code']], $row);
+        })->chunk(1000)->each(function (LazyCollection $row) {
+            Village::query()->upsert($row->toArray(), ['code'], ['name', 'updated_at']);
         });
     }
 }

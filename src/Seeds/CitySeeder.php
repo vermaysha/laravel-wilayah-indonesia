@@ -18,6 +18,8 @@ class CitySeeder extends Seeder
                     'code' => $line[0],
                     'province_code' => $line[1],
                     'name' => $line[2],
+                    'updated_at' => now(),
+                    'created_at' => now(),
                 ];
 
                 if (app()->runningUnitTests()) {
@@ -26,8 +28,8 @@ class CitySeeder extends Seeder
             }
 
             fclose($handle);
-        })->each(function (array $row) {
-            City::updateOrInsert(['code' => $row['code']], $row);
+        })->chunk(1000)->each(function (LazyCollection $row) {
+            City::query()->upsert($row->toArray(), ['code'], ['name', 'updated_at']);
         });
     }
 }
