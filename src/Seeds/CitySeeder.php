@@ -17,7 +17,7 @@ class CitySeeder extends Seeder
                 yield [
                     'code' => $line[0],
                     'province_code' => $line[1],
-                    'name' => $line[2]
+                    'name' => $line[2],
                 ];
 
                 if (app()->runningUnitTests()) {
