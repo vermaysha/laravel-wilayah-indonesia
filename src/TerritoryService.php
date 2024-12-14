@@ -165,7 +165,11 @@ class TerritoryService
                 // Build the query to retrieve the provinces
                 $result = Province::when($name, function ($query) use ($name) {
                     // If a name is provided, filter the results by the name
-                    $query->whereLike('province_name', "%{$name}%");
+                    if (method_exists($query, 'whereLike')) {
+                        $query->whereLike('province_name', "%{$name}%");
+                    } else {
+                        $query->where('province_name', 'like', "%{$name}%");
+                    }
                 });
 
                 // If pagination is required, paginate the result
@@ -198,7 +202,11 @@ class TerritoryService
                     $query->where('province_code', $provinceCode);
                 })
                     ->when($name, function ($query) use ($name) {
-                        $query->whereLike('province_name', "%{$name}%");
+                        if (method_exists($query, 'whereLike')) {
+                            $query->whereLike('regency_name', "%{$name}%");
+                        } else {
+                            $query->where('regency_name', 'like', "%{$name}%");
+                        }
                     });
 
 
@@ -232,7 +240,11 @@ class TerritoryService
                         $query->where('regency_code', $regencyCode);
                     })
                     ->when($name, function ($query) use ($name) {
-                        $query->whereLike('district_name', "%{$name}%");
+                        if (method_exists($query, 'whereLike')) {
+                            $query->whereLike('district_name', "%{$name}%");
+                        } else {
+                            $query->where('district_name', 'like', "%{$name}%");
+                        }
                     });
 
                 $collection = $pagination ? $result->paginate($pagination) : $result->get();
@@ -271,7 +283,11 @@ class TerritoryService
                         $query->where('district_code', $districtCode);
                     })
                     ->when($name, function ($query) use ($name) {
-                        $query->whereLike('village_name', "%{$name}%");
+                        if (method_exists($query, 'whereLike')) {
+                            $query->whereLike('village_name', "%{$name}%");
+                        } else {
+                            $query->where('village_name', 'like', "%{$name}%");
+                        }
                     });
 
                 if ($pagination) {
