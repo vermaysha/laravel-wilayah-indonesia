@@ -1,0 +1,27 @@
+laravel: '@testbench'
+
+providers:
+  - Vermaysha\Territory\TerritoryServiceProvider
+
+migrations:
+  - databases/migrations
+
+workbench:
+  install: true
+  health: false
+  discovers:
+    web: false
+    api: false
+    commands: true
+    components: false
+    views: false
+  build:
+    - asset-publish
+    - create-sqlite-db
+    - db-wipe
+    - migrate-fresh:
+        --seed: true
+        --seeder: Workbench\Database\Seeders\DatabaseSeeder
+  assets:
+    - laravel-assets
+  sync: []

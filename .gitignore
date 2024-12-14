@@ -1,0 +1,5 @@
+.phpunit.cache
+vendor
+*.pem
+*.sql
+.phpunit.result.cache
