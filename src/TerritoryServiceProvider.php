@@ -31,7 +31,7 @@ class TerritoryServiceProvider extends ServiceProvider
 
         $this->mergeConfigFrom(__DIR__.'/../config/territory_id.php', 'territory_id');
 
-        $this->publishesMigrations([
+        $this->publishes([
             __DIR__.'/../databases/migrations/create_territory_table.php' => database_path('migrations/'.date('Y_m_d_His').'_create_territory_table.php'),
         ], 'territory-migrations');
 
