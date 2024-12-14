@@ -3,3 +3,4 @@ vendor
 *.pem
 *.sql
 .phpunit.result.cache
+composer.lock
