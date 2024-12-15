@@ -11,7 +11,7 @@ trait DefaultConfigTrait
      */
     public function getConnectionName()
     {
-        return config('terrytory_id.connection', config('database.default'));
+        return config('territory_id.connection', config('database.default'));
     }
 
     /**

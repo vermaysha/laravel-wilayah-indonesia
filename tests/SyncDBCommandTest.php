@@ -29,7 +29,7 @@ class SyncDBCommandTest extends TestCase
     public function test_sync_is_working()
     {
         $this->artisan('territory:sync')->assertExitCode(0);
-        $db = DB::connection(config('terrytory_id.connection', config('database.default')));
+        $db = DB::connection(config('territory_id.connection', config('database.default')));
 
         $this->assertNotEmpty($db->table((new Province())->getTable())->count());
         $this->assertNotEmpty($db->table((new Regency())->getTable())->count());

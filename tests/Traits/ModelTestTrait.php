@@ -12,7 +12,7 @@ trait ModelTestTrait
 {
     protected function db()
     {
-        return DB::connection(config('terrytory_id.connection', config('database.default')));
+        return DB::connection(config('territory_id.connection', config('database.default')));
     }
 
     /**

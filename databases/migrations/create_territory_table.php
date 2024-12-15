@@ -22,7 +22,7 @@ return new class extends Migration
      */
     public function nameColumn(Blueprint &$table, string $name)
     {
-        $connection = config('terrytory_id.connection', config('database.default'));
+        $connection = config('territory_id.connection', config('database.default'));
         $driverName = DB::connection($connection)->getDriverName();
 
         if ($driverName === 'pgsql' || $driverName === 'mysql') {
@@ -53,7 +53,7 @@ return new class extends Migration
      */
     public function up()
     {
-        $connection = config('terrytory_id.connection', config('database.default'));
+        $connection = config('territory_id.connection', config('database.default'));
         $schema = Schema::connection($connection);
 
         $this->down();
@@ -155,7 +155,7 @@ return new class extends Migration
      */
     public function down()
     {
-        $connection = config('terrytory_id.connection', config('database.default'));
+        $connection = config('territory_id.connection', config('database.default'));
         $schema = Schema::connection($connection);
 
         $schema->dropIfExists((new Village)->getTable());
