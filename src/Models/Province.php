@@ -26,7 +26,7 @@ class Province extends Model
      */
     public function getTable(): string
     {
-        return config('territory.table_names.provinces', 'id_provinces');
+        return config('territory_id.table_names.provinces', 'id_provinces');
     }
 
     /**

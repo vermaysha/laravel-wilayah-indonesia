@@ -25,8 +25,8 @@ class TerritoryService
     public function __construct(CacheManager $cacheManager)
     {
         $this->cache = $this->getCacheStoreFromConfig($cacheManager);
-        $this->cachePrefix = config('territory.cache.prefix', 'territory');
-        $this->cacheExpiration = config('territory.cache.expiration_time', \DateInterval::createFromDateString('7 days'));
+        $this->cachePrefix = config('territory_id.cache.prefix', 'territory');
+        $this->cacheExpiration = config('territory_id.cache.expiration_time', \DateInterval::createFromDateString('7 days'));
     }
 
     /**

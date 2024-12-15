@@ -25,7 +25,7 @@ class Village extends Model
      */
     public function getTable(): string
     {
-        return config('territory.table_names.villages', 'id_villages');
+        return config('territory_id.table_names.villages', 'id_villages');
     }
 
     /**

@@ -283,7 +283,7 @@ class SyncDBCommand extends Command
      */
     protected function db()
     {
-        return DB::connection(config('territory.connection'));
+        return DB::connection(config('territory_id.connection'));
     }
 
     /**

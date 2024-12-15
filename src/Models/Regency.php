@@ -27,7 +27,7 @@ class Regency extends Model
      */
     public function getTable(): string
     {
-        return config('territory.table_names.regencies', 'id_regencies');
+        return config('territory_id.table_names.regencies', 'id_regencies');
     }
 
     /**

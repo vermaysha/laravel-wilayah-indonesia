@@ -26,7 +26,7 @@ class District extends Model
      */
     public function getTable(): string
     {
-        return config('territory.table_names.districts', 'id_districts');
+        return config('territory_id.table_names.districts', 'id_districts');
     }
 
     /**
