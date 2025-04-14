@@ -1,6 +1,6 @@
 {
     "name": "vermaysha/laravel-wilayah-indonesia",
-    "version": "0.0.0",
+    "version": "2.2.0",
     "description": "Data Wilayah Administrasi Indonesia yang disusun ulang berdasarkan Provinsi, Kabupaten, Kecamatan dan Desa",
     "keywords": [
         "vermaysha",
